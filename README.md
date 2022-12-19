@@ -39,4 +39,4 @@ python server.py
 # Cache and secrets folder layout
 
 - `$HOME/ellisrecipes`
-    - `secret-key.txt` &mdash; automatically generated on the startup of the server, see `/elliscodedotcom/settings.py`
+    - `secret-key.txt` &mdash; automatically generated on the startup of the server, see `/ellisrecipes/settings.py`
