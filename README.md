@@ -38,5 +38,5 @@ python server.py
 
 # Cache and secrets folder layout
 
-- `$HOME/elliscode`
+- `$HOME/ellisrecipes`
     - `secret-key.txt` &mdash; automatically generated on the startup of the server, see `/elliscodedotcom/settings.py`
