@@ -41,13 +41,15 @@ def index(request):
     #     with open(file_path, 'w') as f:
     #         for line in markdown:
     #             if not hasattr(line, 'type'):
+    #                 f.write('\n')
     #                 for li in line:
     #                     f.write(li.prefix)
     #                     f.write(li.content)
     #                     f.write('\n')
+    #                 f.write('\n')
     #             else:
     #                 f.write(line.prefix)
     #                 f.write(line.content)
-    #                 f.write('\n')
-    
+    #                 f.write('\n\n')
+
     return render(request, 'home/index.html', context={'recipes': markdowns, })
