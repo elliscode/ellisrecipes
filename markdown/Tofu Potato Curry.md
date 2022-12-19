@@ -1,4 +1,5 @@
 # Tofu Potato Curry
+
 ## Ingredients
 - 16 oz extra firm tofu (pressed to remove excess liquid)
 - 1 TBSP oil
@@ -16,6 +17,7 @@
 - 3 scallions (chopped)
 - 2 TBSP cilantro (chopped)
 - Salt to taste
+
 ## Instructions
 - Cut the tofu block into largish slabs-about 2 inches square. I like keeping the pieces large when I pan-fry the tofu for ease. Heat two tsp of red palm oil or coconut oil in a wide, non-stick saucepan or a cast iron skillet large enough to hold the curry. Add the tofu slabs to the pan and fry each side until they develop a nice, golden crust. Remove the tofu cubes and place in a plate lined with a paper towel. When cool enough, cut each slab into smaller cubes.
 - Heat the remaining tsp of red palm oil or coconut oil in the same saucepan or skillet. Add the onions, add salt and pepper, and saute until soft but not brown. Add garlic to the pot and saute another minute.
@@ -26,6 +28,9 @@
 - Turn off heat and garnish with cilantro and scallions, or both.
 
 Servings: 4
+
 Category: Meals
+
 Link: https://holycowvegan.net/vegan-jamaican-curry-with-tofu-and-potatoes/
+
 Tags: Vegan

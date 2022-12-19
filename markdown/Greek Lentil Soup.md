@@ -1,4 +1,5 @@
 # Greek Lentil Soup
+
 ## Ingredients
 - 1 TBSP Extra virgin olive oil
 - 1 large onion, chopped
@@ -16,6 +17,7 @@
 - 400 g red lentils
 - Zest of 1 lemon
 - Juice of 1 lemon
+
 ## Directions
 - heat olive oil over medium heat in large pot
 - saute onion and carrot for 5 minutes
@@ -26,6 +28,9 @@
 - add lemon juice and zest and stir
 
 Servings: 4
+
 Category: Soups
+
 Link: https://www.themediterraneandish.com/red-lentil-soup-recipe/
+
 Tags: Vegan

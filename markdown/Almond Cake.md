@@ -1,4 +1,5 @@
 # Almond Cake
+
 ## Ingredients
 - 2 sticks butter
 - 400 g sugar
@@ -11,6 +12,7 @@
 - 1 TBSP baking powder
 - 1.5 tsp baking soda
 - 1/2 tsp salt
+
 ## Directions
 - Preheat your oven to 325 degrees Fahrenheit and grease and flour two 9-inch round cake pans or three 8-inch round cake pans, lining the bottoms with parchment paper rounds for easy release.
 - In the bowl of your stand mixer whip the butter on medium high speed until very smooth. Add the sugar and mix on high speed until fluffy and creamy. The sugar will start to dissolve into the butter a little bit during this creaming process, so you should be able to feel the grains of sugar getting smaller.
@@ -25,6 +27,9 @@
 - Once the cakes are cool, store them wrapped in plastic wrap in the fridge until ready to frost. They should be refrigerated for at least 1 hour before frosting.
 
 Servings: 12
+
 Category: Desserts
+
 Link: https://thebusybaker.ca/best-ever-almond-cream-cake/
+
 Tags: Vegetarian

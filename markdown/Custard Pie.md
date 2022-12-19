@@ -1,4 +1,5 @@
 # Custard Pie
+
 ## Ingredients
 - 1 pie crust, bottom only
 - 340 g milk
@@ -8,6 +9,7 @@
 - 131 g sugar
 - 1 TBSP vanilla extract
 - 1/4 tsp ground nutmeg
+
 ## Directions
 - Start by combining the milk, cream, and salt in a medium-sized saucepan or microwave-safe bowl. Heat the mixture until small bubbles form around the edges, and steam starts to wisp from the surface; this is how you "scald" milk, if you've ever seen that technique mentioned.
 - In a separate bowl, whisk together the eggs and sugar. Pour 1/4 of the hot milk/cream over the egg mixture, stirring well. Pour the egg mixture into the remaining hot milk/cream, stirring well. Pour the custard through a sieve, to strain out any possible bits of cooked egg. Stir in the vanilla extract.
@@ -17,6 +19,9 @@
 - Store any leftovers in the refrigerator for several days.
 
 Servings: 8
+
 Category: Desserts
+
 Link: https://www.kingarthurbaking.com/recipes/custard-pie-recipe
+
 Tags: Vegetarian

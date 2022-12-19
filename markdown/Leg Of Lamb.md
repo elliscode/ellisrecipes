@@ -1,4 +1,5 @@
 # Leg Of Lamb
+
 ## Ingredients
 - 12 cloves of garlic, peeled
 - 7 lb / 3.5 kg leg of lamb (Note 1)
@@ -14,6 +15,7 @@
 - 1/2 cup / 125 ml lemon juice (2 - 3 lemons), plus more to taste
 - 1.5 cups / 375 ml white wine (or sub with chicken broth/stock, low salt)
 - 2 cups / 500 ml chicken broth (liquid chicken stock)
+
 ## Instructions
 - Preheat oven to 240C/465F (220C fan). (Note 2)
 - Use a small knife to make around 25 incisions all over the lamb, with most on the top.
@@ -29,6 +31,7 @@
 - Remove from the oven and transfer lamb to serving platter. Cover loosely with foil and rest for 30 - 40 minutes.
 - Strain liquid into a clear jug. The fat will rise to the top. Scoop/pour most of it off - I get 3/4 - 1 cup. There should be 2 - 3 cups of Sauce left. Adjust salt, pepper and lemon to taste.
 - Serve lamb with the Sauce on the side and Truly Crunchy Roast Potatoes (heat oil while lamb is in the oven, then cook potatoes when the lamb is resting).
+
 ## Recipe Notes:
 - 1 I used a full leg of lamb which is too long for most roasting trays. If you buy it from a supermarket, typically the shaft (bone) will be cut so it bends so it can fit into the pan. If you purchase it from a butcher, ask them to do this for you because you need the roast to fit flat in a roasting pan so it can lie submerged in the braising liquid.
 - 2 Or as high as your oven goes if it can't go this high.
@@ -37,6 +40,9 @@
 - 4 Adapted from this Slow Roasted Leg of Lamb by Kalofagas.
 
 Servings: 16
+
 Category: Meals
+
 Link: https://www.recipetineats.com/greek-slow-roasted-leg-of-lamb/#wprm-recipe-container-20886
+
 Tags: Lamb, Meat

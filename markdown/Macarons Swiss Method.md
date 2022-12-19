@@ -1,10 +1,12 @@
 # Macarons Swiss Method
+
 ## Ingredients
 - 150 g white granulated sugar
 - 6 g egg white powder
 - 150 g egg whites
 - 150 g almond flour
 - 150 g powdered sugar
+
 ## Instructions
 - preheat oven to 285F convection
 - in a small bowl, combine the 150 g granulated sugar and the 6g egg white powder with a whisk
@@ -22,6 +24,9 @@
 - bake for 20 minutes on the bottom and middle racks of the oven
 
 Servings: 6
+
 Category: Desserts
+
 Link: https://www.piesandtacos.com/swiss-meringue-macaron-recipe/#wprm-recipe-container-19080
+
 Tags: Vegetarian

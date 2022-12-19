@@ -1,4 +1,5 @@
 # Banana Bread
+
 ## Ingredients
 - 1 stick butter
 - 3 ripe bananas
@@ -10,6 +11,7 @@
 - 1/2 tsp salt
 - 1/2 tsp cinnamon
 - 112 g chocolate chips
+
 ## Directions
 - preheat oven to 350 degrees
 - Spray a loaf pan with flour baking spray
@@ -22,6 +24,9 @@
 - Pour into the loaf pan and bake for 50 minutes
 
 Servings: 12
+
 Category: Desserts
+
 Link: https://thesaltymarshmallow.com/best-banana-bread-recipe/
+
 Tags: Vegetarian

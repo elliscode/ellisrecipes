@@ -1,4 +1,5 @@
 # Lemon Couscous
+
 ## Ingredients
 - 8 oz water
 - 8 g better than bouillon NO chicken
@@ -9,6 +10,7 @@
 - 15 g pine nuts
 - 2 tsp dried parsley
 - 186 g couscous
+
 ## Directions
 - add everything but couscous to a small pot
 - bring to a boil
@@ -17,6 +19,9 @@
 - fluff and serve
 
 Servings: 2
+
 Category: Meals
+
 Link: https://www.allrecipes.com/recipe/242232/lemon-couscous/
+
 Tags: Vegan

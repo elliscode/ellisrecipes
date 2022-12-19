@@ -1,4 +1,5 @@
 # White Bean Soup
+
 ## Ingredients
 - 1 TBSP olive oil
 - 1 onion, chopped
@@ -12,6 +13,7 @@
 - 3 TBSP tomato paste
 - 1/4 tsp dried thyme
 - 1/2 tsp salt
+
 ## Directions
 - in a large pot, saute onion in butter
 - add celery, carrots, and spinach and saute until spinach is cooked down
@@ -20,5 +22,7 @@
 - reduce heat to a simmer, then simmer for 10 mins
 
 Servings: 4
+
 Category: Soups
+
 Tags: Vegan

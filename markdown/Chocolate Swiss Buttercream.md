@@ -1,4 +1,5 @@
 # Chocolate Swiss Buttercream
+
 ## Ingredients
 - 6 oz egg whites (2/3 cup; 170 g), from 5 to 6 large eggs
 - 11 oz toasted sugar, Belgian cassonade, or light brown sugar (about 1.6667 cups; 310 g); see note
@@ -8,6 +9,7 @@
 - 1 tsp (5 g) vanilla extract (plus more if needed)
 - 8 to 14 oz finely chopped dark chocolate, between 70 and 77% cocoa solids (about 1 1/3 to 2.3333 cups; 225 to 395 g)
 - 1 tsp instant espresso powder (optional), dissolved in a few drops of hot water
+
 ## Directions
 - Fill a wide pot with at least 1 1/2 inches water, with a thick ring of crumpled tinfoil placed on the bottom to act as a "booster seat" that will prevent the bowl from touching the bottom of the pot. Place over high heat until steaming-hot, then adjust temperature to maintain a gentle simmer. Combine egg whites, sugar, salt, and cream of tartar in the bowl of a stand mixer. Set over steaming water, stirring and scraping constantly with a flexible spatula, until egg whites hold steady at 185F (85C). This should take only 10 to 12 minutes, so if the mixture seems to be moving slowly, simply turn up the heat. Once ready, transfer to a stand mixer fitted with a whisk attachment and whip at high speed for about 10 minutes, until meringue is glossy, stiff, and cool to the touch, around 90F (32C).
 - With mixer still running, add butter, 1 or 2 TBSP at a time. Initially, the volume of the meringue will decrease dramatically; it may even seem soupy along the way, but as the cool butter is added, the mixture will begin to thicken and cool. In the end, the buttercream should be thick, creamy, and soft but not runny, around 72F (22C). Mix in vanilla extract on low speed until well combined.
@@ -16,6 +18,9 @@
 - Troubleshooting: If warmer than 76F (24C), the buttercream will be soft and loose; pop it in the fridge for 15 minutes and re-whip to help it thicken and cool. If colder than 70F (21C), the buttercream will be firm and dense, making it difficult to spread over cakes and slow to melt on the tongue, creating a greasy mouthfeel. To warm, briefly set over a pan of steaming water, just until you see the edges melting slightly, then re-whip to homogenize. Full troubleshooting guide and video here.
 
 Servings: 4
+
 Category: Desserts
+
 Link: https://www.seriouseats.com/chocolate-swiss-buttercream
+
 Tags: vegetarian

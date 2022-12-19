@@ -1,4 +1,5 @@
 # Red Beans And Rice
+
 ## Ingredients
 - 1 tsp olive oil
 - 1 red bell pepper, stemmed, seeded and diced
@@ -12,6 +13,7 @@
 - 1/2 tsp pepper
 - 400 g Basmati rice unrinsed
 - 15 oz pinto beans, drained and rinsed
+
 ## Directions
 - add 1 tsp olive oil to a large pot and heat over medium heat
 - saute onion and bell pepper until starting to brown
@@ -23,6 +25,9 @@
 - Cover and let sit for 10 minutes
 
 Servings: 2
+
 Category: Meals
+
 Link: https://www.betterthanbouillon.com/recipes/mexican-inspired-pinto-beans-and-rice/
+
 Tags: Vegan

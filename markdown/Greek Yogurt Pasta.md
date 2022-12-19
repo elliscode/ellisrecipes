@@ -1,4 +1,5 @@
 # Greek Yogurt Pasta
+
 ## Ingredients
 - 1 pound pasta Fettuccine or macaroni
 - 2 TBSP unsalted butter
@@ -8,6 +9,7 @@
 - 40 oz Freshly grated parmesan cheese
 - 1 tsp parsley
 - 1/2 tsp Kosher salt and black pepper
+
 ## Instructions
 - Cook pasta according to directions on package, depending on type of pasta. Make sure to add salt to the water for best results.
 - Drain pasta, but do not rinse! Reserve some pasta cooking water.
@@ -18,6 +20,9 @@
 - Serve with grated cheese and fresh parsley or chives.
 
 Servings: 4
+
 Category: Meals
+
 Link: https://whatagirleats.com/greek-pasta-with-yogurt-garlic-and-butter/
+
 Tags: vegetarian

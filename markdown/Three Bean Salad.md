@@ -1,4 +1,5 @@
 # Three Bean Salad
+
 ## Ingredients
 - 15 oz can cannellini beans, rinsed and drained
 - 15 oz can kidney beans, rinsed and drained
@@ -12,6 +13,7 @@
 - 3 TBSP olive oil
 - 1.5 tsp salt
 - 1/4 tsp black peoper
+
 ## Directions
 - in a large bowl, mix the beans, onion, and celery
 - in a small bowl, mix all the other ingredients and whisk together until combined
@@ -19,6 +21,9 @@
 - chill salad in fridge for a few hours to let flavors combine, toss before serving
 
 Servings: 6
+
 Category: Sides
+
 Link: https://www.simplyrecipes.com/recipes/three_bean_salad/
+
 Tags: Vegan

@@ -1,4 +1,5 @@
 # Refried Beans
+
 ## Ingredients
 - 2 TBSP canola oil
 - 2 garlic cloves, peeled
@@ -8,6 +9,7 @@
 - 1/2 tsp
 - 1/2 lime, juiced
 - water as needed
+
 ## Directions
 - Heat canola oil in a heavy skillet over medium heat.
 - Cook garlic cloves in hot oil, turning once, until brown on both sides, 4 to 5 minutes. Smash garlic cloves in the skillet with fork.
@@ -15,6 +17,9 @@
 - Smash bean mixture with a potato masher to desired texture. Squeeze lime juice over smashed beans and stir until combined.
 
 Servings: 6
+
 Category: Sides
+
 Link: https://www.allrecipes.com/recipe/220642/quick-and-easy-refried-beans/
+
 Tags: Mexican, vegan

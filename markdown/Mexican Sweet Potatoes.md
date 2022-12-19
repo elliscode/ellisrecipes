@@ -1,4 +1,5 @@
 # Mexican Sweet Potatoes
+
 ## Ingredients
 - 300 g sweet potatoes, peeled and chopped
 - 227 g frozen corn
@@ -11,6 +12,7 @@
 - 1 TBSP Mexican seasoning blend
 - 1 tsp cumin
 - 1 tsp salt
+
 ## Directions
 - preheat oven to 425F
 - combine all vegetables, oil, and spices in a big bowl and toss to coat
@@ -18,6 +20,9 @@
 - cook for 45 minutes
 
 Servings: 4
+
 Category: Meals
+
 Link: https://sweetpeasandsaffron.com/mix-match-meal-prep-burrito-bowls/
+
 Tags: Mexican, Vegan

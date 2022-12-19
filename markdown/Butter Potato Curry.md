@@ -1,4 +1,5 @@
 # Butter Potato Curry
+
 ## Ingredients
 - 14 oz canned lentils
 - 5 TBSP butter
@@ -19,12 +20,16 @@
 - 1 tsp honey
 - 1/2 tsp salt
 - Juice of 1 lemon
+
 ## Directions
 - in large pot, saute potatoes in 1 TBSP butter for about 5 minutes, until they start to brown and get tender
 - add the cooked lentils and everything else but the lemon and bring to a boil, then reduce heat to a simmer
 - simmer for 20 minutes, then remove from heat and let sit for 10 mins, then mix in lemon juice
 
 Servings: 4
+
 Category: Meals
+
 Link: https://www.rabbitandwolves.com/vegan-butter-lentils-potatoes/
+
 Tags: Indian, Vegetarian

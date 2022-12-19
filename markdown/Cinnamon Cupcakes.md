@@ -1,5 +1,7 @@
 # Cinnamon Cupcakes
+
 Servings:
+
 ## Ingredients
 - 165 g all-purpose flour
 - 200 g sugar
@@ -11,6 +13,7 @@ Servings:
 - 56 g vegetable oil
 - 1 tsp vanilla extract (12 g)
 - 1 large egg, room temp
+
 ## Directions
 - Begin by preheating oven to 350F / 175C, and place cupcake liners in baking pans.
 - Add 1.25 cups all-purpose flour, 1 cup sugar, 1.5 tsp baking powder, 2 tsp cinnamon and 1/2 tsp salt into a large bowl and gently combine with a large spoon or whisk.
@@ -20,6 +23,9 @@ Servings:
 - Let the cupcakes cool for 10 minutes before moving them to a cooling rack to finish cooling. If you want to accelerate the cooling process, place the pan in the freezer for about 30 minutes.
 
 Servings: 1
+
 Category: Desserts
+
 Link: https://chelsweets.com/cinnamon-cupcake-recipe/
+
 Tags: vegetarian

@@ -1,4 +1,5 @@
 # Jerky
+
 ## Ingredients
 - 18 g soy sauce
 - 18 g molasses
@@ -11,6 +12,7 @@
 - 8 oz boiling water
 - 160 g soy curls
 - 72 g bbq sauce
+
 ## Directions
 - preheat oven to 225F convection
 - line baking sheet with tin foil and place cooling rack on top
@@ -20,6 +22,9 @@
 - bake for an additional 10 minutes
 
 Servings: 4
+
 Category: Snacks
+
 Link: https://thehiddenveggies.com/vegan-jerky-easy-gluten-free/
+
 Tags: Vegan

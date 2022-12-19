@@ -1,4 +1,5 @@
 # Tortellini En Brodo
+
 ## Ingredients
 - 1 tsp butter
 - 1 stalks of celery, chopped
@@ -13,6 +14,7 @@
 - 1/4 tsp salt
 - 1/8 tsp garlic powder
 - 50 g baby spinach
+
 ## Directions
 - Heat butter in saucepan over low heat
 - saute onion, carrot, celery, and spinach on low for about 10 mins
@@ -20,6 +22,9 @@
 - Add the tortellini and keep over low heat for 4 mins
 
 Servings: 2
+
 Category: Soups
+
 Link: https://www.skinnytaste.com/spinach-tortellini-en-brodo/
+
 Tags: Italian, Vegetarian

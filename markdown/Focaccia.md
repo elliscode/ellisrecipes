@@ -1,4 +1,5 @@
 # Focaccia
+
 ## INGREDIENTS
 - 472 g all-purpose flour
 - 39 g vital wheat gluten
@@ -6,6 +7,7 @@
 - 10 g kosher salt
 - 455 g 110F water
 - olive oil
+
 ## INSTRUCTIONS
 - combine flour, gluten, and yeast in a large bowl and whisk to combine
 - add water and mix with rubber spatula until dough ball forms
@@ -18,6 +20,9 @@
 - Transfer the pans to the oven and bake for 25 to 30 minutes, until the underside is golden and crisp. Remove the pans from the oven and transfer the focaccia to cooling racks. Let it cool for 10 minutes before cutting and serving; let it cool completely if you are halving it with the intention of making a sandwich.
 
 Servings: 2
+
 Category: Sides
+
 Link: https://alexandracooks.com/2018/03/02/overnight-refrigerator-focaccia-best-focaccia/
+
 Tags: Italian, Vegan

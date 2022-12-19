@@ -1,4 +1,5 @@
 # Chicken Salad
+
 ## Ingredients
 - 5 slices bacon
 - 3 cups diced cooked chicken
@@ -12,6 +13,7 @@
 - salt and ground black pepper to taste
 - 12 leaves romaine lettuce
 - 1 large avocado, sliced
+
 ## Directions
 - Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain bacon slices on paper towels; crumble.
 - Stir chicken, bacon, tomato, and celery together in a bowl.
@@ -19,6 +21,9 @@
 - Stir chicken mixture and serve over romaine lettuce leaves; garnish with avocado slices.
 
 Servings: 4
+
 Category: Meals
+
 Link: https://www.allrecipes.com/recipe/16466/chicken-salad-with-bacon-lettuce-and-tomato/
+
 Tags: Meat

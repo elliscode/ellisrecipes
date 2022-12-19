@@ -1,4 +1,5 @@
 # Eggplant Parmesan
+
 ## Ingredients
 - 2 eggplant, peeled and cut into 1/2-inch slices
 - 1 TBSP salt, or as needed
@@ -9,6 +10,7 @@
 - 1/4 cup grated Parmesan cheese
 - 2 oz shredded mozzarella cheese
 - 1/2 tsp dried basil
+
 ## Directions
 - Place eggplant slices in a colander; sprinkle both sides of each slice with salt. Allow to sit for at least 3 hours. Wipe excess moisture from eggplant slices with paper towels.
 - Preheat oven to 350F convection.
@@ -20,6 +22,9 @@
 - Bake in the preheated oven until cheese is bubbling and golden brown, about 35 minutes.
 
 Servings: 6
+
 Category: Meals
+
 Link: https://www.allrecipes.com/recipe/229369/baked-eggplant-parmesan/
+
 Tags: Italian, Vegetarian

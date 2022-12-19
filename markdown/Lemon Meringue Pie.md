@@ -1,4 +1,5 @@
 # Lemon Meringue Pie
+
 ## INGREDIENTS
 - Homemade Pie Crust
 - 5 large egg yolks (use the whites in the meringue below)
@@ -9,11 +10,13 @@
 - 1/2 cup (120 ml) fresh lemon juice
 - 1 TBSP lemon zest
 - 2 TBSP (28 g) unsalted butter, softened to room temperature
+
 Meringue
 - 5 large egg whites
 - 1/2 tsp cream of tartar
 - 1/2 cup (100 g) granulated sugar
 - 1/8 tsp salt
+
 ## INSTRUCTIONS
 - Preheat oven to 375F (190C) and adjust your oven rack to the lowest position. Partially blind bake your pie crust in a 9-inch pie dish. (Follow blind baking instructions through step 9.) Tip: You can get started on the lemon meringue pie filling steps while your crust is blind baking. But making the filling is time sensitive because you will temper the egg yolks, so if multi-tasking isnt your thing, just wait until your crust is done blind baking before beginning the filling.
 - Reduce oven temperature to 350F (177C).
@@ -25,6 +28,9 @@ Meringue
 - Cover any leftovers and store in the refrigerator. Lemon meringue pie tastes best on day 1 because it doesnt keep very well. No matter how hard you try to prevent it, the meringue will wilt and separate over time. Best to enjoy right away.
 
 Servings: 8
+
 Category: Desserts
+
 Link: https://sallysbakingaddiction.com/lemon-meringue-pie/print/66954/
+
 Tags: Vegetarian

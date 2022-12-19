@@ -1,5 +1,7 @@
 # Snickerdoodle Cookies
+
 ## Ingredients
+
 ### Dough
 - 1/2 cup butter, softened
 - 200 g white sugar
@@ -8,9 +10,11 @@
 - 180 g all-purpose flour
 - 1/4 tsp baking soda
 - 1/4 tsp cream of tartar
+
 ### Cinnamon Sugar Coating
 - 1 tsp ground cinnamon
 - 25 g sugar
+
 ## Directions
 - preheat oven to 375F
 - Beat butter in stand mixer on high speed until light and fluffy
@@ -22,6 +26,9 @@
 - Bake on top rack one sheet at s time until light brown, 11 minutes 30 seconds. Remove from pans to wire racks to cool.
 
 Servings: 16
+
 Category: Desserts
+
 Link: https://www.tasteofhome.com/recipes/snickerdoodles/
+
 Tags: Vegetarian

@@ -1,10 +1,12 @@
 # Tofu Taco Meat
+
 ## Ingredients
 - 1 block tofu
 - 8 g oil
 - 1 TBSP (14 g) oil
 - 1 packet taco seasoning
 - 1/2 tsp Goya adobo
+
 ## Directions
 - press tofu
 - tear tofu apart with gloves hands
@@ -14,5 +16,7 @@
 - add taco seasoning and adobo and cook until thickened
 
 Servings: 4
+
 Category: Meals
+
 Tags: Mexican, Vegan

@@ -1,11 +1,14 @@
 # Blackened Salmon
+
 ## Equipment
 - Sous vide
 - skillet
+
 ## Ingredients
 - 2 frozen salmon fillet
 - butter
 - old bay
+
 ## Directions
 - fill a large pot with hot water
 - add sous vide and set temperature to 125F
@@ -17,5 +20,7 @@
 - carefully remove salmon with spatula to avoid losing blackened meat to pan
 
 Servings: 2
+
 Category: Meals
+
 Tags: Meat, Seafood

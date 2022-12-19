@@ -1,4 +1,5 @@
 # Potato Soup
+
 ## Ingredients
 - 1 TBSP olive oil
 - 1 white onion
@@ -11,6 +12,7 @@
 - 1/2 tsp dried thyme
 - 1 tsp salt
 - Black Pepper
+
 ## Directions
 - saute onions in butter
 - add everything else to pot and bring to a boil
@@ -18,6 +20,9 @@
 - blend with immersion blender
 
 Servings: 4
+
 Category: Soups
+
 Link: https://lovingitvegan.com/creamy-vegan-potato-soup/
+
 Tags: Vegan

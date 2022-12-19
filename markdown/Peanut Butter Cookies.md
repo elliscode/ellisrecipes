@@ -1,4 +1,5 @@
 # Peanut Butter Cookies
+
 ## Ingredients
 - 264 g peanut butter
 - 1 stick butter
@@ -10,6 +11,7 @@
 - 150 g all purpose flour
 - 3/4 tsp baking powder
 - 1/4 tsp salt
+
 ## Directions
 - Preheat oven to 350F convection
 - In the mixer bowl, cream together the peanut butter, butter, sugar, and brown sugar
@@ -22,6 +24,9 @@
 - Remove from oven and let cook for 20 minutes
 
 Servings: 20
+
 Category: Desserts
+
 Link: https://www.allrecipes.com/recipe/11024/joeys-peanut-butter-cookies/
+
 Tags: Vegetarian

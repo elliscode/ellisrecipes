@@ -1,4 +1,5 @@
 # Freeze Dried Frosting
+
 ## Ingredients
 - 20 oz sugar
 - 12.6 gr Meringue powder optional, adds extra stability
@@ -7,6 +8,7 @@
 - 7 oz Shortening
 - 1 TBSP vanilla bean paste
 - 1.25 oz package freeze-dried raspberries, powdered in a spice grinder
+
 ## Instructions
 - Measure all ingredients.
 - Pulverize to a powder all freeze dried raspberries using a spice/coffee grinder. Be sure it's cleaned well if used for spices or coffee or it may impart those flavors into your fruit.
@@ -18,6 +20,9 @@
 - Beat till fully incorporated and light in color
 
 Servings: 8
+
 Category: Desserts
+
 Link: https://www.karascouturecakes.com/real-raspberry-swiss-meringue-buttercream/
+
 Tags: vegetarian

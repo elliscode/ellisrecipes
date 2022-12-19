@@ -1,4 +1,5 @@
 # Chickpea Nuggets
+
 ## Ingredients
 - 1/2 cup oats
 - 1 can chickpeas, saving liquid
@@ -6,6 +7,7 @@
 - 1/4 tsp garlic powder
 - 1 tsp minced onions
 - 3 tsp bouillon NO chicken
+
 ## Directions
 - preheat oven to 375F convection
 - spray a piece of tin foil with cooking spray
@@ -16,6 +18,9 @@
 - slide onto pizza steel and bake for 16 min, flipping halfway through
 
 Servings: 12
+
 Category: Meals
+
 Link: https://www.thekitchn.com/recipe-chickpea-nuggets-235880
+
 Tags: Vegan

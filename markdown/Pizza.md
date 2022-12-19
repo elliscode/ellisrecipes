@@ -1,8 +1,10 @@
 # Pizza
+
 ## Ingredients
 - 1/3 batch pizza dough
 - 250 g pizza sauce
 - 45 g mozzarella
+
 ## Directions
 - preheat oven to 500F convection
 - sprinkle cornmeal on pizza peel evenly
@@ -14,5 +16,7 @@
 - switch oven to broil, switch pizza to top rack, and broil for 1.5 min
 
 Servings: 8
+
 Category: Meals
+
 Tags: Italian, Vegetarian

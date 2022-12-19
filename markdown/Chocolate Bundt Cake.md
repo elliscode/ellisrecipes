@@ -1,4 +1,5 @@
 # Chocolate Bundt Cake
+
 ## Ingredients
 - 400 g sugar
 - 210 g flour
@@ -11,6 +12,7 @@
 - 1 cup milk
 - 112 g canola oil
 - 1 tsp vanilla extract
+
 ## Directions
 - preheat oven to 350F
 - spray the large Bundt pan with flour baking spray
@@ -21,6 +23,9 @@
 - turn pan upside down onto cooling rack to remove cake and let cool completely
 
 Servings: 12
+
 Category: Desserts
+
 Link: https://www.tasteofhome.com/recipes/contest-winning-moist-chocolate-cake/
+
 Tags: Vegetarian

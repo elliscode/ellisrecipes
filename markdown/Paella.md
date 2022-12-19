@@ -1,4 +1,5 @@
 # Paella
+
 ## Ingredients
 - 3 TBSP olive oil , divided
 - 4 cups vegetable broth , low sodium
@@ -14,9 +15,11 @@
 - Fresh cracked pepper , to taste
 - 2 sprigs fresh thyme (sub 1 tsp dried)
 - 3/4 cup frozen peas , thawed
+
 Garnish (Optional)
 - Lemon wedges
 - Fresh-cut parsley
+
 ## Instructions
 - Add vegetable broth in a medium saucepan over medium-high heat. Break up the saffron and add it to the broth. When it begins to simmer, give it 1 minute, and then lower the heat just to keep it warm.
 - Heat 2 TBSP of oil in a 12-inch Paella Pan (or something similarly sized) over medium heat. Once heated, and the onions and peppers. - Saute until softened and lightly browned, about 3-5 minutes.
@@ -29,6 +32,9 @@ Garnish (Optional)
 - Remove the pan from the heat. Add the peas to the top of the rice (don't mix in). Cover the pan with foil and let the paella rest for 5-8 minutes. Top with fresh-cut parsley, cracked pepper and side with lemon wedges to serve. Enjoy!
 
 Servings: 5
+
 Category: Meals
+
 Link: https://veganhuggs.com/vegetable-paella-recipe/
+
 Tags: Spanish, Vegan

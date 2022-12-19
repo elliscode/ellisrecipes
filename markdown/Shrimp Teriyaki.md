@@ -1,15 +1,18 @@
 # Shrimp Teriyaki
+
 ## Equipment
 - wok
 - sous vide
 - pot
 - vacuum sealer
+
 ## Ingredients
 - 1 lb frozen shrimp
 - 1 TBSP oil
 - 1 small broccoli crown, cut into pieces
 - 1 recipe teriyaki sauce
 - 1 recipe white jasmine rice
+
 ## Directions
 - set sous vide to 140F
 - seal frozen shrimps in two separate bags
@@ -21,5 +24,7 @@
 - serve over white rice
 
 Servings: 2
+
 Category: Meals
+
 Tags: Asian, Seafood, Shrimp

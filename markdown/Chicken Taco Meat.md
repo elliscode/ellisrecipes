@@ -1,6 +1,8 @@
 # Chicken Taco Meat
+
 ## Equipment
 - Dutch Oven
+
 ## Ingredients
 - 1.5-2 lb. boneless, skinless chicken thighs (see notes for breasts)
 - 2 TBSP extra-virgin olive oil plus more for skillet, if needed
@@ -12,6 +14,7 @@
 - 1/2 tsp black pepper
 - juice and zest of one lime
 - lime wedges and fresh cilantro for serving, optional
+
 ## Instructions
 - Mix the olive oil (2 TBSP), smoked paprika (1 TBSP), ground coriander (1 tsp), ground cumin (1 tsp), garlic powder (1 tsp), kosher salt (1 tsp), black pepper (1/2 tsp), and lime juice and zest (from one lime) in a small bowl or glass measuring cup.
 - Place the chicken thighs in a container, bowl, or large plastic bag. Pour the marinade on top (it will be thick) and or stir to coat each piece of chicken evenly (if in a bag, just smoosh it around until everything is evenly coated). Cover and refrigerate for at least 20 minutes, or as long as 24 hours.
@@ -21,6 +24,9 @@
 - Serve with a squeeze of fresh lime juice garnished with fresh cilantro, if desired. Use in enchiladas, on tacos or burritos, in bowls, or on its own as a main course.
 
 Servings: 6
+
 Category: Meals
+
 Link: https://www.bowlofdelicious.com/smoky-mexican-pulled-chicken/
+
 Tags: Mexican, chicken, meat

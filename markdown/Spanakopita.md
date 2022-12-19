@@ -1,4 +1,5 @@
 # Spanakopita
+
 ## Ingredients
 - 1 tsp olive oil
 - 1/2 cup diced onion
@@ -12,6 +13,7 @@
 - 1/4 tsp dried dill
 - 1 pack phyllo dough
 - 1/4 cup melted butter
+
 ## Directions
 - preheat oven to 400F with pizza steel on center rack
 - heat olive oil over medium heat and cook onions, then add spinach and cook
@@ -25,6 +27,9 @@
 - remove from oven and let cool for 15 minutes
 
 Servings: 6
+
 Category: Meals
+
 Link: https://www.lemonsforlulu.com/spanakopita-quick-and-easy/
+
 Tags: Greek, Vegetarian

@@ -1,4 +1,5 @@
 # Five Seed Bread
+
 ## Ingredients
 - 15 g sunflower seeds
 - 15 g pumpkin seeds
@@ -10,6 +11,7 @@
 - 400 g water 100F-110F
 - 500 g flour
 - 2 TBSP gluten
+
 ## Directions
 - toast seeds in a skillet on medium low heat, turning down the heat if they start to smoke, don't burn them
 - add roasted seeds and water to a large bowl
@@ -28,5 +30,7 @@
 - let cool for 15 mins before serving
 
 Servings: 4
+
 Category: Sides
+
 Tags: Bread, Vegan

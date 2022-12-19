@@ -1,4 +1,5 @@
 # Pie Crust
+
 ## Ingredients
 - 354 g AP flour
 - 1 tsp salt
@@ -6,6 +7,7 @@
 - 12 TBSP butter
 - 96 g vegetable shortening
 - 4 oz vodka
+
 ## Directions
 - spray a large pie tin with flour baking spray
 - add flour, salt, sugar, butter, and margarine to large pot
@@ -17,6 +19,9 @@
 - remove one piece of Saran Wrap, then place the naked side of the dough into the greased pie tin, remove the other piece of Saran Wrap
 
 Servings: 2
+
 Category: Desserts
+
 Link: https://www.seriouseats.com/cooks-illustrated-foolproof-pie-dough-recipe
+
 Tags: Vegetarian

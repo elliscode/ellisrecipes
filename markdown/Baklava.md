@@ -1,4 +1,5 @@
 # Baklava
+
 ## Ingredients
 - 8 oz chopped walnuts
 - 8 oz chopped almonds
@@ -10,6 +11,7 @@
 - 400 g water
 - 80 g honey
 - 1 cinnamon stick
+
 ## Directions
 - preheat oven to 300F convection
 - mix the walnuts, almonds, cinnamon, and cloves
@@ -27,6 +29,9 @@
 - let cool completely before serving
 
 Servings: 12
+
 Category: Desserts
+
 Link: https://www.mygreekdish.com/recipe/baklava-greek-walnut-pistachio-cake/
+
 Tags: Greek, Nuts, Vegetarian

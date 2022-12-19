@@ -1,4 +1,5 @@
 # Lentil Tacos
+
 ## Ingredients
 - 1 tsp canola oil
 - 1/2 onion, finely chopped
@@ -10,6 +11,9 @@
 - 2/3 cup salsa
 
 Servings: 4
+
 Category: Meals
+
 Link: https://www.allrecipes.com/recipe/222610/tasty-lentil-tacos/
+
 Tags: Mexican, vegan

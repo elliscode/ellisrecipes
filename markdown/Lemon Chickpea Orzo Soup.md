@@ -1,4 +1,5 @@
 # Lemon Chickpea Orzo Soup
+
 ## Ingredients
 - 1 TBSP olive oil
 - 1/2 onion, diced
@@ -13,6 +14,7 @@
 - 1/2 tsp dill
 - 1/2 tsp salt
 - fresh cracked pepper
+
 ## INSTRUCTIONS
 - Heat oil or water over medium heat, add onion and carrot, saute for about 5 - 7 minutes, add the garlic and saute for 1 minute more.
 - Add the broth or water, bring to a boil, add the orzo and chickpeas, reduce heat to medium-low and cook at a gentle boil for 8- 9 minutes, orzo should be tender.
@@ -20,6 +22,9 @@
 - Serve in individual bowl with your favorite crusty artisan bread for soaking up the wonderful juices.
 
 Servings: 4
+
 Category: Soups
+
 Link: https://simple-veganista.com/lemon-chickpea-orzo-soup/
+
 Tags: Greek, Vegan

@@ -1,4 +1,5 @@
 # Sweet Potato Pie
+
 ## Ingredients
 - 1 lb sweet potato
 - 1/2 cup butter, softened
@@ -9,6 +10,7 @@
 - 1/2 tsp ground cinnamon
 - 1 tsp vanilla extract
 - 1 unbaked pie crust
+
 ## Directions
 - Boil sweet potato whole in skin for 45 minutes
 - Run cold water over the sweet potato, and remove the skin.
@@ -19,6 +21,9 @@
 - reduce temperature to 350F for 45 minutes
 
 Servings: 8
+
 Category: Desserts
+
 Link: https://www.allrecipes.com/recipe/12142/sweet-potato-pie-i/
+
 Tags: Vegetarian

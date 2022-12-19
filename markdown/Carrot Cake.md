@@ -1,5 +1,7 @@
 # Carrot Cake
+
 ## Ingredients
+
 ### Carrot Cake
 - 312 g all-purpose flour
 - 2 tsp baking powder
@@ -17,6 +19,7 @@
 - 1 tsp pure vanilla extract
 - 260 g carrots, finely shredded
 - 228 g pecan halves
+
 ### Brown Butter Cream Cheese Frosting
 - 16 oz cream cheese, room temperature
 - 1 stick unsalted butter, browned on the stove
@@ -24,6 +27,7 @@
 - 1 TBSP heavy cream or milk
 - 1.5 tsp pure vanilla extract
 - pinch of salt
+
 ## Instructions
 - Preheat oven to 350F. Place pecans on a parchment-lined baking sheet in a single layer. Bake for 7 minutes, then chop with a pastry cutter. set aside
 - Shred whole carrots using a box grater or food processor using the smaller, finer holes. Make sure to shred at home because pre-shredded carrots are generally dried out, and we need the moisture of the freshly shredded carrots for the cake.
@@ -37,6 +41,9 @@
 - Using a long serrated knife, level off the tops of the cakes to create a flat surface. Add a spoonful of frosting to the center of your cake stand or serving plate to keep the cake in place. Place the first layer on the stand and add an even layer of frosting on top. Spread to cover the entire top surface. Repeat with the second and third layer. Spread remaining frosting over the sides of the cake. Decorate the cake with the rest of the toasted pecans. Refrigerate cake for at least 15-20 minutes to set before cutting. Store in a fridge to enjoy for up to 5 days. Don't leave it out overnight since the frosting has cream cheese in it.
 
 Servings: 12
+
 Category: Desserts
+
 Link: https://murmursofricotta.com/carrot-cake/
+
 Tags: Nuts, Vegetarian

@@ -1,4 +1,5 @@
 # Chili
+
 ## Ingredients
 - 2 TBSP olive oil
 - 1 medium red onion, chopped
@@ -18,6 +19,7 @@
 - 16 g better than bouillon no beef
 - 1 bay leaf
 - 1 tsp lime juice, to taste
+
 ## Directions
 - in a large pot, heat olive oil over medium low heat. Add onions, bell pepper, carrots, and celery, and cook until vegetables start to become tender, about 5 min
 - add everything else except the lime juice and bring to a boil
@@ -26,6 +28,9 @@
 - add lime juice and let cool before serving
 
 Servings: 4
+
 Category: Meals
+
 Link: https://cookieandkate.com/vegetarian-chili-recipe/
+
 Tags: Vegan

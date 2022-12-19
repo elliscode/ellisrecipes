@@ -1,6 +1,9 @@
 # Triple Berry Pie
+
 ## Notes
+
 Buy 18 oz of each type of berry
+
 ## Ingredients
 - 7 cups fresh or frozen raspberries, blueberries and blackberries about 2.3333 cups of each type of berry*
 - 1 cup granulated sugar (plus a little extra to sprinkle on top of the pie)
@@ -8,6 +11,7 @@ Buy 18 oz of each type of berry
 - 4 TBSP cornstarch
 - 2 TBSP butter
 - 1 large egg white beaten with a fork
+
 ## Instructions
 - Cook berries: Add berries, sugar and lemon juice to a large saucepan over medium heat.
 - Simmer, until warm and juicy, about 5-10 minutes, gently stirring occasionally. (You can taste it at this point and see if it's sweet enough for your liking. I don't like to make mine too sweet, but if you want it sweeter you can add 1/4 cup more sugar.)
@@ -18,6 +22,9 @@ Buy 18 oz of each type of berry
 - Pinch the edges of the top and bottom pie crusts together and crimp the edge, if you like. Brush a thin layer of beaten egg white over the top of the pie and sprinkle lightly with sugar.
 
 Servings: 8
+
 Category: Desserts
+
 Link: https://tastesbetterfromscratch.com/triple-berry-pie/
+
 Tags: Vegetarian

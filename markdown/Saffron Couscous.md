@@ -1,4 +1,5 @@
 # Saffron Couscous
+
 ## Ingredients
 - 1 onion
 - 1 TBSP butter
@@ -10,6 +11,7 @@
 - 1 pack Goya sazon con azafron
 - 1/2 tsp salt
 - 186 g instant couscous
+
 ## Directions
 - saute onion in butter
 - add everything but couscous to a pot
@@ -19,6 +21,9 @@
 - fluff and serve
 
 Servings: 4
+
 Category: Meals
+
 Link: https://www.errenskitchen.com/moroccan-spiced-vegetable-couscous/
+
 Tags: Vegan

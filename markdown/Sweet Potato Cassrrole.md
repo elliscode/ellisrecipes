@@ -1,5 +1,7 @@
 # Sweet Potato Cassrrole
+
 ## Ingredients
+
 ### Sweet Potatoes:
 - 2.5 pounds sweet potatoes, peeled and cubed
 - salt
@@ -12,11 +14,13 @@
 - 1/2 tsp salt
 - 1 pinch ground allspice
 - 1 pinch cayenne pepper
+
 ### Pistachio Crust:
 - 1/2 cup chopped roasted, salted pistachios
 - 1/2 cup light brown sugar
 - 1/3 cup all-purpose flour
 - 1/4 cup butter, melted
+
 ## Directions
 - Preheat oven to 350 degrees F. Grease a 2 1/2-quart baking dish with butter.
 - Step 2 Place sweet potato cubes into a large pot, cover with water, and add a large pinch of salt. Bring to a boil and cook until a knife is easily inserted into a sweet potato cube, about 10 minutes. Drain well. Return to the pot and mash 2 TBSP butter into sweet potatoes.
@@ -25,6 +29,9 @@
 - Step 5 Bake in the preheated oven until topping is browned and casserole is set, 25 to 30 minutes. If desired, place under oven's broiler for 5 minutes to give topping a little more brown color. Let rest to cool slightly before serving, about 10 minutes.
 
 Servings: 8
+
 Category: Sides
+
 Link: https://www.allrecipes.com/recipe/234805/chef-johns-sweet-potato-casserole/
+
 Tags: Thanksgiving, Vegetarian

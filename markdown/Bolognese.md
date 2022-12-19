@@ -1,4 +1,5 @@
 # Bolognese
+
 ## Ingredients
 - 1 medium onion, chopped
 - 1 celery stalk, chopped
@@ -15,6 +16,7 @@
 - 1 cup whole milk
 - 1 lb. fresh tagliatelle or pappardelle, or dry rigatoni
 - 2 oz. finely grated Parmesan (about 1/2 cup), plus more for serving
+
 ## Preparation
 - Pulse onion, celery, and carrot in a food processor until very finely chopped. Transfer to a small bowl.
 - Heat oil in a Dutch oven or other large pot over medium. Break beef into small clumps (about 1 1/2") and add to pot; season lightly with salt. Cook, stirring occasionally but not breaking meat apart, until beef is lightly browned but not crisp, 6-8 minutes. It may be gray in spots (that's okay!) and still a little pink in the center. Using a slotted spoon, transfer beef to a medium bowl.
@@ -24,9 +26,13 @@
 - Cook pasta in a large pot of boiling salted water. If using fresh pasta, cook about 3 minutes. If using dry, cook until very al dente, about 2 minutes less than package directions.
 - Using tongs, transfer pasta to pot with sauce. Add 1 cup pasta cooking liquid and 1/2 cup Parmesan. Increase heat to medium, bring to a simmer, and cook, tossing constantly, until pasta is al dente and liquid is slightly thickened, about 2 minutes.
 - Transfer pasta to a platter and top with more Parmesan.
+
 Do Ahead: Sauce can be made 4 days ahead. Cover and chill.
 
 Servings: 4
+
 Category: Dips And Sauces
+
 Link: https://www.bonappetit.com/recipe/bas-best-bolognese
+
 Tags: Italian, Meat

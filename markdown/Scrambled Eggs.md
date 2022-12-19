@@ -1,4 +1,5 @@
 # Scrambled Eggs
+
 ## Ingredients
 - 4 eggs
 - 50 g whole milk
@@ -7,5 +8,7 @@
 - fresh cracked black pepper
 
 Servings: 2
+
 Category: Meals
+
 Tags: breakfast, diner, vegetarian

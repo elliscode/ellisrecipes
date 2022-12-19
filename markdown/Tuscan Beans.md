@@ -1,4 +1,5 @@
 # Tuscan Beans
+
 ## Ingredients
 - 1 TBSP olive oil
 - 1/2 onion, diced
@@ -10,6 +11,7 @@
 - 1/2 tsp salt
 - 1/2 lemon's juice
 - Black Pepper
+
 ## Directions
 - heat oil in a nonstick pan over medium heat
 - add chopped onion and saute until browned
@@ -17,6 +19,9 @@
 - saute and stir until mostly all of the excess liquid has evaporated and all ingredients are heated all the way through
 
 Servings: 2
+
 Category: Meals
+
 Link: https://www.nourish-and-fete.com/tuscan-white-bean-skillet/
+
 Tags: Italian, Vegan

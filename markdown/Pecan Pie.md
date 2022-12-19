@@ -1,4 +1,5 @@
 # Pecan Pie
+
 ## Ingredients
 - 250 g pecans
 - 3 large eggs
@@ -8,6 +9,7 @@
 - 1/4 cup (60 g) unsalted butter, melted and slightly cooled
 - 1/2 tsp salt
 - 1/2 tsp ground cinnamon
+
 ## Directions
 - Preheat oven to 425F
 - Roughly chop half of the pecans, then add both the chopped and unchopped pecans to the prepared pie crust
@@ -16,6 +18,9 @@
 - Bake on bottom rack at 425F for 15 minutes, then lower to 350F fan for 45 minutes
 
 Servings: 8
+
 Category: Desserts
+
 Link: https://sallysbakingaddiction.com/my-favorite-pecan-pie-recipe/
+
 Tags: Vegetarian

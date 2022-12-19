@@ -1,4 +1,5 @@
 # Stuffing
+
 ## INGREDIENTS
 - 2 cups chopped onions
 - 1.5 cups thinly sliced celery
@@ -13,6 +14,7 @@
 - 12 cups lightly toasted bread, cubes
 - 1/4 cup fresh parsley, chopped
 - 1.5 cups vegetable stock
+
 ## DIRECTIONS
 - In a large fry pan saute onions, celery and apple in butter until onion is just translucent.
 - Stir in sage, marjoram, salt, pepper, savory and thyme.
@@ -25,6 +27,9 @@
 - As stated for Vegetarians use vegetable stock.
 
 Servings: 6
+
 Category: Sides
+
 Link: https://www.food.com/recipe/crock-pot-stuffing-49609
+
 Tags: Thanksgiving, Vegan

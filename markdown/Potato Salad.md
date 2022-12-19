@@ -1,4 +1,5 @@
 # Potato Salad
+
 ## Ingredients
 - 2 lbs Yukon gold potatoes, peeled and quartered
 - 6 hard boiled eggs
@@ -9,6 +10,7 @@
 - 150 g miracle whip
 - 1/2 TBSP celery seed
 - 1/2 tsp salt
+
 ## Directions
 - add water to pasta pot and bring to boil
 - heavily salt the water
@@ -19,6 +21,9 @@
 - mix with gloves
 
 Servings: 4
+
 Category: Sides
+
 Link: https://www.foodiecrush.com/how-to-make-the-best-potato-salad/
+
 Tags: Vegetarian

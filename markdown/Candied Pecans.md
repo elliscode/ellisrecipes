@@ -1,4 +1,5 @@
 # Candied Pecans
+
 ## Ingredients
 - 6 TBSP brown sugar
 - 1.5 tsp ground cinnamon
@@ -8,6 +9,7 @@
 - 1.5 TBSP water
 - 2 tsp orange zest, optional
 - 6 oz pecan halves
+
 ## DIRECTIONS
 - Line a baking sheet with parchment paper or a silicone baking mat.
 - Add brown sugar, cinnamon, salt, cayenne, vanilla, water, and the orange zest (optional) to a medium skillet.
@@ -20,6 +22,9 @@
 - Store cooled candied nuts in an airtight container. They will last at room temperature for one week, in the refrigerator for a few weeks and in the freezer for a month, if not longer.
 
 Servings: 2
+
 Category: Desserts
+
 Link: https://www.inspiredtaste.net/47514/easy-candied-pecans/#itr-recipe-47514
+
 Tags: Nuts, Vegan

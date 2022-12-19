@@ -1,4 +1,5 @@
 # Chocolate Crinkle Cookies
+
 ## Ingredients
 - 240 g all purpose flour
 - 2.5 tsp baking powder
@@ -8,9 +9,11 @@
 - 112 g canola oil
 - 273 g applesouce
 - 1 tsp vanilla extract
+
 ### Sugar Coating
 - 100 g granulated sugar
 - 100 g powdered sugar
+
 ## Directions
 - In a small bowl combine flour, salt, and baking powder. Set aside.
 - In a medium bowl or stand up mixer stir together cocoa powder, sugar, applesauce, oil, extracts, and peppermint candies (if using) until well blended. Add flour mixture and mix until just combined.
@@ -20,6 +23,9 @@
 - Bake for 12-13 minutes (cookies should be slightly underbaked). Remove from oven and allow to cool for 2-3 minutes before transferring onto a wire rack to cool completely.
 
 Servings: 20
+
 Category: Desserts
+
 Link: https://www.mydarlingvegan.com/chocolate-peppermint-crinkle-cookies/#wprm-recipe-container-18104
+
 Tags: Vegan

@@ -1,4 +1,5 @@
 # Churro Bundt Cake
+
 ## Ingredients
 - 50 g granulated sugar
 - 1 tsp ground cinnamon
@@ -13,6 +14,7 @@
 - 1 TBSP baking powder
 - 1 tsp ground cinnamon
 - 1 tsp salt
+
 ## Directions
 - preheat oven to 350F
 - spray Bundt pan with flour baking spray
@@ -28,6 +30,9 @@
 - remove from oven and let cool for 10 minutes, then turn upside down onto a cooling rack and let completely cool
 
 Servings: 12
+
 Category: Desserts
+
 Link: https://www.foodnetwork.com/recipes/food-network-kitchen/churro-cake-with-spiced-chocolate-sauce-5671816
+
 Tags: Vegetarian

@@ -1,4 +1,5 @@
 # Kung Pao Sauce
+
 ## Ingredients
 - 2 oz cold water
 - 1 TBSP corn starch
@@ -8,6 +9,7 @@
 - 13 g hoisin sauce
 - 1/4 tsp balsamic vinegar
 - 8 g brown sugar
+
 ## Directions
 - add water and corn starch to a bowl and whisk together
 - add everything else to the bowl and whisk together
@@ -15,5 +17,7 @@
 - add tofu to wok and toss to coat
 
 Servings: 2
+
 Category: Dips And Sauces
+
 Tags: Asian, Vegan
