@@ -1,6 +1,7 @@
 # Red Lentil Curry
 
 ## INGREDIENTS
+
 - 2 cups water
 - 16 g better than bouillon no chicken
 - 14 oz crushed tomatoes
@@ -21,9 +22,11 @@
 - 1 TBSP lemon juice
 
 ### Optional
+
 - 56 g roasted peanuts
 
 ## Instructions
+
 - Add everything but lentils and lemon to a pot
 - Bring to a boil
 - Rinse and drain lentils
@@ -38,3 +41,4 @@ Category: Meals
 Link: https://rainbowplantlife.com/vegan-red-lentil-curry/#wprm-recipe-container-5540
 
 Tags: Indian, Vegan
+

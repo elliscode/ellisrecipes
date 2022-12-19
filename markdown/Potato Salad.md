@@ -1,6 +1,7 @@
 # Potato Salad
 
 ## Ingredients
+
 - 2 lbs Yukon gold potatoes, peeled and quartered
 - 6 hard boiled eggs
 - 3 TBSP white wine vinegar
@@ -12,6 +13,7 @@
 - 1/2 tsp salt
 
 ## Directions
+
 - add water to pasta pot and bring to boil
 - heavily salt the water
 - peel and dice potatoes
@@ -27,3 +29,4 @@ Category: Sides
 Link: https://www.foodiecrush.com/how-to-make-the-best-potato-salad/
 
 Tags: Vegetarian
+

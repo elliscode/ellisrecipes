@@ -1,6 +1,7 @@
 # Vegan Chocolate Cake
 
 ## Ingredients
+
 - 1.5 cup unsweetened almond milk
 - 1.5 TBSP apple cider vinegar
 - 3 cups all purpose flour
@@ -15,6 +16,7 @@
 - 1.5 cup boiling water
 
 ## Instructions
+
 - Preheat oven to 350 degrees F and grease two 9-inch cake pans. I also line them with parchment rounds and lightly flour for easy removal of the cakes later.
 - Measure 1.5 cup unsweetened almond milk and add the TBSP of vinegar to it. Stir slightly and set aside to curdle.
 - In a large bowl, add the flour, sugar, cocoa powder, baking powder, baking soda and salt. Whisk well to combine.
@@ -29,3 +31,4 @@ Category: Desserts
 Link: https://www.noracooks.com/vegan-chocolate-cake/
 
 Tags: vegan
+

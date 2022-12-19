@@ -1,6 +1,7 @@
 # Lentil Sloppy Joes
 
 ## Ingredients
+
 - 1 onion, chopped
 - 1 TBSP butter
 - 1 bell pepper, chopped
@@ -16,6 +17,7 @@
 - Black pepper
 
 ## Directions
+
 - Saute onion and bell pepper in butter over medium heat
 - Add everything else to the pot and bring to a boil
 - Reduce heat to a simmer and cook for 40 min
@@ -27,3 +29,4 @@ Category: Meals
 Link: https://minimalistbaker.com/vegan-sloppy-joes/
 
 Tags: Vegan
+

@@ -1,6 +1,7 @@
 # Balsamic Vinaigrette
 
 ## Ingredients
+
 - 45 g olive oil
 - 18 g balsamic vinegar
 - 11 g honey
@@ -9,6 +10,7 @@
 - 1/8 tsp ground pepper
 
 ## Directions
+
 - combine all ingredients in bowl
 - whisk to emulsify
 
@@ -19,3 +21,4 @@ Category: Dips And Sauces
 Link: https://barefeetinthekitchen.com/best-balsamic-vinaigrette/
 
 Tags: Salad, Vegan
+

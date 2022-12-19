@@ -1,6 +1,7 @@
 # Gravy
 
 ## Ingredients
+
 - 4 TBSP earth balance
 - 1 onion, diced
 - 1/4 cup flour
@@ -12,6 +13,7 @@
 - 1/4 tsp salt
 
 ## Directions
+
 - in a medium saucepan, melt butter over medium heat and saute onion
 - add flour and toss to coat, forming a thick paste
 - add all other ingredients and bring to a boil
@@ -25,3 +27,4 @@ Category: Dips And Sauces
 Link: https://www.connoisseurusveg.com/vegan-gravy/
 
 Tags: Vegan
+

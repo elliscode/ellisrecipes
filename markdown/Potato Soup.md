@@ -1,6 +1,7 @@
 # Potato Soup
 
 ## Ingredients
+
 - 1 TBSP olive oil
 - 1 white onion
 - 100 g, peeled and chopped
@@ -14,6 +15,7 @@
 - Black Pepper
 
 ## Directions
+
 - saute onions in butter
 - add everything else to pot and bring to a boil
 - reduce to a simmer and simmer for 30 mins
@@ -26,3 +28,4 @@ Category: Soups
 Link: https://lovingitvegan.com/creamy-vegan-potato-soup/
 
 Tags: Vegan
+

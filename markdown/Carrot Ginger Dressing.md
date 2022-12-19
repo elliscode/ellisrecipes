@@ -1,6 +1,7 @@
 # Carrot Ginger Dressing
 
 ## Ingredients
+
 - 98 g rice wine vinegar
 - 69 g evoo
 - 200 g carrot
@@ -11,6 +12,7 @@
 - 1/4 tsp salt
 
 ## Directions
+
 - combine all ingredients in a blender
 
 Servings: 2
@@ -20,3 +22,4 @@ Category: Dips And Sauces
 Link: https://cookieandkate.com/carrot-ginger-dressing-recipe/
 
 Tags: Salad, Vegan
+

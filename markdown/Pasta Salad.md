@@ -3,6 +3,7 @@
 ## Ingredients
 
 ### Salad
+
 - 16 oz fussili pasta
 - 2 cup halved cherry tomatoes
 - 15 oz can chickpeas, drained and rinsed
@@ -13,6 +14,7 @@
 - 30 g toasted pine nuts
 
 ### Dressing
+
 - 1/4 cup extra-virgin olive oil, more for drizzling
 - 3 TBSP lemon juice
 - 1 tsp Dijon mustard
@@ -24,6 +26,7 @@
 - 3/4 tsp salt
 
 ## Instructions
+
 - Bring a large pot of water to a boil
 - add a handful of salt
 - Prepare the pasta according to the package directions, or until slightly past al dente.
@@ -39,3 +42,4 @@ Category: Sides
 Link: https://www.loveandlemons.com/pasta-salad/
 
 Tags: Vegetarian
+

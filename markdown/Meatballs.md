@@ -1,6 +1,7 @@
 # Meatballs
 
 ## Ingredients
+
 - 1 cup Italian-seasoned bread crumbs
 - 1/4 cup grated Romano cheese
 - 2 TBSP chopped fresh parsley
@@ -14,6 +15,7 @@
 - ADD ALL INGREDIENTS TO SHOPPING LIST
 
 ## Directions Checklist
+
 - Step 1
 - Preheat the oven to 350 degrees F (175 degrees C).
 - Step 2
@@ -28,3 +30,4 @@ Category: Meals
 Link: https://www.allrecipes.com/recipe/268249/italian-baked-meatballs/
 
 Tags: Italian, Meat
+

@@ -3,12 +3,14 @@
 ## Ingredients
 
 ### For the mekelesha spice blend
+
 - About 30 green cardamom pods (may substitute 1/2 tsp ground cardamom)
 - 2 tsp ground cinnamon
 - 1/2 tsp ground cloves
 - 1/2 tsp freshly ground black pepper
 
 ### For The Lentils
+
 - About 1.5 cups dried split red lentils
 - 1/4 cup sunflower, canola or other neutral vegetable oil
 - 1 medium (8 3/4 oz) yellow or red onion, finely chopped
@@ -21,6 +23,7 @@
 - 1/2 tsp mekelesha spice blend
 
 ## Instructions
+
 - Make the mekelesha spice blend: In a small bowl, blend the cardamom, cinnamon, cloves and black pepper. Youll need only 1/2 tsp for this recipe. (Store the rest in a cool, dry place for future misir wot batches or other stews and curries.)
 - Make the lentils: Place the lentils in a large bowl or colander, and pick over and discard any debris. Rinse the lentils until the water runs mostly clear (a little cloudy is okay, but youll see it turn from almost white to much more transparent as you go).
 - In a 12-inch nonstick skillet over medium-low heat, warm the oil. You may see a little rippling, but not much since the pan wont get too hot. Add the onions and cook, stirring occasionally, until soft and translucent, about 10 minutes. Add the garlic and ginger and cook, stirring constantly, until aromatic, about 1 minute. Stir in the berbere and nigella along with a splash of water. Cover the skillet, reduce the heat to low and cook for 10 minutes. Uncover, stir, add another splash of water and cook for 5 minutes. Repeat the process every 5 minutes until the onions have cooked for a total of 25 to 30 minutes (no need to add more water at the end unless its looking very dry). Dont rush the process or crank up the heat: The goal is to get the onions very soft and cooked down to almost a paste, as well as rounding out the berbere flavor and darkening its color.
@@ -35,3 +38,4 @@ Category: Meals
 Link: https://www.washingtonpost.com/food/2021/04/21/misir-wot-recipe-ethiopian-lentils/
 
 Tags: African, Ethiopian, Vegetarian
+

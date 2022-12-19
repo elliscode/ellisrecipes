@@ -1,6 +1,7 @@
 # Pear Pie Filling
 
 ## Ingredients
+
 - 1/2 cup white sugar
 - 5 TBSP all-purpose flour
 - 1/4 tsp salt
@@ -11,6 +12,7 @@
 - 1 TBSP butter
 
 ## Directions
+
 - Preheat oven to 450F
 - Spray pie tin with flour baking spray and line with bottom crust
 - Combine sugar, flour, salt, cinnamon, and lemon zest in a large bowl.
@@ -27,3 +29,4 @@ Category: Desserts
 Link: https://www.allrecipes.com/recipe/12275/fresh-pear-pie/
 
 Tags: Vegetarian
+

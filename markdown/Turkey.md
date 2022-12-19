@@ -1,6 +1,7 @@
 # Turkey
 
 ## Ingredients
+
 - 1 turkey, 12-16 pound
 - 1 carrot, chunked
 - 1 stalk celery, chunked
@@ -11,6 +12,7 @@
 - 1/2 cup water
 
 ## Instructions
+
 - Heat oven to 500 degrees.
 - Remove the turkey neck and bag of giblets. Cut off any plastic ties that may be holding the legs together. Remove the pop up thermometer, if there is one.
 - Place all your vegetables in the turkey cavity.
@@ -31,3 +33,4 @@ Category: Meals
 Link: https://simplifylivelove.com/best-way-to-cook-a-turkey/
 
 Tags: Meat, Thanksgiving
+

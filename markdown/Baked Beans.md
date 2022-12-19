@@ -1,6 +1,7 @@
 # Baked Beans
 
 ## Ingredients
+
 - 3 cups canned navy beans
 - 1/2 cup molasses
 - 1 cup water
@@ -13,6 +14,7 @@
 - Black pepper
 
 ## Directions
+
 - Preheat the oven to 350F
 - Stir all ingredients together in a large casserole dish
 - Bake covered for one hour
@@ -25,3 +27,4 @@ Category: Sides
 Link: https://www.thespruceeats.com/vegetarian-boston-baked-beans-with-molasses-3377176
 
 Tags: Vegan
+

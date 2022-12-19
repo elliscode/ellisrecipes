@@ -1,6 +1,7 @@
 # Vegan Vanilla Cupcake
 
 ## Ingredients
+
 - 220 g All Purpose Flour
 - 200 g White Granulated Sugar
 - 1 tsp Baking Soda
@@ -11,6 +12,7 @@
 - 1 TBSP Distilled White Vinegar
 
 ## Directions
+
 - Instructions
 - Preheat the oven to 350F and line a cupcake tray with 12 cupcake liners.
 - Sift the flour into a bowl and add the sugar, baking soda and salt.
@@ -27,3 +29,4 @@ Category: Desserts
 Link: https://lovingitvegan.com/vegan-vanilla-cupcakes-strawberry-vanilla-frosting/
 
 Tags: Vegan
+

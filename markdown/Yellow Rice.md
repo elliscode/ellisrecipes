@@ -1,6 +1,7 @@
 # Yellow Rice
 
 ## Ingredients
+
 - 18 oz water
 - 1.41 oz Goya Sazon con azafron
 - 12 g better than bouillon no chicken
@@ -8,6 +9,7 @@
 - 310 g white rice
 
 ## Directions
+
 - add rice to mesh strainer and thoroughly rinse
 - add everything but rice to saucepan
 - bring to boil
@@ -20,3 +22,4 @@ Servings: 4
 Category: Sides
 
 Tags: Mexican, Vegan
+

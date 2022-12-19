@@ -1,6 +1,7 @@
 # Mexican Quinoa
 
 ## Ingredients
+
 - 1 TBSP olive oil
 - 1/2 red onion, chopped
 - 1 cup quinoa
@@ -15,6 +16,7 @@
 - 1.5 tsp lime
 
 ## Directions
+
 - in a large saucepan, saute onion in olive oil over medium heat
 - add everything else to the pot and bring to a boil
 - reduce to a simmer, simmer uncovered for 20 minutes
@@ -27,3 +29,4 @@ Category: Meals
 Link: https://damndelicious.net/2014/04/09/one-pan-mexican-quinoa/
 
 Tags: Mexican, Vegan
+

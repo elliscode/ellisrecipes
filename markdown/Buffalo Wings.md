@@ -1,11 +1,13 @@
 # Buffalo Wings
 
 ### Prep
+
 - 1/4 cup cornstarch, as needed
 - 2 lb organic chicken wings
 - 1 gallon peanut oil
 
 ### Batter
+
 - 1/2 cup corn starch
 - 1/4 cup all-purpose flour
 - 1 tsp paprika
@@ -17,10 +19,12 @@
 - 2/3 cup water
 
 ### Buffalo Sauce
+
 - 1 stick butter
 - 1 cup franks red hot
 
 ## Directions
+
 - start by adding the peanut oil to the deep fryer up to the MAX line and preheat to 350F
 - Line two baking sheets with paper towels and wire racks
 - Take each chicken wing and coat it in corn starch
@@ -39,3 +43,4 @@ Category: Meals
 Link: https://tasty.co/recipe/the-best-crispy-buffalo-wings
 
 Tags: Meat
+

@@ -1,6 +1,7 @@
 # Lemon Couscous
 
 ## Ingredients
+
 - 8 oz water
 - 8 g better than bouillon NO chicken
 - 2 TBSP lemon juice
@@ -12,6 +13,7 @@
 - 186 g couscous
 
 ## Directions
+
 - add everything but couscous to a small pot
 - bring to a boil
 - add couscous and stir
@@ -25,3 +27,4 @@ Category: Meals
 Link: https://www.allrecipes.com/recipe/242232/lemon-couscous/
 
 Tags: Vegan
+

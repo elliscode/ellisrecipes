@@ -1,6 +1,7 @@
 # Pecan Pie
 
 ## Ingredients
+
 - 250 g pecans
 - 3 large eggs
 - 340 g corn syrup
@@ -11,6 +12,7 @@
 - 1/2 tsp ground cinnamon
 
 ## Directions
+
 - Preheat oven to 425F
 - Roughly chop half of the pecans, then add both the chopped and unchopped pecans to the prepared pie crust
 - Whisk together all other ingredients in a bowl
@@ -24,3 +26,4 @@ Category: Desserts
 Link: https://sallysbakingaddiction.com/my-favorite-pecan-pie-recipe/
 
 Tags: Vegetarian
+

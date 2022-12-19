@@ -1,6 +1,7 @@
 # Saffron Couscous
 
 ## Ingredients
+
 - 1 onion
 - 1 TBSP butter
 - 1 red bell pepper
@@ -13,6 +14,7 @@
 - 186 g instant couscous
 
 ## Directions
+
 - saute onion in butter
 - add everything but couscous to a pot
 - bring to a boil
@@ -27,3 +29,4 @@ Category: Meals
 Link: https://www.errenskitchen.com/moroccan-spiced-vegetable-couscous/
 
 Tags: Vegan
+

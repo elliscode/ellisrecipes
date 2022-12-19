@@ -3,12 +3,14 @@
 ## Ingredients
 
 ### Fried Vegetables
+
 - Oil for deep frying
 - 1 eggplant, sliced
 - 1 zucchini, sliced
 - 750 g potatoes, sliced
 
 ### Filling
+
 - 1 white onion, sliced
 - 1 TBSP olive oil
 - 1/4 tsp garlic powder
@@ -22,6 +24,7 @@
 - 1 cup crumbled feta cheese
 
 ### Bechamel
+
 - 1.5 TBSP butter
 - 2 TBSP flour
 - 1.25 cups milk
@@ -33,6 +36,7 @@
 ## Directions
 
 ### Day 1
+
 - peel and slice eggplant
 - Salt and let strain for 3 hours
 - Deep fry the potatoes, eggplant, and zucchini
@@ -41,6 +45,7 @@
 ### Day 2
 
 Filling
+
 - Preheat oven to 375F
 - Saute onion and garlic powder in olive oil
 - Add vinegar, tomatoes, lentils, 1/2 the reserved lentil liquid, bouillon, oregano, parsley, and salt.
@@ -51,6 +56,7 @@ Filling
 - Bake for 30 min
 
 Bechamel
+
 - while filling is cooking, stir together butter, flour, and milk in a small saucepan over medium heat
 - Whisk constantly until boiling
 - Remove from heat
@@ -67,3 +73,4 @@ Category: Meals
 Link: https://www.allrecipes.com/recipe/25311/vegetarian-moussaka/
 
 Tags: Greek, Vegetarian
+

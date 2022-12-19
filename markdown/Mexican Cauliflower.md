@@ -1,6 +1,7 @@
 # Mexican Cauliflower
 
 ## Ingredients
+
 - 2 tsp chili powder
 - 1 tsp cumin
 - 1 tsp dried minced onions
@@ -12,6 +13,7 @@
 - 1/2 head cauliflower, chopped
 
 ## Directions
+
 - preheat oven to 400F convection
 - line a baking sheet with tin foil
 - combine all ingredients except for cauli flour and chickpeas in a large bowl, and whisk together
@@ -25,3 +27,4 @@ Category: Meals
 Link: https://www.twopeasandtheirpod.com/roasted-cauliflower-and-chickpea-tacos/
 
 Tags: Mexican, Vegan
+

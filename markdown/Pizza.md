@@ -1,11 +1,13 @@
 # Pizza
 
 ## Ingredients
+
 - 1/3 batch pizza dough
 - 250 g pizza sauce
 - 45 g mozzarella
 
 ## Directions
+
 - preheat oven to 500F convection
 - sprinkle cornmeal on pizza peel evenly
 - once oven preheats, hand stretch dough to a circle
@@ -20,3 +22,4 @@ Servings: 8
 Category: Meals
 
 Tags: Italian, Vegetarian
+

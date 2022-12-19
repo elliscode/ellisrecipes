@@ -1,6 +1,7 @@
 # Fried Rice
 
 ## Ingredients
+
 - 1 tsp butter
 - 3 eggs
 - 2 tsp butter
@@ -13,6 +14,7 @@
 - 70 g soy sauce
 
 ## Directions
+
 - cook eggs in 1 tsp butter
 - chop eggs with Teflon spatula
 - remove eggs from pan and set aside
@@ -27,3 +29,4 @@ Category: Meals
 Link: https://www.gimmesomeoven.com/fried-rice-recipe/
 
 Tags: Asian, Vegetarian
+

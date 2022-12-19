@@ -1,6 +1,7 @@
 # Tuscan Beans
 
 ## Ingredients
+
 - 1 TBSP olive oil
 - 1/2 onion, diced
 - 15 oz cannellini beans, drained
@@ -13,6 +14,7 @@
 - Black Pepper
 
 ## Directions
+
 - heat oil in a nonstick pan over medium heat
 - add chopped onion and saute until browned
 - add everything else and switch to medium-high heat
@@ -25,3 +27,4 @@ Category: Meals
 Link: https://www.nourish-and-fete.com/tuscan-white-bean-skillet/
 
 Tags: Italian, Vegan
+

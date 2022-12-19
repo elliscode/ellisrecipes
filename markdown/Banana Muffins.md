@@ -1,6 +1,7 @@
 # Banana Muffins
 
 ## Ingredients
+
 - 3 ripe bananas
 - 1/4 cup canola oil (may substitute vegetable oil) (60 ml)
 - 1/4 cup unsalted butter melted and cooled at least 5 minutes (60 g)
@@ -16,12 +17,14 @@
 - 273 g semisweet chocolate chips
 
 ### Streusel (optional)
+
 - 1/2 cup all-purpose flour (65 g)
 - 1/2 cup brown sugar (100 g)
 - 1/4 tsp salt
 - 1/4 cup unsalted butter, cold (60 g)
 
 ## Instructions
+
 - Preheat oven to 425F (220C) and line a muffin tin with paper liners*
 - Place peeled bananas in a large bowl and use a fork or a potato masher to mash them - bananas should be well-mashed.
 - Add canola oil and melted butter and stir well.
@@ -32,6 +35,7 @@
 - Portion batter into prepared muffin tin, filling each liner 3/4 of the way full. Set aside and prepare your Streusel topping.
 
 ### Streusel Topping (optional)
+
 - Combine flour, brown sugar, and salt in a medium-sized bowl and use a fork to stir the ingredients together.
 - Using a pastry cutter, cut in your cold butter until the butter is well-worked in and your mixture resembles coarse crumbs.
 - Sprinkle streusel topping evenly over each muffin.
@@ -39,6 +43,7 @@
 - Allow muffins to cool before enjoying.
 
 ## Notes
+
 - Please note that this recipe makes about 15 muffins while most muffin tins are only 12-count.
 - Feel free to add nuts or chocolate chips! Just stir them in at the end.
 
@@ -49,3 +54,4 @@ Category: Desserts
 Link: https://sugarspunrun.com/the-best-banana-muffin-recipe/
 
 Tags: Vegetarian
+

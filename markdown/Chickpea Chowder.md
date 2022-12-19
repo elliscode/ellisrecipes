@@ -1,6 +1,7 @@
 # Chickpea Chowder
 
 ## Ingredients
+
 - 1 TBSP butter
 - 1 onion
 - 100 g celery
@@ -18,6 +19,7 @@
 - 38 g white miso paste
 
 ## Directions
+
 - saute mirepoix in butter
 - add everything else but the miso paste and bring to a boil
 - reduce heat to a high simmer for 25 minutes
@@ -31,3 +33,4 @@ Category: Soups
 Link: https://www.connoisseurusveg.com/manhattan-chickpea-chowder/
 
 Tags: Vegan
+

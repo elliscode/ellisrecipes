@@ -1,6 +1,7 @@
 # Seasoned Couscous
 
 ## Ingredients
+
 - 12 oz water
 - 1 TBSP dried parsley
 - 2 tsp better than bouillon no beef
@@ -11,6 +12,7 @@
 - 186 g couscous
 
 ## Directions
+
 - combine everything except the couscous in a small pot
 - bring to a boil
 - add couscous
@@ -22,3 +24,4 @@ Servings: 2
 Category: Meals
 
 Tags: Vegan
+

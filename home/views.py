@@ -41,7 +41,6 @@ def index(request):
     #     with open(file_path, 'w') as f:
     #         for line in markdown:
     #             if not hasattr(line, 'type'):
-    #                 f.write('\n')
     #                 for li in line:
     #                     f.write(li.prefix)
     #                     f.write(li.content)

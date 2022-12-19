@@ -1,6 +1,7 @@
 # Arakas Latheros
 
 ## Ingredients
+
 - 1 pound peas (fresh or frozen)
 - 1 onion diced
 - 2 carrots sliced
@@ -12,6 +13,7 @@
 - 7 oz water
 
 ## Instructions
+
 - Heat olive oil in a medium sized pot.
 - Saute onions until soft. Add carrots and potatoes and saute 3-4 minutes more.
 - Add peas and heat and mix until all peas are covered in the olive oil.
@@ -26,3 +28,4 @@ Category: Sides
 Link: https://www.olivetomato.com/greek-style-peas-arakas-latheros/
 
 Tags: Greek, vegan
+

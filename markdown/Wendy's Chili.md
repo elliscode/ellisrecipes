@@ -1,6 +1,7 @@
 # Wendy's Chili
 
 ## Ingredients
+
 - 1 pounds fresh ground beef
 - 2 cups tomato juice
 - 14 oz canned tomato puree
@@ -20,12 +21,14 @@
 ## Instructions
 
 ### Stovetop Directions
+
 - In a skillet, brown the ground beef.
 - Drain the grease from the browned ground beef.
 - Put the drained beef and the remaining ingredients in a 6-quart pot. Stir to combine.
 - Cover the pot; let it simmer for 1 to 1 1/2 hours, stirring every 15 minutes.
 
 ### Slow Cooker Directions
+
 - In a skillet, brown the ground beef.
 - Drain the grease from the browned ground beef.
 - Put the drained beef and the remaining ingredients in a slow cooker.
@@ -38,3 +41,4 @@ Category: Meals
 Link: https://copykat.com/wprm_print/24690
 
 Tags: meat
+

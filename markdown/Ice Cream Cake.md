@@ -3,26 +3,31 @@
 ## Ingredients
 
 ### CHOCOLATE COOKIE CRUNCHIES
+
 - 100 g Oreo crumbs
 - 1.5 TBSP butter, melted
 
 ### Ice Cream Layers
+
 - 1.5 quart container vanilla ice cream
 - 1.5 quart container chocolate ice cream
 
 ### Chocolate Fudge
+
 - 6 oz | 1 cup semi sweet chocolate chips
 - 60 g light corn syrup
 - 1/2 tsp vanilla extract
 - 120 ml heavy whipping cream
 
 ### Whipped Cream
+
 - 480 g heavy whipping cream, cold
 - 115 g powdered sugar
 - 1/2 tsp vanilla extract
 - Sprinkles
 
 ## Instructions
+
 - leave ice cream out on counter for 30 min
 - line two removable bottom cake pans with plastic wrap
 - add each ice cream carton to its own lined cake pan, smooth and level, and freeze
@@ -51,3 +56,4 @@ Category: Desserts
 Link: https://www.lifeloveandsugar.com/copycat-dairy-queen-ice-cream-cake/print/37231/
 
 Tags: Vegetarian
+

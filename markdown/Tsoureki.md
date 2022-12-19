@@ -3,6 +3,7 @@
 ## Ingredients
 
 ### For The Dough
+
 - 24 g dry yeast
 - 110 g lukewarm water
 - 3 g ground mastic
@@ -15,14 +16,17 @@
 - zest of 1 orange
 
 ### To Garnish
+
 - 1 egg and 1 TBSP water
 - almond slivers
 
 ### For The Syrup
+
 - 150 g sugar
 - 150 g water
 
 ## Instructions
+
 - To prepare this tsoureki recipe, add in a bowl the lukewarm water, a pinch of sugar and yeast and stir. Wrap well with plastic wrap and set aside for about 6-7 minutes, until the yeast rises and starts bubbling. Be careful not do add hot water, as it will kill the yeast, nor cold, as it will take forever for the Greek Easter bread to rise. The water should be at the same temperature as your finger, so check it out sticking one finger in; you should feel no difference in temperature.
 - Use a pestle or a blender to ground the masticha and mahlepi, along with a pinch of sugar and set aside. These aromatic spices will give Greek Easter bread its distinctive taste and amazing smell. But be careful not to add any more mastic than this tsoureki recipe calls for, as it will leave a slightly bitter taste to your Greek Easter bread.
 - In a saucepan add the butter, sugar and milk. Place over very low heat and stir the mixture, until the butter has melted and the sugar has dissolved. The key is to melt the butter at very low heat, so that the temperature doesn't 'kill' the yeast.*Remove the pan from the stove and check the temperature. The mixture should be lukewarm - the same temperature as your finger. If it is warmer, leave to cool down for a few minutes and check again.
@@ -42,3 +46,4 @@ Category: Sides
 Link: https://www.mygreekdish.com/recipe/tsoureki-recipe-traditional-greek-easter-bread/
 
 Tags: Bread, Greek, Vegan
+

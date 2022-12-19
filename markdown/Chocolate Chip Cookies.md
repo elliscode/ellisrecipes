@@ -1,6 +1,7 @@
 # Chocolate Chip Cookies
 
 ## Ingredients
+
 - 240 g ap flour
 - 1/2 tsp baking soda
 - 1/2 tsp salt
@@ -13,6 +14,7 @@
 - 373 g semisweet chocolate chips, plus more for tri chipping
 
 ## Instructions
+
 - Beat butter in stand mixer until white and fluffy
 - Add brown sugar and white sugar and cream together
 - 70 g a piece for 16 cookies
@@ -27,3 +29,4 @@ Category: Desserts
 Link: https://www.allrecipes.com/recipe/25037/best-big-fat-chewy-chocolate-chip-cookie/
 
 Tags: Vegetarian
+

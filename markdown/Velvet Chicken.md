@@ -1,6 +1,7 @@
 # Velvet Chicken
 
 ## Ingredients
+
 - 12 oz boneless skinless chicken breast (or thighs, 340 g)
 - 3 TBSP water
 - 2 tsp soy sauce (or 1 TBSP oyster sauce)
@@ -8,6 +9,7 @@
 - 1 tsp vegetable oil
 
 ## Instructions
+
 - First, slice your chicken into 1 1/2 to 2 inch pieces, about 1/4 inch thick. Remember to slice across the grain, especially if using chicken breast.
 - Add the water and soy sauce (or oyster sauce) to the chicken in a medium bowl, and mix until the chicken is well-coated. Set aside for 5-10 minutes. In that time, most of the liquid will be absorbed into the chicken.
 - Add the cornstarch and vegetable oil and mix again until everythings incorporated and the chicken is uniformly coated. For the best results, let the chicken sit for 15 to 20 minutes to marinate.
@@ -26,3 +28,4 @@ Category: Meals
 Link: https://thewoksoflife.com/how-to-velvet-chicken-stir-fry/
 
 Tags: Asian, Meat
+

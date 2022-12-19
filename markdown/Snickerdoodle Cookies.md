@@ -3,6 +3,7 @@
 ## Ingredients
 
 ### Dough
+
 - 1/2 cup butter, softened
 - 200 g white sugar
 - 1 large egg, room temperature
@@ -12,10 +13,12 @@
 - 1/4 tsp cream of tartar
 
 ### Cinnamon Sugar Coating
+
 - 1 tsp ground cinnamon
 - 25 g sugar
 
 ## Directions
+
 - preheat oven to 375F
 - Beat butter in stand mixer on high speed until light and fluffy
 - Add white sugar and mix on high speed until combined
@@ -32,3 +35,4 @@ Category: Desserts
 Link: https://www.tasteofhome.com/recipes/snickerdoodles/
 
 Tags: Vegetarian
+

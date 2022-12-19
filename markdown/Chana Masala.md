@@ -1,6 +1,7 @@
 # Chana Masala
 
 ## Ingredients
+
 - 1 TBSP oil
 - 1 medium white or yellow onion, finely diced
 - 1 TBSP ground cumin
@@ -17,6 +18,7 @@
 - 1 tsp amchoor powder
 
 ## Instructions
+
 - Heat a large pot over medium heat. Once hot, add oil, onion, cumin, and salt
 - Add garlic powder and ginger to the pan with the onions.
 - Next add ground coriander, chili powder, and turmeric and stir to coat.
@@ -31,3 +33,4 @@ Category: Meals
 Link: https://minimalistbaker.com/easy-chana-masala/
 
 Tags: Indian, Vegan
+

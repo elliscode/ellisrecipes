@@ -1,6 +1,7 @@
 # Chickpea Nuggets
 
 ## Ingredients
+
 - 1/2 cup oats
 - 1 can chickpeas, saving liquid
 - 1/4 tsp salt
@@ -9,6 +10,7 @@
 - 3 tsp bouillon NO chicken
 
 ## Directions
+
 - preheat oven to 375F convection
 - spray a piece of tin foil with cooking spray
 - chop oats into oat flour in food processor
@@ -24,3 +26,4 @@ Category: Meals
 Link: https://www.thekitchn.com/recipe-chickpea-nuggets-235880
 
 Tags: Vegan
+

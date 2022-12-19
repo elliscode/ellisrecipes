@@ -1,6 +1,7 @@
 # Lactation Cookies
 
 ## INGREDIENTS
+
 - 240 g old-fashioned rolled oats
 - 180 g all-purpose flour
 - 75 g brewers yeast
@@ -16,6 +17,7 @@
 - 360 g semi sweet chocolate chips
 
 ## INSTRUCTIONS?
+
 - Preheat the oven the 350 degrees F.
 - Beat butter in mixer on high speed until light and fluffy, then beat in sugar, then egg and yolk, then vanilla extract
 - Beat on high until whipped smooth
@@ -32,3 +34,4 @@ Category: Desserts
 Link: https://www.howsweeteats.com/2015/02/lactation-cookies/
 
 Tags: Vegetarian
+

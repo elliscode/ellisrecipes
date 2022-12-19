@@ -1,6 +1,7 @@
 # Pizza Dough By Kenji
 
 ## Ingredients
+
 - 582 g AP flour
 - 48 g vital wheat gluten
 - 15 g granulated sugar
@@ -10,6 +11,7 @@
 - 420 g water at 100F
 
 ## Directions
+
 - place dry ingredients in large bowl and whisk together
 - Add wet ingredients and mix with spatula until dough forms
 - Knead dough on a floured workspace for about a minute
@@ -22,3 +24,4 @@ Category: Meals
 Link: https://www.seriouseats.com/recipes/2012/07/basic-new-york-style-pizza-dough.html
 
 Tags: Bread, Vegan
+

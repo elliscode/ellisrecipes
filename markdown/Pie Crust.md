@@ -1,6 +1,7 @@
 # Pie Crust
 
 ## Ingredients
+
 - 354 g AP flour
 - 1 tsp salt
 - 30 g sugar
@@ -9,6 +10,7 @@
 - 4 oz vodka
 
 ## Directions
+
 - spray a large pie tin with flour baking spray
 - add flour, salt, sugar, butter, and margarine to large pot
 - cut together with pastry cutter until pea sized crumbs form
@@ -25,3 +27,4 @@ Category: Desserts
 Link: https://www.seriouseats.com/cooks-illustrated-foolproof-pie-dough-recipe
 
 Tags: Vegetarian
+

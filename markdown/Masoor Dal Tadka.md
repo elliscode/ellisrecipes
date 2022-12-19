@@ -1,6 +1,7 @@
 # Masoor Dal Tadka
 
 ## Ingredients
+
 - 2 cups dry masoor dal (aka red lentils), sorted and well rinsed
 - 6 cups water
 - 1 TBSP oil (coconut oil or neutral flavored)
@@ -16,6 +17,7 @@
 - 15 oz can diced tomatoes, or 1.5 cups chopped fresh tomatoes
 
 ## Instructions
+
 - Combine the lentils and water in a large pot. Bring to a boil, then turn the heat down to simmer. Skim off any foam that collects on top. Cook, partially covered, until the lentils are tender, usually 15-20 minutes.
 - While the lentils are cooking, make the tadka. Heat a skillet over medium heat and add the oil and onion, garlic, ginger, chiles, and a pinch of salt. Fry until soft, about 5 minutes.
 - Add the spices: curry powder, mustard, coriander, and cumin, along with the salt. Stir to combine and cook for about 60 seconds, then add the tomatoes. Cook about 7 minutes to cook down the tomatoes if canned, or until the tomatoes are soft and saucy if fresh.
@@ -31,3 +33,4 @@ Category: Meals
 Link: https://www.thecuriouschickpea.com/masoor-dal-tadka/
 
 Tags: vegan
+

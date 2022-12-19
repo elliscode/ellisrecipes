@@ -1,6 +1,7 @@
 # Queso
 
 ## INGREDIENTS
+
 - 1/2 pound 225 g fresh Cheddar cheese, shredded (smoked, sharp or American cheddar)
 - 1 TBSP butter
 - 3/4 cup green onions, finely chopped
@@ -14,6 +15,7 @@
 - 1/4 cup fresh cilantro, finely chopped
 
 ## INSTRUCTIONS
+
 - Melt butter in a medium-sized pot over medium-heat. Saute the green onions (white parts only) for 4 minutes, until soft. Then add the garlic and saute until fragrant, about 30 seconds.
 - Add the tomatoes in with juices with the chiles, cumin, onion powder and cayenne pepper. Cook while stirring occasionally, for 2 minutes until soft and fragrant.
 - Mix cornstarch into the pot, then pour in the evaporated milk, stirring well to combine.
@@ -34,3 +36,4 @@ Category: Dips And Sauces
 Link: https://cafedelites.com/queso/
 
 Tags: Cheese, Mexican, Tortilla Chips, Vegetarian
+

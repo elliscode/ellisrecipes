@@ -1,6 +1,7 @@
 # Chickpea Noodle Soup
 
 ## Ingredients
+
 - 1 TBSP olive oil
 - 1 onion chopped
 - 100 g carrots chopped
@@ -16,6 +17,7 @@
 - 8 oz egg noodles
 
 ## Directions
+
 - heat the oil in a large pot over medium heat
 - add onions and saute for two mins until sweaty, then add celery and carrots and saute for another minute or two
 - add the curry powder and cook for 30 seconds
@@ -29,3 +31,4 @@ Category: Soups
 Link: https://cookieandkate.com/chickpea-noodle-soup-recipe/
 
 Tags: Vegan
+

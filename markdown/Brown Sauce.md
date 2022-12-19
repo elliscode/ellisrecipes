@@ -1,6 +1,7 @@
 # Brown Sauce
 
 ## Ingredients
+
 - 3/4 cup water
 - 1 TBSP cornstarch
 - 6 g better than bouillon no beef
@@ -9,6 +10,7 @@
 - 2 g sugar
 
 ## Directions
+
 - Whisk together all ingredients in a small bowl
 - Heat in wok until thickened
 
@@ -19,3 +21,4 @@ Category: Dips And Sauces
 Link: https://www.thespruceeats.com/chinese-brown-sauce-4065294
 
 Tags: Asian, Vegan, chinese
+

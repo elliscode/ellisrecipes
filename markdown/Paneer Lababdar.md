@@ -1,12 +1,14 @@
 # Paneer Lababdar
 
 ## Equipment
+
 - blender
 - large pot
 
 ## Ingredients
 
 ### Gravy Ingredients
+
 - 14 oz fire roasted tomatoes
 - 28 g (1 oz) unsalted roasted peanuts
 - 1/8 tsp cinnamon
@@ -16,6 +18,7 @@
 - 4 oz water
 
 ### Lababdar Ingredients
+
 - 2 TBSP oil
 - 1/2 cup onions (very finely chopped)
 - 1 bay leaf
@@ -33,10 +36,12 @@
 ## Instructions
 
 ### Preparation
+
 - Add gravy ingredients to a large pot and bring to a boil
 - Remove from heat, add to blender, and blend until smooth
 
 ### How To Make Paneer Lababdar
+
 - Heat oil in the same pot you made the gravy in
 - Saute onion for 5 minutes
 - Add the gravy, then everything else
@@ -50,3 +55,4 @@ Category: Meals
 Link: https://www.indianhealthyrecipes.com/paneer-lababdar-recipe/
 
 Tags: Cheese, Indian, Vegetarian
+

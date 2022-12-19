@@ -1,6 +1,7 @@
 # Vodka Sauce
 
 ## Ingredients
+
 - 3 TBSP. butter
 - 1 shallot minced or 1/2 white onion chopped
 - 1/2 cup tomato paste
@@ -11,6 +12,7 @@
 - 1/4 cup pasta water
 
 ## Directions
+
 - In a large skillet over medium heat, melt butter. Add shallot and garlic and cook, stirring frequently, until softened, 4 to 5 minutes.
 - Add tomato paste and red pepper flakes and cook, stirring frequently, until paste has coated shallots and garlic and is beginning to darken, 5 minutes.
 - Add vodka to pot and stir to incorporate, scraping up any browned bits from the bottom of the pot. Turn off heat.
@@ -24,3 +26,4 @@ Category: Dips And Sauces
 Link: https://www.delish.com/cooking/recipe-ideas/a26556220/penne-alla-vodka-recipe/
 
 Tags: Italian, Vegetarian
+

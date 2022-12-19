@@ -1,10 +1,12 @@
 # Pork Ribs Sous Vide
 
 ## Ingredients
+
 - 2 whole racks St. Louis-cut pork ribs
 - Barbecue sauce
 
 ### For The Spice Rub:
+
 - 1/3 cup paprika
 - 1/3 cup dark brown sugar
 - 1/4 cup kosher salt
@@ -17,6 +19,7 @@
 - 1 tsp red pepper flakes
 
 ## Directions
+
 - For the Spice Rub: Working in batches, combine the paprika, brown sugar, salt, Prague Powder (if using), mustard seed, black pepper, garlic powder, oregano, coriander seed, and red pepper flakes in a spice grinder and reduce to a fine powder.
 - For the Sauce (if using): Combine 3 TBSP spice rub, grated onion, ketchup, mustard, molasses, Worcestershire sauce, vinegar, and liquid smoke in a medium saucepan and whisk to combine. Bring to a bare simmer and cook until reduced and thickened, about 20 minutes. Set aside.
 - Prepare the Ribs: Remove the papery membrane on the back of the ribs, using a paper towel or kitchen towel to grip it and pulling it away in one piece. Divide each rack of ribs into three to four portions, with three to four ribs per portion, by cutting through the meat in between the ribs. Rub ribs generously on all sides with the remaining spice rub mixture. (Set aside 3 TBSP spice rub if making dry-style ribs.)
@@ -32,3 +35,4 @@ Category: Meals
 Link: https://www.seriouseats.com/sous-vide-pork-ribs-recipe-food-lab
 
 Tags: meat, pork
+

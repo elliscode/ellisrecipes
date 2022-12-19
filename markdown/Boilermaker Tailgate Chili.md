@@ -1,6 +1,7 @@
 # Boilermaker Tailgate Chili
 
 ## Ingredients
+
 - 2 pounds ground beef chuck
 - 1 pound bulk Italian sausage
 - 3 (15 oz) cans chili beans, drained
@@ -31,6 +32,7 @@
 - 1 (8 oz) package shredded Cheddar cheese
 
 ## Directions
+
 - Heat a large stock pot over medium-high heat. Crumble ground chuck and sausage into the hot pan. Cook, stirring frequently, until meat is evenly browned. Drain off excess grease.
 - Pour in chili beans, spicy chili beans, diced tomatoes, and tomato paste. Add celery, onion, bell peppers, chile peppers, bacon bits, bouillon, beer, 1/4 cup chili powder, garlic, Worcestershire sauce, oregano, cumin, hot pepper sauce, basil, cayenne, paprika, sugar, 1 tsp salt, and 1 tsp black pepper. Stir to blend, then cover and simmer over low heat for at least 2 hours, stirring occasionally.
 - Taste and season with more salt, pepper, and chili powder if necessary. The longer the chili simmers, the better it will taste. Remove from the heat and serve, or cool, refrigerate, and reheat the next day.
@@ -43,3 +45,4 @@ Category: Soups
 Link: https://www.allrecipes.com/recipe/78299/boilermaker-tailgate-chili/
 
 Tags: Meat
+

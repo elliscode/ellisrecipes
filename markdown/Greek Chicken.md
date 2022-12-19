@@ -1,6 +1,7 @@
 # Greek Chicken
 
 ## Ingredients
+
 - 1 pound boneless, skinless chicken
 - 56 g plain Greek yogurt
 - 14 g olive oil
@@ -12,6 +13,7 @@
 - 1/2 tsp freshly ground black pepper
 
 ## Instructions
+
 - Place the chicken pieces in a freezer bag or a bowl and set aside.
 - Add the Greek yogurt and olive oil to a medium size bowl. Zest one of the lemons and add to the bowl. Juice that lemon into the bowl with the zest. Add the garlic powder, oregano, kosher salt and black pepper to the lemon juice and zest and stir. Pour half of the marinade into the freezer bag or the bowl with the chicken pieces and reserve the other half of the marinade for basting. Marinate the chicken for 30 minutes or up to 3 hours in the refrigerator.
 - When ready to grill, prepare the grill by lightly oiling the grate with vegetable oil or cooking spray and set to medium high heat.
@@ -24,3 +26,4 @@ Category: Meals
 Link: https://www.foodiecrush.com/best-greek-chicken-marinade/
 
 Tags: Greek, Meat
+

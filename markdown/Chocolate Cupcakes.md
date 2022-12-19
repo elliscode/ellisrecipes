@@ -1,6 +1,7 @@
 # Chocolate Cupcakes
 
 ## Ingredients
+
 - 94 g all-purpose flour
 - 45 g unsweetened natural cocoa powder
 - 3/4 tsp baking powder
@@ -14,6 +15,7 @@
 - 1/2 cup buttermilk, at room temperature*
 
 ## Directions
+
 - Preheat the oven to 350F. Line a 12-cup muffin pan with cupcake liners. Line a second pan with 2 liners - this recipe makes about 14 cupcakes. Set aside.
 - Cupcakes: Whisk the flour, cocoa powder, baking powder, baking soda, and salt together in a large bowl until thoroughly combined. Set aside. In a medium bowl, whisk the eggs, granulated sugar, brown sugar, oil, and vanilla together until combined. Pour half of the wet ingredients into the dry ingredients. Then half of the buttermilk. Gently whisk for a few seconds. Repeat with the remaining wet ingredients and buttermilk. Stir until *just* combined; do not overmix. The batter will be thin.
 - Pour or spoon the batter into the liners. Fillonly halfway to avoid spilling over the sides or sinking.
@@ -27,3 +29,4 @@ Category: Desserts
 Link: https://sallysbakingaddiction.com/super-moist-chocolate-cupcakes/
 
 Tags: Vegetarian
+

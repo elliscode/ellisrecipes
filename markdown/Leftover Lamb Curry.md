@@ -1,6 +1,7 @@
 # Leftover Lamb Curry
 
 ## Ingredients
+
 - 2 TBSP. canola or vegetable oil
 - 1 medium red onion, finely chopped
 - 2 TBSP. ground coriander
@@ -16,6 +17,7 @@
 - 1 four cup tupperware of leftover lamb
 
 ## Directions
+
 - saute onion in olive oil
 - add everything else besides lamb to pot
 - bring to a boil
@@ -30,3 +32,4 @@ Category: Meals
 Link: https://www.delish.com/cooking/recipe-ideas/a38327450/lamb-curry-recipe/
 
 Tags: Indian, Meat
+

@@ -1,6 +1,7 @@
 # Kung Pao Sauce
 
 ## Ingredients
+
 - 2 oz cold water
 - 1 TBSP corn starch
 - 6 g better than bouillon NO chicken
@@ -11,6 +12,7 @@
 - 8 g brown sugar
 
 ## Directions
+
 - add water and corn starch to a bowl and whisk together
 - add everything else to the bowl and whisk together
 - pour into wok over medium heat and cook until thickened
@@ -21,3 +23,4 @@ Servings: 2
 Category: Dips And Sauces
 
 Tags: Asian, Vegan
+

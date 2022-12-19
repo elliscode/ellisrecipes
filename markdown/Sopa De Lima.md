@@ -1,6 +1,7 @@
 # Sopa De Lima
 
 ## Ingredients
+
 - 1 large onion
 - 1 sweet red pepper
 - 4 garlic cloves
@@ -15,6 +16,7 @@
 - 1 litre chicken stock
 
 ## Directions
+
 - Dice the onion and red pepper, and cook in some olive oil on a medium heat until they soften. Chop the spring onions into discs and add them as the onion and red pepper begin to soften.
 - Slice the garlic and dice the tomatoes. Add them to the pan, along with the cinnamon, oregano and thyme. You can also add the chopped red or habanero chilli here, removing the seeds if you arent too keen on heat.
 - Cook this all until it begins to break down.
@@ -35,3 +37,4 @@ Category: Soups
 Link: https://www.jrnls.xyz/sopa-de-lima
 
 Tags: Meat, Mexican
+

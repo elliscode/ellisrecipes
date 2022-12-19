@@ -1,6 +1,7 @@
 # Candied Pecans
 
 ## Ingredients
+
 - 6 TBSP brown sugar
 - 1.5 tsp ground cinnamon
 - 1/2 tsp fine sea salt, see notes
@@ -11,6 +12,7 @@
 - 6 oz pecan halves
 
 ## DIRECTIONS
+
 - Line a baking sheet with parchment paper or a silicone baking mat.
 - Add brown sugar, cinnamon, salt, cayenne, vanilla, water, and the orange zest (optional) to a medium skillet.
 - Place the skillet over medium heat and cook, stirring often until the brown sugar melts into a bubbling sauce, about 1 minute.
@@ -28,3 +30,4 @@ Category: Desserts
 Link: https://www.inspiredtaste.net/47514/easy-candied-pecans/#itr-recipe-47514
 
 Tags: Nuts, Vegan
+

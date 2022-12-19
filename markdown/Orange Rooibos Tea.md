@@ -1,6 +1,7 @@
 # Orange Rooibos Tea
 
 ## Ingredients
+
 - 4 cups water
 - 4 tsp dried rosemary
 - 2 tsp rooibos tea
@@ -8,6 +9,7 @@
 - 2 tsp honey
 
 ## Directions
+
 - in a saucepan, bring water to a boil
 - add the rooibos tea and rosemary
 - remove from heat and let sit for 5 minutes
@@ -20,3 +22,4 @@ Category: Drinks
 Link: https://eatsmarter.com/recipes/orange-rooibos-iced-tea
 
 Tags: Vegetarian
+

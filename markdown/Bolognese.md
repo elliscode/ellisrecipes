@@ -1,6 +1,7 @@
 # Bolognese
 
 ## Ingredients
+
 - 1 medium onion, chopped
 - 1 celery stalk, chopped
 - 1 small carrot, peeled, chopped
@@ -18,6 +19,7 @@
 - 2 oz. finely grated Parmesan (about 1/2 cup), plus more for serving
 
 ## Preparation
+
 - Pulse onion, celery, and carrot in a food processor until very finely chopped. Transfer to a small bowl.
 - Heat oil in a Dutch oven or other large pot over medium. Break beef into small clumps (about 1 1/2") and add to pot; season lightly with salt. Cook, stirring occasionally but not breaking meat apart, until beef is lightly browned but not crisp, 6-8 minutes. It may be gray in spots (that's okay!) and still a little pink in the center. Using a slotted spoon, transfer beef to a medium bowl.
 - Wipe out pot. Cook pancetta in pot over medium heat, stirring occasionally, until pancetta has released some of its fat and is crisp, 6-8 minutes. Add onion mixture to pot and cook, stirring occasionally, until vegetables are very soft and beginning to stick to surface, 6-8 minutes.
@@ -36,3 +38,4 @@ Category: Dips And Sauces
 Link: https://www.bonappetit.com/recipe/bas-best-bolognese
 
 Tags: Italian, Meat
+

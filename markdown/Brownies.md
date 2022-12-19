@@ -1,6 +1,7 @@
 # Brownies
 
 ## Ingredients
+
 - 300 g granulated sugar
 - 90 g flour
 - 50 g cocoa powder
@@ -14,6 +15,7 @@
 - 112 g semi sweet chocolate chips
 
 ## Directions
+
 - preheat oven to 325F convection
 - spray a cast iron skillet or dutch oven with flour baking spray
 - line skillet or dutch oven with parchment and spray parchment with baking spray
@@ -27,3 +29,4 @@ Servings: 8
 Category: Desserts
 
 Tags: Vegetarian
+

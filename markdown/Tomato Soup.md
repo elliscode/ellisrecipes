@@ -1,6 +1,7 @@
 # Tomato Soup
 
 ## Ingredients
+
 - 1 TBSP olive oil
 - 1 large onion, chopped
 - 1/2 tsp garlic powder, minced
@@ -36,3 +37,4 @@ Category: Soups
 Link: https://www.allrecipes.com/recipe/237014/fire-roasted-tomato-soup/
 
 Tags: vegetarian
+

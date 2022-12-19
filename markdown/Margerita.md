@@ -1,6 +1,7 @@
 # Margerita
 
 ## Ingredients
+
 - Deselect All
 - Ice cubes
 - 3 oz tequila
@@ -10,10 +11,12 @@
 - 1 TBSP Lime-salt-sugar, recipe follows
 
 ### Simple Syrup:
+
 - 12.5 g sugar
 - 14.7 g water
 
 ### Lime-salt-sugar:
+
 - Zest of one lime
 - 2 TBSP kosher salt
 - 2 TBSP sugar
@@ -25,3 +28,4 @@ Category: Drinks
 Link: https://www.foodnetwork.com/recipes/food-network-kitchen/margarita-recipe-1928467
 
 Tags: Mexican, alcohol
+

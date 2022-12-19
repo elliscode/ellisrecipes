@@ -1,6 +1,7 @@
 # Lentil Soup
 
 ## Ingredients
+
 - 1/4 cup olive oil
 - 1 diced onion
 - 2 chopped carrots
@@ -17,6 +18,7 @@
 - 2 TBSP lemon juice (added last)
 
 ## Directions
+
 - heat olive oil over medium high heat
 - saute onions and carrots in oil
 - add spices and saute
@@ -34,3 +36,4 @@ Category: Soups
 Link: https://cookieandkate.com/best-lentil-soup-recipe/
 
 Tags: Vegan
+
