@@ -16,6 +16,7 @@
 - In another bowl, stir together the flour, cocoa powder, baking soda, baking powder and salt. Sift the dry ingredients into the wet ingredients, pausing two or three times to stir, and keep stirring until all the large lumps are gone.
 - Pour the batter into the cupcake liners until they are about two-thirds full. Bake until a toothpick inserted into the center comes out clean, about 20 minutes. Cool on a wire rack.
 - When cool, frost however you like
+
 Servings: 12
 Category: Desserts
 Link: https://cooking.nytimes.com/recipes/1012423-vegan-chocolate-cupcakes

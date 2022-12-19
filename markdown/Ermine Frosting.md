@@ -51,6 +51,7 @@
 - Once all added, add vanilla and salt, then whip for 2 to 3 minutes until you can see that it is still enough to hold peaks. Then it's ready to use!
 ### Chocolate Flavoured Option:
 - Beat in the cocoa powder at the end, just until mixed through.
+
 Servings: 2
 Category: Desserts
 Link: https://www.recipetineats.com/fluffy-vanilla-frosting/

@@ -18,6 +18,7 @@
 - Bake in the preheated oven until lightly browned and crisp, about 30 minutes
 - Cover the bottom of a x3-inch casserole dish with a layer of spaghetti sauce; top with a layer of eggplant slices. Sprinkle with about 1 TBSP of the remaining Parmesan cheese and 1/3 the mozzarella cheese. Repeat layers with remaining ingredients, ending with a cheese layer. Sprinkle with basil.
 - Bake in the preheated oven until cheese is bubbling and golden brown, about 35 minutes.
+
 Servings: 6
 Category: Meals
 Link: https://www.allrecipes.com/recipe/229369/baked-eggplant-parmesan/

@@ -16,6 +16,7 @@ Buy 18 oz of each type of berry
 - Cool and add to pie shell. Remove from heat and stir in the butter. Allow to cool for 15 minutes. Pour mixture into unbaked pie shell (in a 9 in deep dish pan).
 - Add lattice top or a whole top with holes pricked on top for steam to escape. (See directions for lattice crust below).
 - Pinch the edges of the top and bottom pie crusts together and crimp the edge, if you like. Brush a thin layer of beaten egg white over the top of the pie and sprinkle lightly with sugar.
+
 Servings: 8
 Category: Desserts
 Link: https://tastesbetterfromscratch.com/triple-berry-pie/

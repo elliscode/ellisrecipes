@@ -21,6 +21,7 @@
 - reduce heat to a high simmer for 25 minutes
 - mix miso paste with a ladle of broth until smooth, then add to the soup
 - let cool for 5 minutes and serve
+
 Servings: 4
 Category: Soups
 Link: https://www.connoisseurusveg.com/manhattan-chickpea-chowder/

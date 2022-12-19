@@ -24,6 +24,7 @@ How to make paneer
 - After 3 to 4 hours, remove the cloth and cut the paneer to cubes.
 - Refrigerate the homemade paneer and use up with 2 to 3 weeks. Or freeze up to 3 months.
 - Avoid overcooking the paneer after adding it to the curry. It does not need much cooking. I generally add it to the gravy and turn off the stove. Keep the pan covered so the paneer absorbs the flavors.
+
 Servings: 6
 Category: Cheese
 Link: https://www.indianhealthyrecipes.com/how-to-make-paneer-cubes-at-home/

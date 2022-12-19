@@ -27,6 +27,7 @@
 - Drain the pasta, toss it with a little olive oil and let it cool to room temp
 - Transfer to a large bowl with the salad ingredients
 - Pour the dressing and toss to coat
+
 Servings: 8
 Category: Sides
 Link: https://www.loveandlemons.com/pasta-salad/

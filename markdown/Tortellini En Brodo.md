@@ -18,6 +18,7 @@
 - saute onion, carrot, celery, and spinach on low for about 10 mins
 - Add the rest of the ingredients besides the tortellini and bring to a boil
 - Add the tortellini and keep over low heat for 4 mins
+
 Servings: 2
 Category: Soups
 Link: https://www.skinnytaste.com/spinach-tortellini-en-brodo/

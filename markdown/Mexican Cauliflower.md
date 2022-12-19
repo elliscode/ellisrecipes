@@ -15,6 +15,7 @@
 - combine all ingredients except for cauli flour and chickpeas in a large bowl, and whisk together
 - add cauliflower and chickpeas and toss to coat
 - pour out onto baking sheet into an even layer and bake for 30 minutes
+
 Servings: 2
 Category: Meals
 Link: https://www.twopeasandtheirpod.com/roasted-cauliflower-and-chickpea-tacos/

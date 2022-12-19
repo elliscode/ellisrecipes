@@ -19,6 +19,7 @@
 - Once the seared side is browned and looking crispy, flip to other side and sear, until chicken is cooked through to 165 degrees F or meat is no longer pink (another 5-10 minutes, depending on thickness and size of chicken. Turn the heat down to medium or medium-low if both sides are seared but inside is not yet cooked the whole way). If you have a lid to your skillet, you can cover it to speed up the cooking time a bit.
 - Remove chicken from skillet to a cutting board. Allow to rest for 5 minutes, then shred with two forks. Optional: for an extra punch of flavor, you can return the shredded chicken to the skillet to coat in the cooking juices.
 - Serve with a squeeze of fresh lime juice garnished with fresh cilantro, if desired. Use in enchiladas, on tacos or burritos, in bowls, or on its own as a main course.
+
 Servings: 6
 Category: Meals
 Link: https://www.bowlofdelicious.com/smoky-mexican-pulled-chicken/

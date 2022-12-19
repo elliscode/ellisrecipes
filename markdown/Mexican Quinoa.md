@@ -17,6 +17,7 @@
 - add everything else to the pot and bring to a boil
 - reduce to a simmer, simmer uncovered for 20 minutes
 - remove from heat, stir in lime juice and let sit for 10 minutes
+
 Servings: 4
 Category: Meals
 Link: https://damndelicious.net/2014/04/09/one-pan-mexican-quinoa/

@@ -11,6 +11,7 @@
 - put pot back on high heat until time between pops is 2 seconds
 - add salt to pot and shake to coat
 - pour into bowl and serve
+
 Servings: 2
 Category: Snacks
 Link: https://www.thepioneerwoman.com/food-cooking/recipes/a94264/how-to-make-stovetop-popcorn/

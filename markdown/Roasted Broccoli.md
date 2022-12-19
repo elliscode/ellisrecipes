@@ -10,6 +10,7 @@
 - Melt butter and toss over broccoli
 - Season with salt and pepper and spread evenly on baking sheet
 - Bake for 13 min
+
 Servings: 2
 Category: Sides
 Link: https://cookieandkate.com/perfect-roasted-broccoli-recipe/

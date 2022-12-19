@@ -5,6 +5,7 @@
 - 1 g green onions
 - 1/4 tsp salt
 - fresh cracked black pepper
+
 Servings: 2
 Category: Meals
 Tags: breakfast, diner, vegetarian

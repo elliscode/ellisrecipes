@@ -9,6 +9,7 @@
 ## Directions
 - combine all ingredients in bowl
 - whisk to emulsify
+
 Servings: 2
 Category: Dips And Sauces
 Link: https://barefeetinthekitchen.com/best-balsamic-vinaigrette/

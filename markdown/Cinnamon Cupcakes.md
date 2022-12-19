@@ -18,6 +18,7 @@ Servings:
 - Next add 1/2 cup water, 1/4 cup vegetable oil, 1 TBSP vanilla extract, and 1 large egg. Whisk together just until the batter comes together.
 - Fill the cupcake liners about 2/3 way full. Bake for 18-20 minutes or until a toothpick comes out clean.
 - Let the cupcakes cool for 10 minutes before moving them to a cooling rack to finish cooling. If you want to accelerate the cooling process, place the pan in the freezer for about 30 minutes.
+
 Servings: 1
 Category: Desserts
 Link: https://chelsweets.com/cinnamon-cupcake-recipe/

@@ -26,6 +26,7 @@
 - Drain the grease from the browned ground beef.
 - Put the drained beef and the remaining ingredients in a slow cooker.
 - Cook on low for 4 hours.
+
 Servings: 5
 Category: Meals
 Link: https://copykat.com/wprm_print/24690

@@ -14,6 +14,7 @@
 - If using sour cherries, you will need to adjust the amount of sugar. I'd recommend starting about cup and working your way up if more sweetness is needed.
 - Refrigerate leftover fresh cherry pie filling in a sealed container for up to 3 days.
 - This recipe freezes beautifully.
+
 Servings: 8
 Category: Desserts
 Link: https://www.mybakingaddiction.com/homemade-cherry-pie-filling-recipe/

@@ -23,6 +23,7 @@
 - Cover and cook on high for one hour.
 - Reduce to low and continue cooking for 2-3 hours, stirring every hour.
 - As stated for Vegetarians use vegetable stock.
+
 Servings: 6
 Category: Sides
 Link: https://www.food.com/recipe/crock-pot-stuffing-49609

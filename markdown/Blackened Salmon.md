@@ -15,6 +15,7 @@
 - add butter to skillet
 - add salmon to fillet old bay side down, and sear for 2 minutes
 - carefully remove salmon with spatula to avoid losing blackened meat to pan
+
 Servings: 2
 Category: Meals
 Tags: Meat, Seafood

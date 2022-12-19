@@ -15,6 +15,7 @@
 - add all other ingredients and bring to a boil
 - reduce heat to a simmer and simmer for 20 min
 - remove from heat and blend with immersion blender until smooth
+
 Servings: 8
 Category: Dips And Sauces
 Link: https://www.connoisseurusveg.com/vegan-gravy/

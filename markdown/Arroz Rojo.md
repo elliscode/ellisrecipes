@@ -17,6 +17,7 @@ Authentic Mexican red rice. Easy to make! Use a different chile if you want mild
 - Stir rice into onion mixture and cook, stirring often, until rice is lightly toasted, about 3 more minutes. Stir grated tomato, chicken broth, and tomato sauce into the rice. Bring mixture to a boil.
 - Mix in jalapeno pepper, cilantro, and salt; reduce heat to low. Cover skillet and simmer until rice has absorbed the liquid, about 15 minutes. Do not lift the cover while the rice is cooking.
 - Turn off heat and let rice stand covered for 8 minutes. Fluff with a fork before transferring rice to a serving dish.
+
 Servings: 4
 Category: Sides
 Link: https://www.allrecipes.com/recipe/221433/arroz-rojo-mexican-red-rice/

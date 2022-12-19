@@ -17,6 +17,7 @@
 - heat oil over medium heat in medium saucepan
 - saute onion for 5 min
 - Add all the other ingredients, bring to a boil, then simmer for 30 min
+
 Servings: 2
 Category: Dips And Sauces
 Link: https://www.instagram.com/p/CaITgXCoSiK/

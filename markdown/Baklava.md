@@ -25,6 +25,7 @@
 - let syrup cool and add honey
 - pour the syrup over the baklava
 - let cool completely before serving
+
 Servings: 12
 Category: Desserts
 Link: https://www.mygreekdish.com/recipe/baklava-greek-walnut-pistachio-cake/

@@ -14,6 +14,7 @@
 - Zest of one lime
 - 2 TBSP kosher salt
 - 2 TBSP sugar
+
 Servings: 1
 Category: Drinks
 Link: https://www.foodnetwork.com/recipes/food-network-kitchen/margarita-recipe-1928467

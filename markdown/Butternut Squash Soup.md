@@ -20,6 +20,7 @@
 - With an immersion blender, blend the soup well. Alternatively, you can blend the soup in a standard blender in batches. If it's too thick add more broth.
 - Stir in the Greek yogurt!
 - Serve with a dollop of greek yogurt and pumpkin seeds!
+
 Servings: 4
 Category: Soups
 Link: https://www.runninginaskirt.com/crock-pot-roasted-butternut-squash-soup/

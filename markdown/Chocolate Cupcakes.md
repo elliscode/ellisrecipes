@@ -17,6 +17,7 @@
 - Pour or spoon the batter into the liners. Fillonly halfway to avoid spilling over the sides or sinking.
 - Bake for 18-21 minutes, or until a toothpick inserted in the center comes out clean. Allow to cool completely before frosting. I usually let them cool in the pan.
 - Frost cooled cupcakes however you'd like. I used chocolate buttercream and Wilton 1M piping tip for these pictured cupcakes. Top with sprinkles, if desired. Store leftovers in the refrigerator for up to 5 days.
+
 Servings: 14
 Category: Desserts
 Link: https://sallysbakingaddiction.com/super-moist-chocolate-cupcakes/

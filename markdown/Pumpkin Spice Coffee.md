@@ -5,6 +5,7 @@
 ## Directions
 - Add coffee and pumpkin pie spice to a coffee filter
 - Pour over 8 oz of 200F water
+
 Servings: 1
 Category: Drinks
 Link: https://www.mccormick.com/recipes/beverages-cocktails/pumpkin-pie-spiced-coffee

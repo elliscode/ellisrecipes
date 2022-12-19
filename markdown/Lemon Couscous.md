@@ -15,6 +15,7 @@
 - add couscous and stir
 - remove from heat, cover and wait five minutes
 - fluff and serve
+
 Servings: 2
 Category: Meals
 Link: https://www.allrecipes.com/recipe/242232/lemon-couscous/

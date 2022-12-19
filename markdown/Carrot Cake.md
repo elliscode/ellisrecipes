@@ -35,6 +35,7 @@
 - Melt unsalted butter in a saucepan over medium heat until the butter gets a tint of brown, not too dark, about 10 minutes. It will smell nutty and delicious! Pour into a heat-safe bowl, and cover at room temp to solidify.
 - Using a hand mixer or stand mixer with paddle attachment, beat together the solidified brown butter and cream cheese until smooth but not whipped. Add powdered sugar, vanilla, milk, and salt. Beat on low speed until the powdered sugar is incorporated, then increase speed to medium-high until creamy but not whipped, ~1-2 minutes. Add more powdered sugar if frosting is too thin, more milk if too thick, or another pinch of salt if too sweet. Frosting should be smooth but not runny.
 - Using a long serrated knife, level off the tops of the cakes to create a flat surface. Add a spoonful of frosting to the center of your cake stand or serving plate to keep the cake in place. Place the first layer on the stand and add an even layer of frosting on top. Spread to cover the entire top surface. Repeat with the second and third layer. Spread remaining frosting over the sides of the cake. Decorate the cake with the rest of the toasted pecans. Refrigerate cake for at least 15-20 minutes to set before cutting. Store in a fridge to enjoy for up to 5 days. Don't leave it out overnight since the frosting has cream cheese in it.
+
 Servings: 12
 Category: Desserts
 Link: https://murmursofricotta.com/carrot-cake/

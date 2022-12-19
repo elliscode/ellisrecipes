@@ -11,6 +11,7 @@
 - in a large bowl, whisk together all ingredients until smooth
 - pour into pie crust and bake for 15 minutes
 - lower oven temperature to 350F and bake for 45 more minutes
+
 Servings: 8
 Category: Desserts
 Link: https://www.mccormick.com/recipes/dessert/signature-pumpkin-pie

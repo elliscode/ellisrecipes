@@ -21,6 +21,7 @@
 - Reduce To a simmer and cook for 15 minutes
 - Remove from heat and stir with spatula
 - Cover and let sit for 10 minutes
+
 Servings: 2
 Category: Meals
 Link: https://www.betterthanbouillon.com/recipes/mexican-inspired-pinto-beans-and-rice/

@@ -21,6 +21,7 @@
 - When Ready to Cook: Set your precision cooker to 145F (63C) for extra-meaty ribs or 165F (74C) for more traditionally textured ribs.
 - Add ribs to the water bath and cover it with a lid, aluminum foil, or table tennis balls. Cook for 36 hours at 145F or 12 hours at 165F. Transfer cooked ribs to a large bowl of water filled with ice to chill thoroughly. Ribs can be stored in the refrigerator at this stage for up to 5 days before finishing.
 - To Finish Sauced Ribs in the Oven: Remove ribs from vacuum bags and carefully pat dry with paper towels. Adjust oven racks to upper and lower-middle positions and preheat oven to 300F (150C). Line 2 rimmed baking sheets with aluminum foil and place a wire rack in each. Divide ribs evenly on racks, meat-side up. Transfer ribs to oven and cook until surface is sizzling and ribs are heated through, about 20 minutes. Brush ribs with sauce and return to oven for 10 minutes. Remove from oven, brush with another layer of sauce, and return to oven until sauce is dried and sticky, about 10 minutes longer. Remove ribs from oven, paint with one last layer of sauce, and serve, passing extra sauce at the table.
+
 Servings: 6
 Category: Meals
 Link: https://www.seriouseats.com/sous-vide-pork-ribs-recipe-food-lab

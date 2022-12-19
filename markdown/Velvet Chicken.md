@@ -14,6 +14,7 @@
 - Remember, in both scenarios, you will be cooking the chicken again in your stir-fry, so avoid overcooking it during the pre-cook process!
 ## Notes
 We provided measurements for velveting 12 oz (340 g) of chicken, which is typical for one stir-fry dish. Adjust the amounts proportionally if you are making more or less.
+
 Servings: 4
 Category: Meals
 Link: https://thewoksoflife.com/how-to-velvet-chicken-stir-fry/

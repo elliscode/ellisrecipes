@@ -17,6 +17,7 @@
 - cook vegetables in 2 tsp butter until starting to brown
 - add rice and soy sauce and cook until not wet
 - add eggs back in and toss to distribute
+
 Servings: 3
 Category: Meals
 Link: https://www.gimmesomeoven.com/fried-rice-recipe/

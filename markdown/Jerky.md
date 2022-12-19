@@ -18,6 +18,7 @@
 - bake for 1 hour
 - remove from oven and toss curls in bbq sauce
 - bake for an additional 10 minutes
+
 Servings: 4
 Category: Snacks
 Link: https://thehiddenveggies.com/vegan-jerky-easy-gluten-free/

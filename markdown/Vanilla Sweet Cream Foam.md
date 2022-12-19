@@ -9,6 +9,7 @@
 - If using a handheld frother, add ingredients to a jar and shake to combine. Then froth for 15-30 seconds until it starts to foam.
 - For just a creamer with no foam, mix ingredients in a jar to combine.
 - Serve over ice coffee, cold brew, espresso, or any drink of your choice and enjoy!
+
 Servings: 2
 Category: Drinks
 Link: https://imhungryforthat.com/sweet-cream-cold-foam-recipe/

@@ -11,6 +11,7 @@
 ## Directions
 - add everything to a food processor
 - blend until smooth
+
 Servings: 2
 Category: Dips And Sauces
 Link: https://www.loveandlemons.com/white-bean-dip/

@@ -13,6 +13,7 @@
 - In a large bowl, combine cucumbers, tomatoes, and onions.
 - In a smaller bowl, mix the olive oil, lemon juice, and dried oregano. Pour over the vegetables and mix well. Season salad with salt and pepper.
 - Sprinkle feta cheese and olives over the top of salad and mix. Taste and adjust spices if need be. Refrigerate until ready to eat. Enjoy!
+
 Servings: 8
 Category: Sides
 Link: https://belleofthekitchen.com/cucumber-greek-salad/

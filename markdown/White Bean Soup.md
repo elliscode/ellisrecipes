@@ -18,6 +18,7 @@
 - add everything elss to the pot
 - bring to a boil
 - reduce heat to a simmer, then simmer for 10 mins
+
 Servings: 4
 Category: Soups
 Tags: Vegan

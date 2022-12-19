@@ -16,6 +16,7 @@
 - bring to a boil, then lower to a simmer
 - simmer for 30 mins
 - serve with rice
+
 Servings: 4
 Category: Meals
 Link: https://360yourlife.com/store/shop/thankful-30-the-crock-pot-edition-2/

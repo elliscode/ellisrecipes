@@ -17,6 +17,7 @@
 - Top rack
 - 6 per sheet
 - 23 min
+
 Servings: 16
 Category: Desserts
 Link: https://www.allrecipes.com/recipe/25037/best-big-fat-chewy-chocolate-chip-cookie/

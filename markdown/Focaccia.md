@@ -16,6 +16,7 @@
 - preheat oven to 425F
 - Pour another TBSP of oil over each round of dough. Rub your hands lightly in the oil to coat, then, using all of your fingers, press straight down to create deep dimples. If necessary, gently stretch the dough as you dimple to allow the dough to fill the pan. Sprinkle with flaky sea salt all over.
 - Transfer the pans to the oven and bake for 25 to 30 minutes, until the underside is golden and crisp. Remove the pans from the oven and transfer the focaccia to cooling racks. Let it cool for 10 minutes before cutting and serving; let it cool completely if you are halving it with the intention of making a sandwich.
+
 Servings: 2
 Category: Sides
 Link: https://alexandracooks.com/2018/03/02/overnight-refrigerator-focaccia-best-focaccia/

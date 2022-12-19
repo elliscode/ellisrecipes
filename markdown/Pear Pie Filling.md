@@ -17,6 +17,7 @@
 - Lattice top crust
 - Bake for 15 minutes on 450
 - Reduce temperature to 350 and bake for 45 minutes
+
 Servings: 8
 Category: Desserts
 Link: https://www.allrecipes.com/recipe/12275/fresh-pear-pie/

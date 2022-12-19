@@ -19,6 +19,7 @@
 - bake for 50 minutes
 - remove from oven and let cool in pan
 - turn pan upside down onto cooling rack to remove cake and let cool completely
+
 Servings: 12
 Category: Desserts
 Link: https://www.tasteofhome.com/recipes/contest-winning-moist-chocolate-cake/

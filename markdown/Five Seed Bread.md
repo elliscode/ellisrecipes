@@ -26,6 +26,7 @@
 - place parchment paper and dough in preheated dutch oven and bake for 40 mins covered
 - remove lid and bake for 10 mins uncovered
 - let cool for 15 mins before serving
+
 Servings: 4
 Category: Sides
 Tags: Bread, Vegan

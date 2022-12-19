@@ -13,6 +13,7 @@
 - reduce heat to low
 - simmer for 15 min
 - remove from heat and let sit covered 10 min
+
 Servings: 4
 Category: Sides
 Tags: Asian, Vegan

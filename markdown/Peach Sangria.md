@@ -14,6 +14,7 @@
 - Mix all other ingredients together in a pitcher, except the ice.
 - We typically fill the glasses with ice and add several strawberries and a slice of lemon (or 2 cut in half) and then fill with the sangria drink mixture. We add the ice separately so as not to dilute the sangria mixture if the pitcher will sit for a bit.
 - You can also mix it altogether and serve.
+
 Servings: 24
 Category: Drinks
 Link: https://beautifullinens.com/carrabbas-peach-sangria-copycat/

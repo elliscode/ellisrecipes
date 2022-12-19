@@ -14,6 +14,7 @@
 - Melt chocolate, either in a microwave or over a water bath, until fluid and warm; start at the lower end of the suggested quantity range for a "milk" chocolate profile, or use the maximum amount for the deepest chocolate flavor. Scrape all of the warm chocolate into stand mixer bowl at once, then immediately begin whipping on medium-high until fully incorporated. Scrape bowl with a flexible spatula to ensure there is no unincorporated chocolate lurking around sides of bowl, then continue mixing until homogeneous. If you like, adjust to taste with additional salt, vanilla, or dissolved espresso powder to add depth of flavor.
 - Use buttercream right away, or transfer to a large zipper-lock bag, press out air, and seal. Buttercream can be refrigerated for up to 2 weeks and frozen for up to several months. (The main issue with longer storage in the freezer is odor absorption, not spoilage.) Rewarm to approximately 73F (23C) and re-whip before using.
 - Troubleshooting: If warmer than 76F (24C), the buttercream will be soft and loose; pop it in the fridge for 15 minutes and re-whip to help it thicken and cool. If colder than 70F (21C), the buttercream will be firm and dense, making it difficult to spread over cakes and slow to melt on the tongue, creating a greasy mouthfeel. To warm, briefly set over a pan of steaming water, just until you see the edges melting slightly, then re-whip to homogenize. Full troubleshooting guide and video here.
+
 Servings: 4
 Category: Desserts
 Link: https://www.seriouseats.com/chocolate-swiss-buttercream

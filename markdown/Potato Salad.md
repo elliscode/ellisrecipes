@@ -17,6 +17,7 @@
 - drain potatoes
 - add everything to big bowl
 - mix with gloves
+
 Servings: 4
 Category: Sides
 Link: https://www.foodiecrush.com/how-to-make-the-best-potato-salad/

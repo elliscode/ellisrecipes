@@ -20,6 +20,7 @@
 - pipe onto silicone sheets
 - let rest for 20 minutes
 - bake for 20 minutes on the bottom and middle racks of the oven
+
 Servings: 6
 Category: Desserts
 Link: https://www.piesandtacos.com/swiss-meringue-macaron-recipe/#wprm-recipe-container-19080

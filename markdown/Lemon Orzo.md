@@ -14,6 +14,7 @@
 - add everything else to the saucepan and decide to a simmer
 - simmer for 15 minutes
 - remove from heat and stir in green onions and lemon juice
+
 Servings: 2
 Category: Sides
 Link: https://www.foodnetwork.com/recipes/food-network-kitchen/lemon-orzo-recipe-2106041

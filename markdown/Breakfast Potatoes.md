@@ -14,6 +14,7 @@
 - Chop the potatoes into cubes
 - Melt butter in a large skillet over medium heat
 - Saute potatoes and spices over medium heat until crunchy
+
 Servings: 2
 Category: Sides
 Link: https://littlespicejar.com/easy-skillet-breakfast-potatoes/

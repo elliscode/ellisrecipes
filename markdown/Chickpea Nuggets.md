@@ -14,6 +14,7 @@
 - chop chickpeas, minced onions, garlic powder, no chicken bouillon, aquafaba, and oat flour in food processor
 - portion into 12 balls, coat with breadcrumbs
 - slide onto pizza steel and bake for 16 min, flipping halfway through
+
 Servings: 12
 Category: Meals
 Link: https://www.thekitchn.com/recipe-chickpea-nuggets-235880

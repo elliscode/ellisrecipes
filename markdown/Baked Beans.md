@@ -15,6 +15,7 @@
 - Stir all ingredients together in a large casserole dish
 - Bake covered for one hour
 - Bake uncovered for an additional 15 minutes
+
 Servings: 8
 Category: Sides
 Link: https://www.thespruceeats.com/vegetarian-boston-baked-beans-with-molasses-3377176

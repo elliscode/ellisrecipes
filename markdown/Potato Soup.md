@@ -16,6 +16,7 @@
 - add everything else to pot and bring to a boil
 - reduce to a simmer and simmer for 30 mins
 - blend with immersion blender
+
 Servings: 4
 Category: Soups
 Link: https://lovingitvegan.com/creamy-vegan-potato-soup/

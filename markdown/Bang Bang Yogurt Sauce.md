@@ -6,6 +6,7 @@
 - 1/4 tsp salt
 ## Directions
 - add everything to a cup and mix
+
 Servings: 2
 Category: Dips And Sauces
 Tags: Vegetarian

@@ -27,6 +27,7 @@ Garnish (Optional)
 - Now turn the heat down (between medium-low and medium heat) to a mild simmer. You want to see movement in the pan while the broth is cooking down (don't boil though). Simmer for 15-20 minutes until rice is al dente. Rotate the pan on the burner 1-2 times during cooking for even heat distribution.
 - Once the broth is nearly cooked off, you will need to pay close attention to the socarrat forming on the bottom of the pan (the golden rice crust). You will start to hear a snap, crackle, and pop, along with smelling a nutty aroma. This should take 1-2 minutes to form. Stick a fork or spoon straight to the bottom to test if it's forming. (If it smells like it's burning, remove from heat immediately) (*see note).
 - Remove the pan from the heat. Add the peas to the top of the rice (don't mix in). Cover the pan with foil and let the paella rest for 5-8 minutes. Top with fresh-cut parsley, cracked pepper and side with lemon wedges to serve. Enjoy!
+
 Servings: 5
 Category: Meals
 Link: https://veganhuggs.com/vegetable-paella-recipe/

@@ -35,6 +35,7 @@
 - Add the gravy, then everything else
 - Simmer for 20 min
 - Serve with basmati rice
+
 Servings: 2
 Category: Meals
 Link: https://www.indianhealthyrecipes.com/paneer-lababdar-recipe/

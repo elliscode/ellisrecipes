@@ -17,6 +17,7 @@
 - Stir in everything else and mix on medium until smooth
 - Bake at 425F for 15 minutes
 - reduce temperature to 350F for 45 minutes
+
 Servings: 8
 Category: Desserts
 Link: https://www.allrecipes.com/recipe/12142/sweet-potato-pie-i/

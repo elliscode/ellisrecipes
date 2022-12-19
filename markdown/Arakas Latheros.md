@@ -16,6 +16,7 @@
 - Add the tomato, dill, pepper and a half tsp salt. Add enough hot water so that the peas are covered just a bit (about 1/4 cup).
 - Mix well and bring to a boil. Then lower heat and simmer for 30 minutes, until peas are soft and water is gone-they should only be left with the olive oil.
 - Serve at room temperature with feta and bread. Add salt as needed.
+
 Servings: 6
 Category: Sides
 Link: https://www.olivetomato.com/greek-style-peas-arakas-latheros/

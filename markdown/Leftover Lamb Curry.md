@@ -20,6 +20,7 @@
 - reduce to a simmer and simmer for 10 minutes or more
 - when ready to serve, stir in lamb
 - serve over basmati rice
+
 Servings: 2
 Category: Meals
 Link: https://www.delish.com/cooking/recipe-ideas/a38327450/lamb-curry-recipe/

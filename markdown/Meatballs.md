@@ -18,6 +18,7 @@
 - Mix bread crumbs, Romano cheese, parsley, salt, pepper, garlic powder, and onion powder together. Combine with water and eggs. Add ground beef and mix well. Roll mixture into balls and place on a nonstick baking sheet.
 - Step 3
 - Bake in the preheated oven until browned, about 30 minutes."
+
 Servings: 6
 Category: Meals
 Link: https://www.allrecipes.com/recipe/268249/italian-baked-meatballs/

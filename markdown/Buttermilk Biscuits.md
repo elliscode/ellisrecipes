@@ -18,6 +18,7 @@
 - smush the last bit of dough into the cutter to form last biscuit
 - brush tops with buttermilk
 - bake for 15 mins directly on pizza steel
+
 Servings: 16
 Category: Sides
 Link: https://sallysbakingaddiction.com/flaky-buttermilk-biscuits/

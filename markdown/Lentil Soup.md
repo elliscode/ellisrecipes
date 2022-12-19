@@ -24,6 +24,7 @@
 - add spinach and cook for 5 mins
 - add lemon juice and divide into bowls
 - wait 10 mins to cool and eat
+
 Servings: 4
 Category: Soups
 Link: https://cookieandkate.com/best-lentil-soup-recipe/

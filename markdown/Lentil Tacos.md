@@ -8,6 +8,7 @@
 - 13 oz water
 - 13 g better than bouillon no chicken
 - 2/3 cup salsa
+
 Servings: 4
 Category: Meals
 Link: https://www.allrecipes.com/recipe/222610/tasty-lentil-tacos/

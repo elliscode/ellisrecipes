@@ -17,6 +17,7 @@
 - Pour the batter into a jug that allows for easy pouring and pour evenly into the 12 cupcake liners, ensuring that all the batter is used up.
 - Place into the oven and bake for 20-25 minutes. Check the cupcakes at 20 minutes and if a toothpick inserted into the center doesnt come out clean, then put them back in for a further 5 minutes.
 - Move to a cooling rack and allow to cool thoroughly before frosting.
+
 Servings: 12
 Category: Desserts
 Link: https://lovingitvegan.com/vegan-vanilla-cupcakes-strawberry-vanilla-frosting/

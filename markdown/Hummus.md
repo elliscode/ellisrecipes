@@ -20,6 +20,7 @@
 ### For The Hummus
 - add everything else besides the cooked chickpeas to a food processor and blend for 1 min
 - add chickpeas to food processor and blend until smooth
+
 Servings: 4
 Category: Dips And Sauces
 Link: https://www.gimmesomeoven.com/classic-hummus/

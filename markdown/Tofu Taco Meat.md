@@ -12,6 +12,7 @@
 - heat 1 TBSP oil in nonstick pan over medium heat
 - saute tofu for 5 minutes
 - add taco seasoning and adobo and cook until thickened
+
 Servings: 4
 Category: Meals
 Tags: Mexican, Vegan

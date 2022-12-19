@@ -20,6 +20,7 @@
 - Press down the dough balls with a fork to form cookies
 - Bake for 13 minutes
 - Remove from oven and let cook for 20 minutes
+
 Servings: 20
 Category: Desserts
 Link: https://www.allrecipes.com/recipe/11024/joeys-peanut-butter-cookies/

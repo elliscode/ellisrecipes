@@ -21,6 +21,7 @@
 Tip: Queso thickens when cooled.
 ## NOTES
 Store leftovers in the refrigerator. Reheat on stove or in microwave. Adjust consistency with a little more milk, if needed.
+
 Servings: 4
 Category: Dips And Sauces
 Link: https://cafedelites.com/queso/

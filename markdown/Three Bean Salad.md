@@ -17,6 +17,7 @@
 - in a small bowl, mix all the other ingredients and whisk together until combined
 - pour dressing from small bowl into large bowl and toss to coat
 - chill salad in fridge for a few hours to let flavors combine, toss before serving
+
 Servings: 6
 Category: Sides
 Link: https://www.simplyrecipes.com/recipes/three_bean_salad/

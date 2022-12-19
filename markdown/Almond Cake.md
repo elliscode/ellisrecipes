@@ -23,6 +23,7 @@
 - Pour the batter into the prepared cake pans and bake at 325 degrees Fahrenheit for about 29-34 minutes, or until a toothpick inserted into the middle of one of the cakes comes out clean.
 - Cool the cakes in the pans for about 5-7 minutes and then turn them out onto cooling racks to cool completely.
 - Once the cakes are cool, store them wrapped in plastic wrap in the fridge until ready to frost. They should be refrigerated for at least 1 hour before frosting.
+
 Servings: 12
 Category: Desserts
 Link: https://thebusybaker.ca/best-ever-almond-cream-cake/

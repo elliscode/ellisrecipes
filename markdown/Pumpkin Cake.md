@@ -26,6 +26,7 @@
 ### Make The Frosting
 - In a large bowl using a handheld or stand mixer fitted with a paddle or whisk attachment, beat the cream cheese and butter together on high speed until smooth and creamy. Add 3 cups confectioners sugar, vanilla, and salt. Beat on low speed for 30 seconds, then switch to high speed and beat for 2 minutes. If you want the frosting a little thicker, add the extra 1/4 cup of confectioners sugar (I add it). Spread the frosting on the cooled cake. Refrigerate for 30 minutes before serving. This helps sets the frosting and makes cutting easier.
 - Cover leftover cake tightly and store in the refrigerator for 5 days.
+
 Servings: 12
 Category: Desserts
 Link: https://sallysbakingaddiction.com/best-pumpkin-cake/

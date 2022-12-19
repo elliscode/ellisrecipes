@@ -24,6 +24,7 @@
 - Add salt to taste, then add the tofu cubes back into the curry. Bring to a boil and let it cook another five minutes.
 - Mix the cornstarch with 1/4 cup water and whisk until smooth. Add the slurry to the curry and mix well. You will see the curry thicken. If you want a thinner curry, just skip the cornstarch slurry.
 - Turn off heat and garnish with cilantro and scallions, or both.
+
 Servings: 4
 Category: Meals
 Link: https://holycowvegan.net/vegan-jamaican-curry-with-tofu-and-potatoes/

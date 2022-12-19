@@ -15,6 +15,7 @@
 - saute onion, then add bell pepper and ginger
 - add noodles, soy sauce, hoisin sauce
 - toss to cost and cook for 2 min
+
 Servings: 2
 Category: Meals
 Link: https://simpleveganblog.com/vegan-stir-fried-udon-noodles/

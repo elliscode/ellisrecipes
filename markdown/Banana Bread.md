@@ -20,6 +20,7 @@
 - Combine the wet and dry ingredients with a spatula until just combined
 - Add the chocolate chips
 - Pour into the loaf pan and bake for 50 minutes
+
 Servings: 12
 Category: Desserts
 Link: https://thesaltymarshmallow.com/best-banana-bread-recipe/

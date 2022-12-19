@@ -18,6 +18,7 @@
 - Transfer the candied pecans to the prepared baking sheet and spread into one layer.
 - Allow the pecans to cool down, and then break them up before serving.
 - Store cooled candied nuts in an airtight container. They will last at room temperature for one week, in the refrigerator for a few weeks and in the freezer for a month, if not longer.
+
 Servings: 2
 Category: Desserts
 Link: https://www.inspiredtaste.net/47514/easy-candied-pecans/#itr-recipe-47514

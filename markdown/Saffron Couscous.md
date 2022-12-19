@@ -17,6 +17,7 @@
 - add couscous
 - remove from heat and let sit for 5 min
 - fluff and serve
+
 Servings: 4
 Category: Meals
 Link: https://www.errenskitchen.com/moroccan-spiced-vegetable-couscous/

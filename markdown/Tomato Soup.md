@@ -18,6 +18,7 @@ Step 3
 Pour tomato mixture into a blender no more than half full. Cover and hold lid in place; pulse a few times before leaving on to blend. Puree in batches until smooth and return to the saucepan.
 Step 4
 Put pureed soup over medium heat and cook until hot, about 5 minutes. Stir remaining TBSP cilantro and the heavy cream into the soup.
+
 Servings: 4
 Category: Soups
 Link: https://www.allrecipes.com/recipe/237014/fire-roasted-tomato-soup/

@@ -19,6 +19,7 @@
 - when broth is steaming and reaches 165F, remove broth from heat
 - ladle a scoop of broth into the lemon egg yolk mixture to temper it, then pour into the broth pot
 - divide into four portions, add rice to each portion
+
 Servings: 4
 Category: Soups
 Tags: Vegetarian

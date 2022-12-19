@@ -15,6 +15,7 @@
 - Place the pie onto your oven's middle rack and bake it for 35 to 40 minutes, or until the custard is set at the edges but still a bit wobbly in the center. The temperature of the pie at the center should be between 170F and 180F.
 - Remove the pie from the oven, and place it on a rack to cool. When it's completely cool, refrigerate until you're ready to serve.
 - Store any leftovers in the refrigerator for several days.
+
 Servings: 8
 Category: Desserts
 Link: https://www.kingarthurbaking.com/recipes/custard-pie-recipe

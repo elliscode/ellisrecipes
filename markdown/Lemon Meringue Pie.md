@@ -23,6 +23,7 @@ Meringue
 - Bake pie on the lowest oven rack for 20-25 minutes. (If the meringue is browning too quickly, tent a piece of foil over it as best you can without the foil touching the meringue.) When pie is done, remove from the oven, place on a wire rack
 - allow to cool at room temperature for 1 hour before placing in the refrigerator to chill. Chill for 4 hours before slicing and serving.
 - Cover any leftovers and store in the refrigerator. Lemon meringue pie tastes best on day 1 because it doesnt keep very well. No matter how hard you try to prevent it, the meringue will wilt and separate over time. Best to enjoy right away.
+
 Servings: 8
 Category: Desserts
 Link: https://sallysbakingaddiction.com/lemon-meringue-pie/print/66954/

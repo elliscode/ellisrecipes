@@ -50,6 +50,7 @@ Bechamel
 - Remove filling from oven, pour bechamel over it, then sprinkle with Parmesan
 - Bake for 30 minutes
 - Let sit for 15 minutes and serve
+
 Servings: 6
 Category: Meals
 Link: https://www.allrecipes.com/recipe/25311/vegetarian-moussaka/

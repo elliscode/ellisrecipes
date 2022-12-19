@@ -25,6 +25,7 @@
 - Whilst this is cooking, heat an inch of oil in a pan. Cut the flour tortillas into strips and fry until they brown.
 - Remove from the oil and let cool until they are crunchy and crisp.
 - Serve the soup and garnish with the fried tortilla strips, sour cream, avocado and coriander. Feel free to add some more fresh chilli here if youre feeling wild.
+
 Servings: 4
 Category: Soups
 Link: https://www.jrnls.xyz/sopa-de-lima

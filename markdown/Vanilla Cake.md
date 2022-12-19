@@ -32,6 +32,7 @@
 ### Cool And Frost
 - Remove from oven. Cool in cake pans for 15 minutes, then gently turn out onto cooling racks. If using as layer cakes, cool upside down - slight dome will flatten perfectly. Level cake = neat layers.
 - Frost with frosting of choice, or cream and fresh berries or jam. See list of ideas in post!
+
 Servings: 12
 Category: Desserts
 Link: https://www.recipetineats.com/my-very-best-vanilla-cake/

@@ -27,6 +27,7 @@
 - Add to boiling pot, bring to boil again, reduce to simmer, and let cook for 30 min
 - Mix in lemon juice
 - Serve over rice
+
 Servings: 2
 Category: Meals
 Link: https://rainbowplantlife.com/vegan-red-lentil-curry/#wprm-recipe-container-5540

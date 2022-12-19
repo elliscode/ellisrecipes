@@ -5,6 +5,7 @@
 ## Directions
 - add to a bowl and whisk to combine
 - add to baking sifter and apply to desserts
+
 Servings: 2
 Category: Desserts
 Link: https://www.cuisinedaubery.com/recipe/snow-sugar/

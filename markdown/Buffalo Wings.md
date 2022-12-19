@@ -27,6 +27,7 @@
 - Deep fry in batches, about 8 wings at a time, for 10 minutes
 - Remove from fryer and place on empty wire rack
 - Add the wings to a large bowl, add the sauce, then using a spoon, toss the wings in Buffalo sauce or barbecue sauce
+
 Servings: 1
 Category: Meals
 Link: https://tasty.co/recipe/the-best-crispy-buffalo-wings

@@ -20,6 +20,7 @@
 - In a small bowl, mix cinnamon and remaining sugar. Shape dough into 1-in. balls; roll in cinnamon sugar.
 - Place 8 cookies per sheet on parchment lined baking sheet.
 - Bake on top rack one sheet at s time until light brown, 11 minutes 30 seconds. Remove from pans to wire racks to cool.
+
 Servings: 16
 Category: Desserts
 Link: https://www.tasteofhome.com/recipes/snickerdoodles/

@@ -12,6 +12,7 @@
 - bring a large pot of unsalted water to a boil
 - cook the noodles for four minutes
 - mix all ingredients together in a wok over medium heat until saice is uniform and thick
+
 Servings: 2
 Category: Meals
 Tags: Asian, Vegan

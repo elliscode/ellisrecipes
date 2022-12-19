@@ -26,6 +26,7 @@
 - pour the batter into the pan
 - bake for 55 minutes
 - remove from oven and let cool for 10 minutes, then turn upside down onto a cooling rack and let completely cool
+
 Servings: 12
 Category: Desserts
 Link: https://www.foodnetwork.com/recipes/food-network-kitchen/churro-cake-with-spiced-chocolate-sauce-5671816

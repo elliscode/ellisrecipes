@@ -29,6 +29,7 @@
 - In a small bowl add the egg and 1 TBSP water and whisk with a fork. Brush the top of each Greek Easter bread with the egg, being careful not to deflate it, garnish with almond slivers and bake in preheated oven at 150C / 310F fan for about 30-40 minutes, until nicely browned and fluffy. If its getting too brown too quickly cover with some parchment paper and continue baking.
 - Although the traditional tsoureki recipe doesn't call for syrup, garnishing Greek Easter bread with just a little syrup, always gives a little something! So it's up to you to decide! Prepare the syrup for the Greek Easter bread just right before you turn the tsoureki out of the oven. In a small pot add the sugar and water and bring to the boil. As soon as the sugar dissolves, remove the pot from the stove and ladle the hot syrup over the hot tsoureki.
 - Let the Greek Easter bread cool down and wrap well with plastic wrap, so that it doesn't become hard and dry. Store for up to a 5-6 days at room temperature or up to a couple of months in the freezer.
+
 Servings: 2
 Category: Sides
 Link: https://www.mygreekdish.com/recipe/tsoureki-recipe-traditional-greek-easter-bread/

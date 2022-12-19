@@ -24,6 +24,7 @@
 - reduce to a simmer and simmer for 30 min
 - remove bay leaf, remove from heat, and immersion blend 1/4 of the chili
 - add lime juice and let cool before serving
+
 Servings: 4
 Category: Meals
 Link: https://cookieandkate.com/vegetarian-chili-recipe/

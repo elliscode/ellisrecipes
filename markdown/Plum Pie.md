@@ -12,6 +12,7 @@
 - strain liquid into a small saucepan and bring to a boil while stirring, until thickened
 - add thickened liquid back into the plum bowl and mix well
 - let cool before filling pie crust
+
 Servings: 8
 Category: Desserts
 Link: https://www.allrecipes.com/recipe/279421/favorite-plum-pie/

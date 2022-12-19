@@ -17,6 +17,7 @@
 - Stir chicken, bacon, tomato, and celery together in a bowl.
 - Whisk mayonnaise, parsley, green onions, lemon juice, Worcestershire sauce, salt, and black pepper together in a bowl until dressing is smooth. Pour dressing over chicken mixture; toss to coat. Refrigerate until chilled, at least 30 minutes.
 - Stir chicken mixture and serve over romaine lettuce leaves; garnish with avocado slices.
+
 Servings: 4
 Category: Meals
 Link: https://www.allrecipes.com/recipe/16466/chicken-salad-with-bacon-lettuce-and-tomato/

@@ -18,6 +18,7 @@
 - Slow cook. Combine all ingredients in the bowl of a slow cooker. Toss gently to combine. Cover and cook on low for 6-8 hours, or on high for 3-4 hours, or until the beef is tender and falls apart easily when shredded with a fork.
 - Shred and toss. Using two forks, shred the beef into bite-sized pieces inside of the slow cooker. Toss the beef with the juices, then cover and let the barbacoa beef soak up the juices for an extra 10 minutes. Remove the bay leaves.
 - Serve. Use a pair of tongs or a slotted spoon to serve the barbacoa beef and enjoy!
+
 Servings: 8
 Category: Meals
 Link: https://www.gimmesomeoven.com/barbacoa-recipe/

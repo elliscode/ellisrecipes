@@ -23,6 +23,7 @@
 - fold edges of phyllo over and butter
 - slide parchment paper onto pizza steel and bake for 25 minutes
 - remove from oven and let cool for 15 minutes
+
 Servings: 6
 Category: Meals
 Link: https://www.lemonsforlulu.com/spanakopita-quick-and-easy/

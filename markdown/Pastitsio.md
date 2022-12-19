@@ -52,6 +52,7 @@
 - Pour over Bechamel Sauce, then sprinkle over the cheese.
 - Bake 30 min or until crust turns golden.
 - Cool for at least 10 minutes so you can cut neat slices with tdhe layers neatly visible. Serve!
+
 Servings: 12
 Category: Meals
 Link: https://www.recipetineats.com/pastitsio-greek-beef-pasta-bake/

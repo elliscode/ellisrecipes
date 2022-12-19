@@ -19,6 +19,7 @@
 - add the wet ingredients and combine by hand, then mix on low speed for two minutes, then add the chocolate chips and fold them into the batter
 - pour into the parchment lined baking dish and bake for 50 minutes
 - remove from oven and let cool for 2 hours before removing from skillet or dutch oven
+
 Servings: 8
 Category: Desserts
 Tags: Vegetarian

@@ -37,6 +37,7 @@
 - To make the whipped cream, add the heavy whipping cream, powdered sugar and vanilla extract to a large mixer bowl. Whip on high speed until stiff peaks form.
 - Frost the cake with the whipped cream and decorate as desired. I used Ateco tip 844 for piping the borders.
 - Freeze the cake until ready to serve. Cake is best when stored well covered and eaten within 4-5 days.
+
 Servings: 12
 Category: Desserts
 Link: https://www.lifeloveandsugar.com/copycat-dairy-queen-ice-cream-cake/print/37231/

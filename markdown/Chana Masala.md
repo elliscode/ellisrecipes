@@ -21,6 +21,7 @@
 - Next add pureed tomatoes and chickpeas
 - Bring to a boil, then reduce to a simmer for 20 minutes
 - Remove from heat and add amchoor powder and garam masala. Stir to mix, then let cool slightly before serving.
+
 Servings: 2
 Category: Meals
 Link: https://minimalistbaker.com/easy-chana-masala/

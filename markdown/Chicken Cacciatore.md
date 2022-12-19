@@ -28,6 +28,7 @@
 - Mix all of the ingredients together; cover with lid, reduce heat to low and allow to simmer (while stirring occasionally) for 40 minutes or until the meat is falling off the bone. Add in the olives, allow to simmer for a further 10 minutes. Garnish with parsley and serve immediately.
 ### FOR THE OVEN:
 - Transfer the covered skillet to a preheated oven at 375F (190C) and cook for 50 minutes. Remove the lid, add in the olives and cook for an additional 20 minutes until the chicken is tender and falling off the bone, and the sauce has reduced.
+
 Servings: 8
 Category: Meals
 Link: https://cafedelites.com/chicken-cacciatore/

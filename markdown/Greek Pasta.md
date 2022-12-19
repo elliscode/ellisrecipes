@@ -8,6 +8,7 @@
 - add cinnamon to pasta sauce
 - combine pasta, sauce, and feta, and stir in a skillet to combine
 - serve
+
 Servings: 2
 Category: Meals
 Tags: greek

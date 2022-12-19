@@ -18,6 +18,7 @@
 - Add the broth or water, bring to a boil, add the orzo and chickpeas, reduce heat to medium-low and cook at a gentle boil for 8- 9 minutes, orzo should be tender.
 - Remove from heat, add tahini and lemon juice, stir well. Add the baby kale or spinach, give a good stir, greens will soften and wilt within a few minutes. Add as much dill as you like, and season well with salt & pepper. Soup will thicken upon standing, add more liquids as needed.
 - Serve in individual bowl with your favorite crusty artisan bread for soaking up the wonderful juices.
+
 Servings: 4
 Category: Soups
 Link: https://simple-veganista.com/lemon-chickpea-orzo-soup/

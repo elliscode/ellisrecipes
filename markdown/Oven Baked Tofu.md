@@ -10,6 +10,7 @@
 - coat tofu in nutritional yeast, then corn starch
 - line a baking sheet with foil and spray with cooking spray
 - spread tofu evenly on baking sheet and bake for 20 mins
+
 Servings: 2
 Category: Meals
 Link: https://okonomikitchen.com/quick-and-easy-crispy-air-fried-tofu/

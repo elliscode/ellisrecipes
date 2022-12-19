@@ -14,6 +14,7 @@
 - Add flour, sugar, cocoa, baking powder, baking soda, salt and espresso powder to a large bowl or the bowl of a stand mixer. Whisk through to combine or, using your paddle attachment, stir through flour mixture until combined well.
 - Add milk, vegetable oil, eggs, and vanilla to flour mixture and mix together on medium speed until well combined. Reduce speed and carefully add boiling water to the cake batter until well combined
 - Bake for 30 min bottom rack 350
+
 Servings: 12
 Category: Desserts
 Link: https://addapinch.com/the-best-chocolate-cake-recipe-ever/

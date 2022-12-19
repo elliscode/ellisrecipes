@@ -21,6 +21,7 @@
 - Serve garnished with cilantro and with basmati rice.
 - Notes
 - Cook time can vary for lentils depending on how fresh they are. Very fresh lentils take less time to cook, whereas if they've been sitting around for a couple of years they may take longer.
+
 Servings: 4
 Category: Meals
 Link: https://www.thecuriouschickpea.com/masoor-dal-tadka/

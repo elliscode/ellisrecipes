@@ -14,6 +14,7 @@
 - Add vodka to pot and stir to incorporate, scraping up any browned bits from the bottom of the pot. Turn off heat.
 - Bring a large pot of salted water to a boil and cook pasta until al dente. Reserve 2 cups of pasta water before draining.
 - Return sauce to medium heat and add 1/4 cup of pasta water and heavy cream, stirring to combine. Add half the Parmesan and stir until melted. Turn off heat and stir in cooked pasta. Fold in remaining Parmesan, adding more pasta water if the sauce is looking dry. Season with salt if needed. Serve topped with more Parmesan and torn basil leaves.
+
 Servings: 6
 Category: Dips And Sauces
 Link: https://www.delish.com/cooking/recipe-ideas/a26556220/penne-alla-vodka-recipe/

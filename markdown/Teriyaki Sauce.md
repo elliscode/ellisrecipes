@@ -11,6 +11,7 @@
 ## Directions
 - Whisk together all ingredients in a small bowl
 - Heat in wok until thickened
+
 Servings: 2
 Category: Dips And Sauces
 Link: https://www.tasteandtellblog.com/teriyaki-chicken/

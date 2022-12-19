@@ -25,6 +25,7 @@
 - Using tongs, transfer pasta to pot with sauce. Add 1 cup pasta cooking liquid and 1/2 cup Parmesan. Increase heat to medium, bring to a simmer, and cook, tossing constantly, until pasta is al dente and liquid is slightly thickened, about 2 minutes.
 - Transfer pasta to a platter and top with more Parmesan.
 Do Ahead: Sauce can be made 4 days ahead. Cover and chill.
+
 Servings: 4
 Category: Dips And Sauces
 Link: https://www.bonappetit.com/recipe/bas-best-bolognese

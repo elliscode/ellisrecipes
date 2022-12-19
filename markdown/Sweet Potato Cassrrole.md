@@ -23,6 +23,7 @@
 - Step 3 Whisk eggs, maple syrup, buttermilk, milk, vanilla extract, cayenne pepper, allspice, and 1/2 tsp salt together in a large bowl until smooth. Gradually mash sweet potatoes into egg mixture, starting with 2 TBSP of sweet potato mixture, until all sweet potatoes are incorporated. Transfer sweet potatoes into prepared baking dish.
 - Step 4 Mix pistachios, brown sugar, flour, and 1/4 cup melted butter together until completely mixed. Crumble topping evenly over top of sweet potatoes. Use the back of a fork to gently press pistachio mixture down onto sweet potatoes.
 - Step 5 Bake in the preheated oven until topping is browned and casserole is set, 25 to 30 minutes. If desired, place under oven's broiler for 5 minutes to give topping a little more brown color. Let rest to cool slightly before serving, about 10 minutes.
+
 Servings: 8
 Category: Sides
 Link: https://www.allrecipes.com/recipe/234805/chef-johns-sweet-potato-casserole/

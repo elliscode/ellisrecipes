@@ -18,6 +18,7 @@
 - Preheat the oven to 350 degrees F. Line two baking sheets with parchment paper. Place the granulated and powdered sugars in two separate bowls.
 - Remove chilled dough and roll into balls about one TBSP each. Toss first in the granulated and then second in the powdered sugar, coating fully.
 - Bake for 12-13 minutes (cookies should be slightly underbaked). Remove from oven and allow to cool for 2-3 minutes before transferring onto a wire rack to cool completely.
+
 Servings: 20
 Category: Desserts
 Link: https://www.mydarlingvegan.com/chocolate-peppermint-crinkle-cookies/#wprm-recipe-container-18104

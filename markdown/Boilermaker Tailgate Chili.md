@@ -33,6 +33,7 @@
 - Pour in chili beans, spicy chili beans, diced tomatoes, and tomato paste. Add celery, onion, bell peppers, chile peppers, bacon bits, bouillon, beer, 1/4 cup chili powder, garlic, Worcestershire sauce, oregano, cumin, hot pepper sauce, basil, cayenne, paprika, sugar, 1 tsp salt, and 1 tsp black pepper. Stir to blend, then cover and simmer over low heat for at least 2 hours, stirring occasionally.
 - Taste and season with more salt, pepper, and chili powder if necessary. The longer the chili simmers, the better it will taste. Remove from the heat and serve, or cool, refrigerate, and reheat the next day.
 - To serve, ladle hot chili into bowls and top with corn chips and Cheddar cheese.
+
 Servings: 4
 Category: Soups
 Link: https://www.allrecipes.com/recipe/78299/boilermaker-tailgate-chili/

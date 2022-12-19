@@ -16,6 +16,7 @@
 - Using the whip attachment, whisk on high speed for 20 minutes in stand mixer or until room temp and firm, glossy peaks.
 - Change to paddle attachment, set to medium speed and slowly add the shortening in chunks, then butter and vanilla.
 - Beat till fully incorporated and light in color
+
 Servings: 8
 Category: Desserts
 Link: https://www.karascouturecakes.com/real-raspberry-swiss-meringue-buttercream/

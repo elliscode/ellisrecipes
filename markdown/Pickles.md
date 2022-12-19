@@ -13,6 +13,7 @@
 - Add cucumbers, then fill the rest of the vacant volume of the jar with filtered water
 - Close jar and place in fridge
 - Pickle for 24 hours, and not longer than a few days
+
 Servings: 6
 Category: Snacks
 Tags: vegan

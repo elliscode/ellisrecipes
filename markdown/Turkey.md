@@ -21,6 +21,7 @@
 - After the turkey has cooked for about 2 hours, remove from oven, carefully flip over so the turkey is now breast side UP. Insert a remote safe oven thermometer in the thigh, without touching the bone and continue cooking until the meat thermometer reads 165 degrees.
 - Remove turkey from oven, cover loosely with foil and let rest for 30 minutes before serving.
 - Carve & Enjoy!
+
 Servings: 1
 Category: Meals
 Link: https://simplifylivelove.com/best-way-to-cook-a-turkey/

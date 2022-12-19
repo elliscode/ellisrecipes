@@ -36,6 +36,7 @@
 ## Notes
 - Please note that this recipe makes about 15 muffins while most muffin tins are only 12-count.
 - Feel free to add nuts or chocolate chips! Just stir them in at the end.
+
 Servings: 15
 Category: Desserts
 Link: https://sugarspunrun.com/the-best-banana-muffin-recipe/

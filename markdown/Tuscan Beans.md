@@ -15,6 +15,7 @@
 - add chopped onion and saute until browned
 - add everything else and switch to medium-high heat
 - saute and stir until mostly all of the excess liquid has evaporated and all ingredients are heated all the way through
+
 Servings: 2
 Category: Meals
 Link: https://www.nourish-and-fete.com/tuscan-white-bean-skillet/

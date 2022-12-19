@@ -10,6 +10,7 @@
 - 1/4 tsp salt
 ## Directions
 - combine all ingredients in a blender
+
 Servings: 2
 Category: Dips And Sauces
 Link: https://cookieandkate.com/carrot-ginger-dressing-recipe/

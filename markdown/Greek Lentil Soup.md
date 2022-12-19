@@ -24,6 +24,7 @@
 - remove from heat and let cool for 10 minutes
 - remove bay leaves and immersion blend until smooth
 - add lemon juice and zest and stir
+
 Servings: 4
 Category: Soups
 Link: https://www.themediterraneandish.com/red-lentil-soup-recipe/

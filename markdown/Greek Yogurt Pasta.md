@@ -16,6 +16,7 @@
 - Turn heat to low and add yogurt, stirring to blend. Toss in pasta, stirring to coat pasta. Add reserved pasta water to thin sauce if necessary, 1 TBSP at a time.
 - Add zest and juice of half a lemon and salt and pepper to taste.
 - Serve with grated cheese and fresh parsley or chives.
+
 Servings: 4
 Category: Meals
 Link: https://whatagirleats.com/greek-pasta-with-yogurt-garlic-and-butter/

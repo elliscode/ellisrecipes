@@ -19,6 +19,7 @@
 - add teriyaki sauce ingredients to the wok, and heat until thick, turn off heat
 - strain the cooked shrimp and add cooked shrimp to the sauce, then the broccoli
 - serve over white rice
+
 Servings: 2
 Category: Meals
 Tags: Asian, Seafood, Shrimp

@@ -19,6 +19,7 @@
 - add the curry powder and cook for 30 seconds
 - add everything else except for the egg noodles
 - bring to a boil, then add egg noodles, and simmer for 10 minutes
+
 Servings: 4
 Category: Soups
 Link: https://cookieandkate.com/chickpea-noodle-soup-recipe/

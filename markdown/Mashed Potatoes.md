@@ -16,6 +16,7 @@
 - Mash the potatoes with a potato masher. Then use a strong wooden spoon to beat further.
 - Add milk and beat until the mashed potatoes are smooth. Don't over-beat the potatoes or the mashed potatoes will end up gluey.
 - Add salt and pepper to taste.
+
 Servings: 8
 Category: Sides
 Link: https://www.simplyrecipes.com/recipes/perfect_mashed_potatoes/

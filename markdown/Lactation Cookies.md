@@ -22,6 +22,7 @@
 - Make the cookies 85 g for 16 cookies
 - Bake 18 min
 - Scoop the dough into 1-inch rounds and place on a baking sheet about 2 inches apart. Bake for 16 minutes, or until the bottoms are just golden. Let cool completely before storing in a sealed container.
+
 Servings: 16
 Category: Desserts
 Link: https://www.howsweeteats.com/2015/02/lactation-cookies/
