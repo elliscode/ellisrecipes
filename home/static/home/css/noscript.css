@@ -1,0 +1,13 @@
+@media screen {
+    #recipes {
+        display: block!important;
+    }
+    #loading {
+        display:none!important;
+    }
+    .card {
+        min-width:300px;
+        max-width:600px;
+        display:block;
+    }
+}
