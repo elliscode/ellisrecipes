@@ -121,6 +121,14 @@ export default class RecipeFormatting {
         RecipeFormatting.addCallback('img.ellis', this.printRecipe);
         RecipeFormatting.addCallback('img.share', this.shareRecipe);
 
+        let items = Array.from(document.querySelectorAll('input[originalvalue]'));
+        if (!items) {
+            items = [];
+        }
+        for(let item of items) {
+            item.value = item.getAttribute('originalvalue');
+        }
+
         const searchTextBox = document.getElementById('search');
         searchTextBox?.addEventListener('input', this.executeSearch);
 
