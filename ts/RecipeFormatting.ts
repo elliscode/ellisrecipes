@@ -617,10 +617,12 @@ export default class RecipeFormatting {
         const setScreenLockButton = document.getElementById('set-screen-lock');
         if(this.screenLockOption) {
             this.screenLockOption = false;
-            setScreenLockButton?.setAttribute('src','static/home/img/screen-lock-off.png');
+            setScreenLockButton?.classList.remove('screen-lock-on');
+            setScreenLockButton?.classList.add('screen-lock-off');
         } else {
             this.screenLockOption = true;
-            setScreenLockButton?.setAttribute('src','static/home/img/screen-lock-on.png');
+            setScreenLockButton?.classList.remove('screen-lock-off');
+            setScreenLockButton?.classList.add('screen-lock-on');
         }
     }
 }

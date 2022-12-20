@@ -2,6 +2,16 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 @media screen {
+    #set-screen-lock {
+        width:50px;
+        height:50px;
+    }
+    .screen-lock-off {
+        background:url('/static/home/img/dual_icon.png') -50px 0px;
+    }
+    .screen-lock-on {
+        background:url('/static/home/img/dual_icon.png') 0px 0px;
+    }
     #recipes {
         display: none;
     }
@@ -294,7 +304,7 @@
         display:none;
     }
     #option-buttons > img {
-        padding:10px 10px 0px 0px;
+        margin:10px 10px 0px 0px;
     }
 }
 @media print {
