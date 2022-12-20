@@ -2,19 +2,19 @@
 
 ## Ingredients:
 
-- 1 TBSP oil
-- 1 onion
-- 1/4 tsp garlic powder
-- 1 TBSP paprika
-- 1/8 tsp chilli flakes
-- 1 TBSP tomato puree
-- 1/2 cup cherry tomatoes
-- 10 oz water
-- 10 g better than bouillon NO chicken
-- 2 TBSP vegan yogurt
-- 1 TBSP nutritional yeast
-- 1/2 tsp dried parsley
-- 1/4 tsp dried basil
+- `1` TBSP oil
+- `1` onion
+- `1/4` tsp garlic powder
+- `1` TBSP paprika
+- `1/8` tsp chilli flakes
+- `1` TBSP tomato puree
+- `1/2` cup cherry tomatoes
+- `10` oz water
+- `10` g better than bouillon NO chicken
+- `2` TBSP vegan yogurt
+- `1` TBSP nutritional yeast
+- `1/2` tsp dried parsley
+- `1/4` tsp dried basil
 
 ## Directions
 

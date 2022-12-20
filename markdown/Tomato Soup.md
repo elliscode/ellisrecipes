@@ -2,15 +2,15 @@
 
 ## Ingredients
 
-- 1 TBSP olive oil
-- 1 large onion, chopped
-- 1/2 tsp garlic powder, minced
-- 2 cups vegetable broth
-- 2 (14.5 oz) cans fire-roasted diced tomatoes
-- 1/2 tsp oregano
-- 1 tsp white sugar
-- 1/8 tsp red pepper flakes
-- 1/2 cup heavy whipping cream
+- `1` TBSP olive oil
+- `1` large onion, chopped
+- `1/2` tsp garlic powder, minced
+- `2` cups vegetable broth
+- `2` (`14.5` oz) cans fire-roasted diced tomatoes
+- `1/2` tsp oregano
+- `1` tsp white sugar
+- `1/8` tsp red pepper flakes
+- `1/2` cup heavy whipping cream
 
 ## Directions
 
@@ -20,7 +20,7 @@ ADVERTISEMENT
 
 Step 2
 
-Pour vegetable broth over the onion mixture; add tomatoes, 1 TBSP cilantro, sugar, and red pepper flakes. Bring the mixture to a boil, reduce heat to medium-low, place a cover on the saucepan, and simmer until the tomatoes are really soft, about 15 minutes.
+Pour vegetable broth over the onion mixture; add tomatoes, `1` TBSP cilantro, sugar, and red pepper flakes. Bring the mixture to a boil, reduce heat to medium-low, place a cover on the saucepan, and simmer until the tomatoes are really soft, about 15 minutes.
 
 Step 3
 

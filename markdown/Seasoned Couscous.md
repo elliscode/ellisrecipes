@@ -2,14 +2,14 @@
 
 ## Ingredients
 
-- 12 oz water
-- 1 TBSP dried parsley
-- 2 tsp better than bouillon no beef
-- 1/2 tsp dried minced onion
-- 1/2 tsp dried basil
-- 1/2 tsp salt
-- 1 bay leaf
-- 186 g couscous
+- `12` oz water
+- `1` TBSP dried parsley
+- `2` tsp better than bouillon no beef
+- `1/2` tsp dried minced onion
+- `1/2` tsp dried basil
+- `1/2` tsp salt
+- `1` bay leaf
+- `186` g couscous
 
 ## Directions
 

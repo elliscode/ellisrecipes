@@ -2,12 +2,12 @@
 
 ## Ingredients
 
-- 1 pie crust
-- 15 oz can pumpkin
-- 14 oz can sweetened condensed milk
-- 2 eggs
-- 1 TBSP pumpkin pie spice
-- 1 tsp vanilla extract
+- `1` pie crust
+- `15` oz can pumpkin
+- `14` oz can sweetened condensed milk
+- `2` eggs
+- `1` TBSP pumpkin pie spice
+- `1` tsp vanilla extract
 
 ## Directions
 

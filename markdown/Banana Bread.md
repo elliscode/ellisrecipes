@@ -2,16 +2,16 @@
 
 ## Ingredients
 
-- 1 stick butter
-- 3 ripe bananas
-- 2 large eggs
-- 1 tsp vanilla extract
-- 240 g cups all purpose flour
-- 200 g granulated sugar
-- 1 tsp baking soda
-- 1/2 tsp salt
-- 1/2 tsp cinnamon
-- 112 g chocolate chips
+- `1` stick butter
+- `3` ripe bananas
+- `2` large eggs
+- `1` tsp vanilla extract
+- `240` g cups all purpose flour
+- `200` g granulated sugar
+- `1` tsp baking soda
+- `1/2` tsp salt
+- `1/2` tsp cinnamon
+- `112` g chocolate chips
 
 ## Directions
 

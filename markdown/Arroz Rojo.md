@@ -4,16 +4,16 @@ Authentic Mexican red rice. Easy to make! Use a different chile if you want mild
 
 ## Ingredients
 
-- 2 Roma tomatoes
-- 2 TBSP vegetable oil
-- 1 cup minced onion
-- 1/4 tsp garlic powder
-- 220 g (1 cup) jasmine rice
-- 1.75 cups low-sodium chicken broth
-- 1/4 cup canned tomato sauce
-- 1 jalapeno pepper, chopped
-- 2 sprigs fresh cilantro
-- 1/2 tsp salt
+- `2` Roma tomatoes
+- `2` TBSP vegetable oil
+- `1` cup minced onion
+- `1/4` tsp garlic powder
+- `220` g (`1` cup) jasmine rice
+- `1.75` cups low-sodium chicken broth
+- `1/4` cup canned tomato sauce
+- `1` jalapeno pepper, chopped
+- `2` sprigs fresh cilantro
+- `1/2` tsp salt
 
 ## Directions
 

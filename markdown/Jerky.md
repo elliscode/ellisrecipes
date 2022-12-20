@@ -2,17 +2,17 @@
 
 ## Ingredients
 
-- 18 g soy sauce
-- 18 g molasses
-- 21 g vegan Worcestershire sauce
-- 1 TBSP minced onions
-- 1 TBSP dehydrated green onions
-- 1 tsp salt
-- 8 g better than bouillon no beef
-- 55 g canola oil
-- 8 oz boiling water
-- 160 g soy curls
-- 72 g bbq sauce
+- `18` g soy sauce
+- `18` g molasses
+- `21` g vegan Worcestershire sauce
+- `1` TBSP minced onions
+- `1` TBSP dehydrated green onions
+- `1` tsp salt
+- `8` g better than bouillon no beef
+- `55` g canola oil
+- `8` oz boiling water
+- `160` g soy curls
+- `72` g bbq sauce
 
 ## Directions
 

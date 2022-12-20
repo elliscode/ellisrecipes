@@ -2,14 +2,14 @@
 
 ## Ingredients
 
-- 1 cup all-purpose flour
-- 1 cup yellow cornmeal
-- 2/3 cup white sugar
-- 1 tsp salt
-- 3.5 tsp baking powder
-- 1 egg
-- 1 cup milk
-- 1/3 cup vegetable oil
+- `1` cup all-purpose flour
+- `1` cup yellow cornmeal
+- `2/3` cup white sugar
+- `1` tsp salt
+- `3.5` tsp baking powder
+- `1` egg
+- `1` cup milk
+- `1/3` cup vegetable oil
 
 ## Directions
 

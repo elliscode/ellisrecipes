@@ -2,11 +2,11 @@
 
 ## INGREDIENTS
 
-- 472 g all-purpose flour
-- 39 g vital wheat gluten
-- 8 g instant yeast
-- 10 g kosher salt
-- 455 g 110F water
+- `472` g all-purpose flour
+- `39` g vital wheat gluten
+- `8` g instant yeast
+- `10` g kosher salt
+- `455` g 110F water
 - olive oil
 
 ## INSTRUCTIONS

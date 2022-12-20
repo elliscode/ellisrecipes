@@ -2,15 +2,15 @@
 
 ## Ingredients
 
-- 1 lb sweet potato
-- 1/2 cup butter, softened
-- 1 cup white sugar
-- 1/2 cup milk
-- 2 eggs
-- 1/2 tsp ground nutmeg
-- 1/2 tsp ground cinnamon
-- 1 tsp vanilla extract
-- 1 unbaked pie crust
+- `1` lb sweet potato
+- `1/2` cup butter, softened
+- `1` cup white sugar
+- `1/2` cup milk
+- `2` eggs
+- `1/2` tsp ground nutmeg
+- `1/2` tsp ground cinnamon
+- `1` tsp vanilla extract
+- `1` unbaked pie crust
 
 ## Directions
 

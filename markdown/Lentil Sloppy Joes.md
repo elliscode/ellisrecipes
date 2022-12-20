@@ -2,18 +2,18 @@
 
 ## Ingredients
 
-- 1 onion, chopped
-- 1 TBSP butter
-- 1 bell pepper, chopped
-- 16 oz water
-- 226 g dry lentils, rinsed
-- 18 g better than bouillon no beef
-- 15 oz can tomato sauce
-- 1 TBSP granulated sugar
-- 2 TBSP vegan Worcestershire sauce
-- 2 TBSP chili powder
-- 1 tsp cumin
-- 1 tsp salt
+- `1` onion, chopped
+- `1` TBSP butter
+- `1` bell pepper, chopped
+- `16` oz water
+- `226` g dry lentils, rinsed
+- `18` g better than bouillon no beef
+- `15` oz can tomato sauce
+- `1` TBSP granulated sugar
+- `2` TBSP vegan Worcestershire sauce
+- `2` TBSP chili powder
+- `1` tsp cumin
+- `1` tsp salt
 - Black pepper
 
 ## Directions

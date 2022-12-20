@@ -2,15 +2,15 @@
 
 ## Ingredients
 
-- 1 cup (8 oz) Absolut APeach Vodka
-- 1 cup (8 oz) Patron Citronge - Extra Fine Orange Liqueur
-- 1 (750 ml) Bottle White Zinfandel (we used Beringer)
-- 2 cups (16 oz) Cranberry Juice (we used Simply Cranberry Cocktail) - Keep Cold
-- 1 cup (8 oz) Orange Juice (we used Simply Orange) - Keep Cold
-- 1 cup (8 oz) Simple Syrup (we used Keep it Simple Syrup)
-- If you want it less sweet, try using 1/2 cup or 4 oz of the syrup.
+- `1` cup (`8` oz) Absolut APeach Vodka
+- `1` cup (`8` oz) Patron Citronge - Extra Fine Orange Liqueur
+- `1` (`750` ml) Bottle White Zinfandel (we used Beringer)
+- `2` cups (`16` oz) Cranberry Juice (we used Simply Cranberry Cocktail) - Keep Cold
+- `1` cup (`8` oz) Orange Juice (we used Simply Orange) - Keep Cold
+- `1` cup (`8` oz) Simple Syrup (we used Keep it Simple Syrup)
+- If you want it less sweet, try using `1/2` cup or `4` oz of the syrup.
 - Garnish with Sliced Fresh Lemons and Strawberries
-- We used 1 lemon and 5 large strawberries for the batch. Feel free to add more strawberries.
+- We used `1` lemon and 5 large strawberries for the batch. Feel free to add more strawberries.
 
 ## Directions
 

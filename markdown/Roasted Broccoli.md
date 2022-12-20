@@ -2,9 +2,9 @@
 
 ## Ingredients
 
-- 300 g broccoli
-- 1 TBSP olive oil
-- 1/2 tsp salt
+- `300` g broccoli
+- `1` TBSP olive oil
+- `1/2` tsp salt
 - freshly ground black pepper
 
 ## Directions

@@ -2,19 +2,19 @@
 
 ## Ingredients
 
-- 1 tsp butter
-- 1 stalks of celery, chopped
-- 1/2 small onion, chopped
-- 1 carrot, peeled & chopped
-- 2 cups water
-- 12 g btb chickenl
-- 1 small Parmigiano Reggiano Rind, optional
-- 381 g cheese tortellini
-- 1/4 tsp fresh ground pepper
-- 1/4 tsp ground nutmeg
-- 1/4 tsp salt
-- 1/8 tsp garlic powder
-- 50 g baby spinach
+- `1` tsp butter
+- `1` stalks of celery, chopped
+- `1/2` small onion, chopped
+- `1` carrot, peeled & chopped
+- `2` cups water
+- `12` g btb chickenl
+- `1` small Parmigiano Reggiano Rind, optional
+- `381` g cheese tortellini
+- `1/4` tsp fresh ground pepper
+- `1/4` tsp ground nutmeg
+- `1/4` tsp salt
+- `1/8` tsp garlic powder
+- `50` g baby spinach
 
 ## Directions
 

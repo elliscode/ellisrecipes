@@ -2,13 +2,13 @@
 
 ## Ingredients
 
-- 2 cups grated cucumber, about 1 whole cucumber (optional)
-- 1.5 cups Greek yogurt
-- 2 TBSP extra virgin olive oil
-- 1 tsp dried mint
-- 1 tsp dried dill
-- 1 TBSP lemon juice
-- 1/2 tsp salt
+- `2` cups grated cucumber, about 1 whole cucumber (optional)
+- `1.5` cups Greek yogurt
+- `2` TBSP extra virgin olive oil
+- `1` tsp dried mint
+- `1` tsp dried dill
+- `1` TBSP lemon juice
+- `1/2` tsp salt
 
 ## Directions
 

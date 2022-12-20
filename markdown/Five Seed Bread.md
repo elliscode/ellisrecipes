@@ -2,16 +2,16 @@
 
 ## Ingredients
 
-- 15 g sunflower seeds
-- 15 g pumpkin seeds
-- 15 g flax seeds
-- 15 g sesame seeds
-- 125 g millet
-- 2.25 tsp active dry yeast
-- 2.25 tsp salt
-- 400 g water 100F-110F
-- 500 g flour
-- 2 TBSP gluten
+- `15` g sunflower seeds
+- `15` g pumpkin seeds
+- `15` g flax seeds
+- `15` g sesame seeds
+- `125` g millet
+- `2.25` tsp active dry yeast
+- `2.25` tsp salt
+- `400` g water 100F-110F
+- `500` g flour
+- `2` TBSP gluten
 
 ## Directions
 

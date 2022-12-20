@@ -8,8 +8,6 @@ for (const link of document.getElementsByTagName('link')) {
 }
 
 const r: RecipeFormatting = new RecipeFormatting();
-r.parseRecipes();
-r.buildSections();
 r.addCallbacks();
 r.loadSearchTermFromLocalStorage();
 r.loadAndSetPinsFromLocalStorage();

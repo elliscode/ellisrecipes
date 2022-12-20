@@ -2,14 +2,14 @@
 
 ## Ingredients
 
-- 3 cups spinach (can also use basil, arugula or any greens!)
-- 1 clove garlic
-- 1/3 cup pine nuts
-- 2 TBSP grated parmesan cheese
-- 1/2 tsp salt
+- `3` cups spinach (can also use basil, arugula or any greens!)
+- `1` clove garlic
+- `1/3` cup pine nuts
+- `2` TBSP grated parmesan cheese
+- `1/2` tsp salt
 - pinch of pepper
-- 1/2 cup olive oil
-- 1/2 lemon
+- `1/2` cup olive oil
+- `1/2` lemon
 
 ## Instructions
 

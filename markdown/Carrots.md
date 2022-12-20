@@ -8,7 +8,7 @@
 
 ## Ingredients
 
-- 20 baby carrots
+- `20` baby carrots
 - Water
 
 ## Instructions

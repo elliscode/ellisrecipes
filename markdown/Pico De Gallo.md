@@ -2,14 +2,14 @@
 
 ## Ingredients
 
-- 4 diced plum tomatoes
-- 2 TBSP chopped cilantro
-- 1/2 minced red onion
-- 1 minced garlic clove
-- 1 minced jalapeno (seeded)
+- `4` diced plum tomatoes
+- `2` TBSP chopped cilantro
+- `1/2` minced red onion
+- `1` minced garlic clove
+- `1` minced jalapeno (seeded)
 - the juice of 1 lime
-- 1 tsp fresh celery juice (optional)
-- 1/2 tsp kosher salt and a few grinds of pepper
+- `1` tsp fresh celery juice (optional)
+- `1/2` tsp kosher salt and a few grinds of pepper
 
 ## Directions
 

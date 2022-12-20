@@ -2,18 +2,18 @@
 
 ## Ingredients
 
-- 5 slices bacon
-- 3 cups diced cooked chicken
-- 1 cup chopped fresh tomato
-- 2 stalks celery, thinly sliced
-- 3/4 cup mayonnaise
-- 2 TBSP minced green onion
-- 1 TBSP chopped parsley
-- 1 tsp lemon juice
-- 1 dash Worcestershire sauce
+- `5` slices bacon
+- `3` cups diced cooked chicken
+- `1` cup chopped fresh tomato
+- `2` stalks celery, thinly sliced
+- `3/4` cup mayonnaise
+- `2` TBSP minced green onion
+- `1` TBSP chopped parsley
+- `1` tsp lemon juice
+- `1` dash Worcestershire sauce
 - salt and ground black pepper to taste
-- 12 leaves romaine lettuce
-- 1 large avocado, sliced
+- `12` leaves romaine lettuce
+- `1` large avocado, sliced
 
 ## Directions
 

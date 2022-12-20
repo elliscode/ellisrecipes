@@ -2,28 +2,28 @@
 
 ## INGREDIENTS
 
-- 2 cups water
-- 16 g better than bouillon no chicken
-- 14 oz crushed tomatoes
-- 13.5 oz full-fat coconut milk
-- 50 g peanut butter
-- 1 TBSP olive oil
-- 1 TBSP fresh ginger
-- 1/2 tsp garlic powder
-- 1 tsp ground turmeric
-- 1 tsp ground cumin
-- 1/2 tsp ground coriander
-- 1 tsp chili powder
-- 2 tsp curry powder
-- 1 tsp garam masala
-- 1/2 tsp salt
+- `2` cups water
+- `16` g better than bouillon no chicken
+- `14` oz crushed tomatoes
+- `13.5` oz full-fat coconut milk
+- `50` g peanut butter
+- `1` TBSP olive oil
+- `1` TBSP fresh ginger
+- `1/2` tsp garlic powder
+- `1` tsp ground turmeric
+- `1` tsp ground cumin
+- `1/2` tsp ground coriander
+- `1` tsp chili powder
+- `2` tsp curry powder
+- `1` tsp garam masala
+- `1/2` tsp salt
 - Freshly cracked black pepper to taste
-- 190 g red lentils
-- 1 TBSP lemon juice
+- `190` g red lentils
+- `1` TBSP lemon juice
 
 ### Optional
 
-- 56 g roasted peanuts
+- `56` g roasted peanuts
 
 ## Instructions
 

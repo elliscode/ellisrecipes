@@ -2,14 +2,14 @@
 
 ## Ingredients
 
-- 2 oz cold water
-- 1 TBSP corn starch
-- 6 g better than bouillon NO chicken
-- 35 g soy sauce
-- 37 g rice wine vinegar
-- 13 g hoisin sauce
-- 1/4 tsp balsamic vinegar
-- 8 g brown sugar
+- `2` oz cold water
+- `1` TBSP corn starch
+- `6` g better than bouillon NO chicken
+- `35` g soy sauce
+- `37` g rice wine vinegar
+- `13` g hoisin sauce
+- `1/4` tsp balsamic vinegar
+- `8` g brown sugar
 
 ## Directions
 

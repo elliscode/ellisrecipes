@@ -2,18 +2,18 @@
 
 ## Ingredients
 
-- 15 oz can cannellini beans, rinsed and drained
-- 15 oz can kidney beans, rinsed and drained
-- 15 oz can chickpeas, rinsed and drained
-- 1/2 red onion, finely chopped
-- 2 celery stalks, chopped
-- 1 TBSP parsley
-- 1/4 tsp Rosemary
-- 1/3 cup apple cider vinegar
-- 1/4 cup granulated sugar
-- 3 TBSP olive oil
-- 1.5 tsp salt
-- 1/4 tsp black peoper
+- `15` oz can cannellini beans, rinsed and drained
+- `15` oz can kidney beans, rinsed and drained
+- `15` oz can chickpeas, rinsed and drained
+- `1/2` red onion, finely chopped
+- `2` celery stalks, chopped
+- `1` TBSP parsley
+- `1/4` tsp Rosemary
+- `1/3` cup apple cider vinegar
+- `1/4` cup granulated sugar
+- `3` TBSP olive oil
+- `1.5` tsp salt
+- `1/4` tsp black peoper
 
 ## Directions
 

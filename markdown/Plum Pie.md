@@ -2,12 +2,12 @@
 
 ## Ingredients
 
-- 600 g peeled sliced plums
-- 200 g white sugar
-- 32 g cornstarch
-- 1 tsp lemon juice
-- 1/4 tsp vanilla extract
-- 1/8 tsp almond extract
+- `600` g peeled sliced plums
+- `200` g white sugar
+- `32` g cornstarch
+- `1` tsp lemon juice
+- `1/4` tsp vanilla extract
+- `1/8` tsp almond extract
 
 ## Directions
 

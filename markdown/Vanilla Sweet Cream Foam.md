@@ -2,10 +2,10 @@
 
 ## Ingredients
 
-- 1 TBSP. Heavy Cream
-- 1/2 cup Whole Milk
-- 1/4 tsp. Vanilla Extract
-- 1 TBSP. Sugar (or sugar free sweetener)
+- `1` TBSP. Heavy Cream
+- `1/2` cup Whole Milk
+- `1/4` tsp. Vanilla Extract
+- `1` TBSP. Sugar (or sugar free sweetener)
 
 ## Instructions
 

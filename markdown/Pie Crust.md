@@ -2,12 +2,12 @@
 
 ## Ingredients
 
-- 354 g AP flour
-- 1 tsp salt
-- 30 g sugar
-- 12 TBSP butter
-- 96 g vegetable shortening
-- 4 oz vodka
+- `354` g AP flour
+- `1` tsp salt
+- `30` g sugar
+- `12` TBSP butter
+- `96` g vegetable shortening
+- `4` oz vodka
 
 ## Directions
 

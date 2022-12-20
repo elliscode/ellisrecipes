@@ -2,10 +2,10 @@
 
 ## Ingredients
 
-- 32 oz. whole milk ricotta, strained
-- 180 g powdered sugar
-- 126 g mini chocolate chips
-- 1/4 tsp ground cinnamon
+- `32` oz. whole milk ricotta, strained
+- `180` g powdered sugar
+- `126` g mini chocolate chips
+- `1/4` tsp ground cinnamon
 - Chopped unsalted pistachios, optional
 
 ## Directions

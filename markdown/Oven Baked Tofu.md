@@ -2,10 +2,10 @@
 
 ## Ingredients
 
-- 1 block extra firm tofu, pressed and cubed
-- 2 TBSP soy sauce
-- 1.5 TBSP nutritional yeast
-- 1 TBSP corn starch
+- `1` block extra firm tofu, pressed and cubed
+- `2` TBSP soy sauce
+- `1.5` TBSP nutritional yeast
+- `1` TBSP corn starch
 
 ## Directions
 

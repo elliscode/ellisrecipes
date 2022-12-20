@@ -2,13 +2,13 @@
 
 ## Ingredients
 
-- 2 cucumbers,, peeled and chopped into 1/4 slices
-- 4-6 Roma tomatoes,, chopped
-- 1/2 of a red onion,, sliced
-- 1/4 cup olive oil
-- 1.5 TBSP lemon juice
-- 2 tsp dried oregano
-- 1/2 cup crumbled feta cheese
+- `2` cucumbers,, peeled and chopped into 1/4 slices
+- `4`-6 Roma tomatoes,, chopped
+- `1/2` of a red onion,, sliced
+- `1/4` cup olive oil
+- `1.5` TBSP lemon juice
+- `2` tsp dried oregano
+- `1/2` cup crumbled feta cheese
 - Salt and Pepper,, to taste
 - Black olives,, pitted and sliced (to taste)
 

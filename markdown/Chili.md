@@ -2,24 +2,24 @@
 
 ## Ingredients
 
-- 2 TBSP olive oil
-- 1 medium red onion, chopped
-- 1 large red bell pepper, chopped
-- 2 medium carrots, chopped
-- 2 ribs celery, chopped
-- 1/2 tsp salt
-- 2 TBSP chili powder
-- 2 tsp ground cumin
-- 1.5 tsp smoked paprika
-- 1 tsp dried oregano
-- 1/2 tsp garlic powder
-- 28 oz fire roasted diced tomatoes
-- 30 oz black beans, rinsed and drained
-- 15 oz pinto beans, rinsed and drained
-- 2 cups water
-- 16 g better than bouillon no beef
-- 1 bay leaf
-- 1 tsp lime juice, to taste
+- `2` TBSP olive oil
+- `1` medium red onion, chopped
+- `1` large red bell pepper, chopped
+- `2` medium carrots, chopped
+- `2` ribs celery, chopped
+- `1/2` tsp salt
+- `2` TBSP chili powder
+- `2` tsp ground cumin
+- `1.5` tsp smoked paprika
+- `1` tsp dried oregano
+- `1/2` tsp garlic powder
+- `28` oz fire roasted diced tomatoes
+- `30` oz black beans, rinsed and drained
+- `15` oz pinto beans, rinsed and drained
+- `2` cups water
+- `16` g better than bouillon no beef
+- `1` bay leaf
+- `1` tsp lime juice, to taste
 
 ## Directions
 

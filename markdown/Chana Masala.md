@@ -2,20 +2,20 @@
 
 ## Ingredients
 
-- 1 TBSP oil
-- 1 medium white or yellow onion, finely diced
-- 1 TBSP ground cumin
-- 1/2 tsp sea salt
-- 1/2 tsp garlic powder
-- 2 TBSP fresh ginger, minced
-- 1 TBSP ground coriander
-- 1 tsp chili powder
-- 1 tsp ground turmeric
-- 28 oz pureed or finely diced tomatoes
-- 30 oz chickpeas, drained
-- 1 tsp garam masala
-- 2 tsp sugar
-- 1 tsp amchoor powder
+- `1` TBSP oil
+- `1` medium white or yellow onion, finely diced
+- `1` TBSP ground cumin
+- `1/2` tsp sea salt
+- `1/2` tsp garlic powder
+- `2` TBSP fresh ginger, minced
+- `1` TBSP ground coriander
+- `1` tsp chili powder
+- `1` tsp ground turmeric
+- `28` oz pureed or finely diced tomatoes
+- `30` oz chickpeas, drained
+- `1` tsp garam masala
+- `2` tsp sugar
+- `1` tsp amchoor powder
 
 ## Instructions
 

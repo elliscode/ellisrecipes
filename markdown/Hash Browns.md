@@ -2,11 +2,11 @@
 
 ## Ingredients
 
-- 700 g (2) russet potatoes, peeled
-- 3 TBSP clarified butter
+- `700` g (2) russet potatoes, peeled
+- `3` TBSP clarified butter
 - salt and ground black pepper to taste
-- 1 pinch cayenne pepper, or to taste
-- 1 pinch paprika, or to taste
+- `1` pinch cayenne pepper, or to taste
+- `1` pinch paprika, or to taste
 
 ## Directions
 

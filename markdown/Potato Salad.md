@@ -2,15 +2,15 @@
 
 ## Ingredients
 
-- 2 lbs Yukon gold potatoes, peeled and quartered
-- 6 hard boiled eggs
-- 3 TBSP white wine vinegar
-- 2 stalks celery, chopped
-- 15 g spicy brown mustard
-- 2 stalks green onion, sliced
-- 150 g miracle whip
-- 1/2 TBSP celery seed
-- 1/2 tsp salt
+- `2` lbs Yukon gold potatoes, peeled and quartered
+- `6` hard boiled eggs
+- `3` TBSP white wine vinegar
+- `2` stalks celery, chopped
+- `15` g spicy brown mustard
+- `2` stalks green onion, sliced
+- `150` g miracle whip
+- `1/2` TBSP celery seed
+- `1/2` tsp salt
 
 ## Directions
 

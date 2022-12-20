@@ -2,20 +2,20 @@
 
 ## Ingredients
 
-- 1/4 cup olive oil
-- 1 diced onion
-- 2 chopped carrots
-- 2 tsp cumin
-- 1 tsp curry powder
-- 1/2 tsp dried thyme
-- 2 14 oz cans fire roasted tomatoes
-- 180 g green lentils
-- 24 g NO beef bouillon
-- 32 oz water
-- 1 tsp salt
+- `1/4` cup olive oil
+- `1` diced onion
+- `2` chopped carrots
+- `2` tsp cumin
+- `1` tsp curry powder
+- `1/2` tsp dried thyme
+- `2` 14 oz cans fire roasted tomatoes
+- `180` g green lentils
+- `24` g NO beef bouillon
+- `32` oz water
+- `1` tsp salt
 - Black pepper
-- 35 g chopped spinach (added later)
-- 2 TBSP lemon juice (added last)
+- `35` g chopped spinach (added later)
+- `2` TBSP lemon juice (added last)
 
 ## Directions
 

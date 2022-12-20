@@ -2,14 +2,14 @@
 
 ## Ingredients
 
-- 1/2 cup white sugar
-- 5 TBSP all-purpose flour
-- 1/4 tsp salt
-- 1 tsp ground cinnamon
-- 1 tsp lemon zest
-- 5 cups peeled and sliced pears
-- 1 TBSP lemon juice
-- 1 TBSP butter
+- `1/2` cup white sugar
+- `5` TBSP all-purpose flour
+- `1/4` tsp salt
+- `1` tsp ground cinnamon
+- `1` tsp lemon zest
+- `5` cups peeled and sliced pears
+- `1` TBSP lemon juice
+- `1` TBSP butter
 
 ## Directions
 

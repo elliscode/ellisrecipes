@@ -2,9 +2,9 @@
 
 ## Ingredients
 
-- 2 TBSP canola oil
-- 110 g popcorn
-- 1/2 tsp salt
+- `2` TBSP canola oil
+- `110` g popcorn
+- `1/2` tsp salt
 
 ## Directions
 

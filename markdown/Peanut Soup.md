@@ -2,18 +2,18 @@
 
 ## Ingredients
 
-- 1 red onion, chopped
-- 1 TBSP butter
-- 100 g celery, chopped
-- 100 g carrots, chopped
-- 1 TBSP minced ginger
-- 24 oz water
-- 24 g better than bouillon no beef
-- 15 oz can chickpeas, drained
-- 66 g peanuts
-- 50 g peanut butter
-- 50 g tomato paste
-- 35 g soy sauce
+- `1` red onion, chopped
+- `1` TBSP butter
+- `100` g celery, chopped
+- `100` g carrots, chopped
+- `1` TBSP minced ginger
+- `24` oz water
+- `24` g better than bouillon no beef
+- `15` oz can chickpeas, drained
+- `66` g peanuts
+- `50` g peanut butter
+- `50` g tomato paste
+- `35` g soy sauce
 
 ## Directions
 

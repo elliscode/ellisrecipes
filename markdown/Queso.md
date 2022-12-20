@@ -2,17 +2,17 @@
 
 ## INGREDIENTS
 
-- 1/2 pound 225 g fresh Cheddar cheese, shredded (smoked, sharp or American cheddar)
-- 1 TBSP butter
-- 3/4 cup green onions, finely chopped
-- 2 large cloves garlic minced
-- 3.5 oz (100 g) diced tomatoes, (Roma, grape or cherry tomatoes)
-- 1/2 tsp each ground cumin and onion powder
-- 1/2 tsp cayenne pepper, (add more to taste if desired)
-- 1 TBSP cornstarch cornflour
-- 13 oz (375 g) evaporated milk, (full fat)
-- 4 oz 120 g fire roasted green chiles, (or jalapenos)
-- 1/4 cup fresh cilantro, finely chopped
+- `1/2` pound `225` g fresh Cheddar cheese, shredded (smoked, sharp or American cheddar)
+- `1` TBSP butter
+- `3/4` cup green onions, finely chopped
+- `2` large cloves garlic minced
+- `3.5` oz (`100` g) diced tomatoes, (Roma, grape or cherry tomatoes)
+- `1/2` tsp each ground cumin and onion powder
+- `1/2` tsp cayenne pepper, (add more to taste if desired)
+- `1` TBSP cornstarch cornflour
+- `13` oz (`375` g) evaporated milk, (full fat)
+- `4` oz `120` g fire roasted green chiles, (or jalapenos)
+- `1/4` cup fresh cilantro, finely chopped
 
 ## INSTRUCTIONS
 

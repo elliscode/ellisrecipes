@@ -2,20 +2,20 @@
 
 ## Ingredients
 
-- 4 boneless, skinless chicken breast(s) or 8 boneless, skinless chicken thighs
-- 1 TBSP oil
-- 1 TBSP cumin seeds
-- 6 cloves garlic, peeled
-- 1 onion(s), chopped
-- 1/2 jalapeno pepper, seeded
-- 1 cup chicken broth
-- 1 tsp smoked paprika (dulce)
-- 1 tsp oregano, dried
-- 1 tsp cumin, ground
-- 1 tsp sugar
-- 1 TBSP lime
-- 1 orange pepper, chopped or 1 red pepper(s), chopped
-- 1/2 cup mint, fresh, chopped or 1/2 cup cilantro, fresh, chopped
+- `4` boneless, skinless chicken breast(s) or 8 boneless, skinless chicken thighs
+- `1` TBSP oil
+- `1` TBSP cumin seeds
+- `6` cloves garlic, peeled
+- `1` onion(s), chopped
+- `1/2` jalapeno pepper, seeded
+- `1` cup chicken broth
+- `1` tsp smoked paprika (dulce)
+- `1` tsp oregano, dried
+- `1` tsp cumin, ground
+- `1` tsp sugar
+- `1` TBSP lime
+- `1` orange pepper, chopped or 1 red pepper(s), chopped
+- `1/2` cup mint, fresh, chopped or `1/2` cup cilantro, fresh, chopped
 
 ## Directions
 

@@ -2,19 +2,19 @@
 
 ## INGREDIENTS
 
-- 2 cups chopped onions
-- 1.5 cups thinly sliced celery
-- 1 cup diced tart apple, peeled and cored
-- 1/4 cup butter
-- 1 TBSP ground sage
-- 1 tsp ground marjoram
-- 1 tsp salt
-- 1 tsp pepper
-- 1/2 tsp savory
-- 1/2 tsp thyme
-- 12 cups lightly toasted bread, cubes
-- 1/4 cup fresh parsley, chopped
-- 1.5 cups vegetable stock
+- `2` cups chopped onions
+- `1.5` cups thinly sliced celery
+- `1` cup diced tart apple, peeled and cored
+- `1/4` cup butter
+- `1` TBSP ground sage
+- `1` tsp ground marjoram
+- `1` tsp salt
+- `1` tsp pepper
+- `1/2` tsp savory
+- `1/2` tsp thyme
+- `12` cups lightly toasted bread, cubes
+- `1/4` cup fresh parsley, chopped
+- `1.5` cups vegetable stock
 
 ## DIRECTIONS
 

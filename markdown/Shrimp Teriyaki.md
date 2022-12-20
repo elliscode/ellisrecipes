@@ -9,11 +9,11 @@
 
 ## Ingredients
 
-- 1 lb frozen shrimp
-- 1 TBSP oil
-- 1 small broccoli crown, cut into pieces
-- 1 recipe teriyaki sauce
-- 1 recipe white jasmine rice
+- `1` lb frozen shrimp
+- `1` TBSP oil
+- `1` small broccoli crown, cut into pieces
+- `1` recipe teriyaki sauce
+- `1` recipe white jasmine rice
 
 ## Directions
 

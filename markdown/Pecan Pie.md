@@ -2,14 +2,14 @@
 
 ## Ingredients
 
-- 250 g pecans
-- 3 large eggs
-- 340 g corn syrup
-- 1 tsp vanilla extract
-- 1/2 cup (100 g) packed light or dark brown sugar
-- 1/4 cup (60 g) unsalted butter, melted and slightly cooled
-- 1/2 tsp salt
-- 1/2 tsp ground cinnamon
+- `250` g pecans
+- `3` large eggs
+- `340` g corn syrup
+- `1` tsp vanilla extract
+- `1/2` cup (`100` g) packed light or dark brown sugar
+- `1/4` cup (`60` g) unsalted butter, melted and slightly cooled
+- `1/2` tsp salt
+- `1/2` tsp ground cinnamon
 
 ## Directions
 

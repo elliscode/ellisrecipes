@@ -2,26 +2,26 @@
 
 ## Ingredients
 
-- 3 ripe bananas
-- 1/4 cup canola oil (may substitute vegetable oil) (60 ml)
-- 1/4 cup unsalted butter melted and cooled at least 5 minutes (60 g)
-- 1/2 cup sugar (100 g)
-- 1/2 cup light brown sugar tightly packed (100 g)
-- 2 large eggs room temperature preferred
-- 1 TBSP vanilla extract
-- 2 cups all-purpose flour (250 g)
-- 1.5 tsp baking powder
-- 1/2 tsp baking soda
-- 1/2 tsp salt
-- 1/4 cup buttermilk (60 ml) room temperature preferred
-- 273 g semisweet chocolate chips
+- `3` ripe bananas
+- `1/4` cup canola oil (may substitute vegetable oil) (`60` ml)
+- `1/4` cup unsalted butter melted and cooled at least 5 minutes (`60` g)
+- `1/2` cup sugar (`100` g)
+- `1/2` cup light brown sugar tightly packed (`100` g)
+- `2` large eggs room temperature preferred
+- `1` TBSP vanilla extract
+- `2` cups all-purpose flour (`250` g)
+- `1.5` tsp baking powder
+- `1/2` tsp baking soda
+- `1/2` tsp salt
+- `1/4` cup buttermilk (`60` ml) room temperature preferred
+- `273` g semisweet chocolate chips
 
 ### Streusel (optional)
 
-- 1/2 cup all-purpose flour (65 g)
-- 1/2 cup brown sugar (100 g)
-- 1/4 tsp salt
-- 1/4 cup unsalted butter, cold (60 g)
+- `1/2` cup all-purpose flour (`65` g)
+- `1/2` cup brown sugar (`100` g)
+- `1/4` tsp salt
+- `1/4` cup unsalted butter, cold (`60` g)
 
 ## Instructions
 

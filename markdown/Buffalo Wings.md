@@ -2,26 +2,26 @@
 
 ### Prep
 
-- 1/4 cup cornstarch, as needed
-- 2 lb organic chicken wings
-- 1 gallon peanut oil
+- `1/4` cup cornstarch, as needed
+- `2` lb organic chicken wings
+- `1` gallon peanut oil
 
 ### Batter
 
-- 1/2 cup corn starch
-- 1/4 cup all-purpose flour
-- 1 tsp paprika
-- 1 tsp garlic powder
-- 1 tsp cayenne pepper
-- 2 tsp baking powder
-- 2 tsp salt
-- 1 tsp black pepper
-- 2/3 cup water
+- `1/2` cup corn starch
+- `1/4` cup all-purpose flour
+- `1` tsp paprika
+- `1` tsp garlic powder
+- `1` tsp cayenne pepper
+- `2` tsp baking powder
+- `2` tsp salt
+- `1` tsp black pepper
+- `2/3` cup water
 
 ### Buffalo Sauce
 
-- 1 stick butter
-- 1 cup franks red hot
+- `1` stick butter
+- `1` cup franks red hot
 
 ## Directions
 

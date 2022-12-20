@@ -2,13 +2,13 @@
 
 ## Ingredients
 
-- 2 TBSP canola oil
-- 2 garlic cloves, peeled
-- 2 (15 oz) cans pinto beans
-- 1 tsp cumin
-- 1 tsp chili powder
-- 1/2 tsp
-- 1/2 lime, juiced
+- `2` TBSP canola oil
+- `2` garlic cloves, peeled
+- `2` (`15` oz) cans pinto beans
+- `1` tsp cumin
+- `1` tsp chili powder
+- `1/2` tsp
+- `1/2` lime, juiced
 - water as needed
 
 ## Directions

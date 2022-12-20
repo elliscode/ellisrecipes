@@ -7,8 +7,8 @@
 
 ## Ingredients
 
-- 8 oz bacon
-- 4 slices bread
+- `8` oz bacon
+- `4` slices bread
 - romaine lettuce
 - cherry tomatoes
 - red onions

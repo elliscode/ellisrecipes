@@ -2,25 +2,25 @@
 
 ## Ingredients
 
-- 2.5 cups vegetable stock
-- 1 medium sweet onion, diced
-- 1 carrot, diced
-- 1 large butternut squash, peeled, seeded & cubed (about 6 cups)
-- 1 small green apple, peeled & cubed
+- `2.5` cups vegetable stock
+- `1` medium sweet onion, diced
+- `1` carrot, diced
+- `1` large butternut squash, peeled, seeded & cubed (about `6` cups)
+- `1` small green apple, peeled & cubed
 
-1/4 tsp nutmeg
+`1/4` tsp nutmeg
 
-1/2 tsp cinnamon
+`1/2` tsp cinnamon
 
-1/4 tsp sage
+`1/4` tsp sage
 
-- 2 bay leaves
+- `2` bay leaves
 
-1/4 tsp salt, or to taste
+`1/4` tsp salt, or to taste
 
-1/2 tsp pepper, or to toast
+`1/2` tsp pepper, or to toast
 
-1/4 cup Greek yogurt, plus additional for garnish
+`1/4` cup Greek yogurt, plus additional for garnish
 
 - garnish: roasted pumpkin seeds
 

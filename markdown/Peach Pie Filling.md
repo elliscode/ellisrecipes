@@ -2,12 +2,12 @@
 
 ## Ingredients
 
-- 1 cup granulated sugar
-- 1 cup water
-- 1/4 cup cornstarch
-- 1 TBSP lemon juice
-- 1/2 tsp vanilla extract
-- 4 cups chopped peeled peaches, roughly 4-5 large peaches
+- `1` cup granulated sugar
+- `1` cup water
+- `1/4` cup cornstarch
+- `1` TBSP lemon juice
+- `1/2` tsp vanilla extract
+- `4` cups chopped peeled peaches, roughly 4-5 large peaches
 
 ## Instructions
 

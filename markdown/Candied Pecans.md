@@ -2,14 +2,14 @@
 
 ## Ingredients
 
-- 6 TBSP brown sugar
-- 1.5 tsp ground cinnamon
-- 1/2 tsp fine sea salt, see notes
+- `6` TBSP brown sugar
+- `1.5` tsp ground cinnamon
+- `1/2` tsp fine sea salt, see notes
 - Pinch cayenne pepper, optional
-- 1/2 tsp vanilla extract
-- 1.5 TBSP water
-- 2 tsp orange zest, optional
-- 6 oz pecan halves
+- `1/2` tsp vanilla extract
+- `1.5` TBSP water
+- `2` tsp orange zest, optional
+- `6` oz pecan halves
 
 ## DIRECTIONS
 

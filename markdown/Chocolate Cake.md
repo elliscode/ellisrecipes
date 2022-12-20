@@ -1,16 +1,16 @@
 # Chocolate Cake
 
-- 240 g all-purpose flour
-- 400 g sugar
-- 60 g unsweetened cocoa powder
-- 2 tsp baking powder
-- 1.5 tsp baking soda
-- 1 tsp salt
-- 240 g milk
-- 108 g canola oil
-- 2 large eggs
-- 2 tsp vanilla extract
-- 1 cup hot coffee
+- `240` g all-purpose flour
+- `400` g sugar
+- `60` g unsweetened cocoa powder
+- `2` tsp baking powder
+- `1.5` tsp baking soda
+- `1` tsp salt
+- `240` g milk
+- `108` g canola oil
+- `2` large eggs
+- `2` tsp vanilla extract
+- `1` cup hot coffee
 
 ## Directions
 

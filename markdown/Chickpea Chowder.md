@@ -2,21 +2,21 @@
 
 ## Ingredients
 
-- 1 TBSP butter
-- 1 onion
-- 100 g celery
-- 100 g carrots
-- 1 green bell pepper, diced
-- 1.5 lbs Yukon gold potato peeled & diced
-- 40 g better than bouillon vegetable
-- 40 oz water
-- 15 oz can fire roasted tomatoes
-- 33 g tomato paste
-- 14 oz can chickpeas
-- 1 tsp dried thyme
-- 1/2 tsp dried oregano
-- 1 bay leaf
-- 38 g white miso paste
+- `1` TBSP butter
+- `1` onion
+- `100` g celery
+- `100` g carrots
+- `1` green bell pepper, diced
+- `1.5` lbs Yukon gold potato peeled & diced
+- `40` g better than bouillon vegetable
+- `40` oz water
+- `15` oz can fire roasted tomatoes
+- `33` g tomato paste
+- `14` oz can chickpeas
+- `1` tsp dried thyme
+- `1/2` tsp dried oregano
+- `1` bay leaf
+- `38` g white miso paste
 
 ## Directions
 

@@ -8,7 +8,7 @@
 
 ## Ingredients
 
-- 2 cups frozen peas
+- `2` cups frozen peas
 - Water
 
 ## Instructions

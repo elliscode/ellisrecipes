@@ -2,22 +2,22 @@
 
 ## Ingredients
 
-- 1 TBSP Extra virgin olive oil
-- 1 large onion, chopped
-- 1/2 tsp garlic powder
-- 2 carrots, chopped
-- 3 tsp dry oregano
-- 1/2 tsp cumin
-- 1/2 tsp ground rosemary
-- 1/8 tsp red pepper flakes
-- 1/4 tsp salt
-- 2 bay leaves
-- 1 cup crushed tomatoes
-- 7 cups water
-- 56 g better than bouillon no chicken
-- 400 g red lentils
-- Zest of 1 lemon
-- Juice of 1 lemon
+- `1` TBSP Extra virgin olive oil
+- `1` large onion, chopped
+- `1/2` tsp garlic powder
+- `2` carrots, chopped
+- `3` tsp dry oregano
+- `1/2` tsp cumin
+- `1/2` tsp ground rosemary
+- `1/8` tsp red pepper flakes
+- `1/4` tsp salt
+- `2` bay leaves
+- `1` cup crushed tomatoes
+- `7` cups water
+- `56` g better than bouillon no chicken
+- `400` g red lentils
+- Zest of `1` lemon
+- Juice of `1` lemon
 
 ## Directions
 

@@ -2,18 +2,18 @@
 
 ## Ingredients
 
-- 1 TBSP olive oil
-- 1/2 onion, diced
-- 3 carrots, peeled and diced
-- 48 oz water
-- 48 g better than bouillon no chicken
-- 1 cup whole wheat orzo
-- 2 cans chickpeas, drained
-- 1/3 cup tahini
-- juice of 1 lemon
-- 1 cup fresh spinach, chopped
-- 1/2 tsp dill
-- 1/2 tsp salt
+- `1` TBSP olive oil
+- `1/2` onion, diced
+- `3` carrots, peeled and diced
+- `48` oz water
+- `48` g better than bouillon no chicken
+- `1` cup whole wheat orzo
+- `2` cans chickpeas, drained
+- `1/3` cup tahini
+- juice of `1` lemon
+- `1` cup fresh spinach, chopped
+- `1/2` tsp dill
+- `1/2` tsp salt
 - fresh cracked pepper
 
 ## INSTRUCTIONS

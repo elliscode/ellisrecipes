@@ -2,19 +2,19 @@
 
 ## Ingredients
 
-- 2 TBSP. canola or vegetable oil
-- 1 medium red onion, finely chopped
-- 2 TBSP. ground coriander
-- 2 tsp. ground cumin
-- 1 tsp. smoked paprika
-- 1 tsp. kosher salt
-- 1/2 tsp. cayenne
-- 1/2 tsp. ground turmeric
-- 2 TBSP. fresh ginger, peeled and finely chopped
-- 4 garlic cloves, finely chopped
-- 1 cup canned tomato sauce
-- 1 cup water
-- 1 four cup tupperware of leftover lamb
+- `2` TBSP. canola or vegetable oil
+- `1` medium red onion, finely chopped
+- `2` TBSP. ground coriander
+- `2` tsp. ground cumin
+- `1` tsp. smoked paprika
+- `1` tsp. kosher salt
+- `1/2` tsp. cayenne
+- `1/2` tsp. ground turmeric
+- `2` TBSP. fresh ginger, peeled and finely chopped
+- `4` garlic cloves, finely chopped
+- `1` cup canned tomato sauce
+- `1` cup water
+- `1` four cup tupperware of leftover lamb
 
 ## Directions
 

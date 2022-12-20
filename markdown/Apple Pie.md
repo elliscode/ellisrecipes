@@ -3,12 +3,12 @@
 ## Ingredients
 
 - Top and bottom pie crust
-- 1/2 cup unsalted butter
-- 3 TBSP all-purpose flour
-- 1/2 cup water
-- 1/2 cup white sugar
-- 1/2 cup packed brown sugar
-- 3 granny Smith apples - peeled, cored and sliced
+- `1/2` cup unsalted butter
+- `3` TBSP all-purpose flour
+- `1/2` cup water
+- `1/2` cup white sugar
+- `1/2` cup packed brown sugar
+- `3` granny Smith apples - peeled, cored and sliced
 
 ## Directions
 

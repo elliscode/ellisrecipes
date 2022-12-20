@@ -2,9 +2,9 @@
 
 ## INGREDIENTS
 
-- 200 g sugar
-- 33 g of Borax
-- 24 oz warm water
+- `200` g sugar
+- `33` g of Borax
+- `24` oz warm water
 
 ## INSTRUCTIONS
 

@@ -4,16 +4,16 @@
 
 ### For The Rice
 
-- 310 g white rice
-- 16 oz water
-- 1 bay leaf
+- `310` g white rice
+- `16` oz water
+- `1` bay leaf
 
 ### For The Broth
 
-- 48 oz water
-- 48 g better than bouillon NO chicken
-- 3 egg yolks
-- 1 lemon's juice
+- `48` oz water
+- `48` g better than bouillon NO chicken
+- `3` egg yolks
+- `1` lemon's juice
 
 ## Directions
 

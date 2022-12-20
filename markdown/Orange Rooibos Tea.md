@@ -2,11 +2,11 @@
 
 ## Ingredients
 
-- 4 cups water
-- 4 tsp dried rosemary
-- 2 tsp rooibos tea
-- 7/8 cup orange juice
-- 2 tsp honey
+- `4` cups water
+- `4` tsp dried rosemary
+- `2` tsp rooibos tea
+- `7/8` cup orange juice
+- `2` tsp honey
 
 ## Directions
 

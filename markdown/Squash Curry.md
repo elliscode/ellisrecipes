@@ -2,16 +2,16 @@
 
 ## Ingredients
 
-- 1 onion, chopped
-- 1 TBSP olive oil
-- 12 oz frozen butternut squash
-- 15 oz can garbanzo beans, drained
-- 15 oz can coconut milk
-- 226 g frozen peas
-- 15 oz can fire roasted tomatoes
-- 1 TBSP better than bouillon vegetable
-- 3 TBSP curry powder
-- 1/4 tsp salt
+- `1` onion, chopped
+- `1` TBSP olive oil
+- `12` oz frozen butternut squash
+- `15` oz can garbanzo beans, drained
+- `15` oz can coconut milk
+- `226` g frozen peas
+- `15` oz can fire roasted tomatoes
+- `1` TBSP better than bouillon vegetable
+- `3` TBSP curry powder
+- `1/4` tsp salt
 
 ## Directions
 

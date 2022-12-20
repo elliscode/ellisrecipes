@@ -2,8 +2,8 @@
 
 ## Ingredients
 
-- 45 g (1/4 cup) powdered sugar
-- 5 g (1.5 tsp) potato starch
+- `45` g (`1/4` cup) powdered sugar
+- `5` g (`1.5` tsp) potato starch
 
 ## Directions
 

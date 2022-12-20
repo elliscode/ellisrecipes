@@ -2,13 +2,13 @@
 
 ## Ingredients
 
-- 14 oz instant udon
-- 1 tsp oil
-- 1/2 onion
-- 1 bell pepper
-- 1 TBSP fresh ginger
-- 71 g soy sauce
-- 20 g hoisin sauce
+- `14` oz instant udon
+- `1` tsp oil
+- `1/2` onion
+- `1` bell pepper
+- `1` TBSP fresh ginger
+- `71` g soy sauce
+- `20` g hoisin sauce
 
 ## Directions
 

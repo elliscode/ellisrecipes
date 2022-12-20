@@ -2,18 +2,18 @@
 
 ## Ingredients
 
-- 1 large onion
-- 1 sweet red pepper
-- 4 garlic cloves
-- 3 spring onions
-- 6 limes
-- 2 tomatoes
-- 6 chicken thighs (deboned)
-- 1 red or habanero chilli
-- 1 tsp oregano
-- 1/2 tsp ground cinnamon
-- 1/2 tsp thyme
-- 1 litre chicken stock
+- `1` large onion
+- `1` sweet red pepper
+- `4` garlic cloves
+- `3` spring onions
+- `6` limes
+- `2` tomatoes
+- `6` chicken thighs (deboned)
+- `1` red or habanero chilli
+- `1` tsp oregano
+- `1/2` tsp ground cinnamon
+- `1/2` tsp thyme
+- `1` litre chicken stock
 
 ## Directions
 

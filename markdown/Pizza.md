@@ -2,9 +2,9 @@
 
 ## Ingredients
 
-- 1/3 batch pizza dough
-- 250 g pizza sauce
-- 45 g mozzarella
+- `1/3` batch pizza dough
+- `250` g pizza sauce
+- `45` g mozzarella
 
 ## Directions
 

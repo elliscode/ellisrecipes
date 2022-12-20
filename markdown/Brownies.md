@@ -2,17 +2,17 @@
 
 ## Ingredients
 
-- 300 g granulated sugar
-- 90 g flour
-- 50 g cocoa powder
-- 62 g powdered sugar
-- 3/4 tsp salt
-- 1/2 tsp instant esperesso powder
-- 112 g canola oil
-- 2 large eggs
-- 2 TBSP milk
-- 1/2 tsp vanilla extract
-- 112 g semi sweet chocolate chips
+- `300` g granulated sugar
+- `90` g flour
+- `50` g cocoa powder
+- `62` g powdered sugar
+- `3/4` tsp salt
+- `1/2` tsp instant esperesso powder
+- `112` g canola oil
+- `2` large eggs
+- `2` TBSP milk
+- `1/2` tsp vanilla extract
+- `112` g semi sweet chocolate chips
 
 ## Directions
 

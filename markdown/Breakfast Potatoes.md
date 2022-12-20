@@ -2,13 +2,13 @@
 
 ## Ingredients
 
-- 1.5 lbs potatoes, diced
-- 2 TBSP butter
-- 1 TBSP minced dried onions
-- 1 tsp dried rosemary
-- 1 tsp dried thyme
-- 1/2 tsp garlic powder
-- 1/2 tsp salt
+- `1.5` lbs potatoes, diced
+- `2` TBSP butter
+- `1` TBSP minced dried onions
+- `1` tsp dried rosemary
+- `1` tsp dried thyme
+- `1/2` tsp garlic powder
+- `1/2` tsp salt
 
 ## Directions
 

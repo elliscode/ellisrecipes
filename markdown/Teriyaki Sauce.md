@@ -2,14 +2,14 @@
 
 ## Ingredients
 
-- 4 oz water
-- 1 TBSP cornstarch
-- 6 g better than bouillon no chicken
-- 30 g packed brown sugar
-- 35 g soy sauce
-- 10 g honey honey
-- 1/8 tsp garlic powder
-- 1/4 tsp ground ginger
+- `4` oz water
+- `1` TBSP cornstarch
+- `6` g better than bouillon no chicken
+- `30` g packed brown sugar
+- `35` g soy sauce
+- `10` g honey honey
+- `1/8` tsp garlic powder
+- `1/4` tsp ground ginger
 
 ## Directions
 

@@ -2,14 +2,14 @@
 
 ## Ingredients
 
-- 1 pie crust, bottom only
-- 340 g milk
-- 227 g cream, heavy, whipping, light, or half-and-half, your choice
-- 1/4 tsp salt
-- 4 large eggs
-- 131 g sugar
-- 1 TBSP vanilla extract
-- 1/4 tsp ground nutmeg
+- `1` pie crust, bottom only
+- `340` g milk
+- `227` g cream, heavy, whipping, light, or half-and-half, your choice
+- `1/4` tsp salt
+- `4` large eggs
+- `131` g sugar
+- `1` TBSP vanilla extract
+- `1/4` tsp ground nutmeg
 
 ## Directions
 

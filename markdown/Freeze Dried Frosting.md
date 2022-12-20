@@ -2,13 +2,13 @@
 
 ## Ingredients
 
-- 20 oz sugar
-- 12.6 gr Meringue powder optional, adds extra stability
-- 13 oz Egg whites
-- 32 oz Butter, Unsalted room temp
-- 7 oz Shortening
-- 1 TBSP vanilla bean paste
-- 1.25 oz package freeze-dried raspberries, powdered in a spice grinder
+- `20` oz sugar
+- `12.6` gr Meringue powder optional, adds extra stability
+- `13` oz Egg whites
+- `32` oz Butter, Unsalted room temp
+- `7` oz Shortening
+- `1` TBSP vanilla bean paste
+- `1.25` oz package freeze-dried raspberries, powdered in a spice grinder
 
 ## Instructions
 

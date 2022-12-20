@@ -2,10 +2,10 @@
 
 ## Ingredients
 
-- 1 cup full fat Greek yogurt
-- 5 g sriracha
-- 1 tsp white wine vinegar
-- 1/4 tsp salt
+- `1` cup full fat Greek yogurt
+- `5` g sriracha
+- `1` tsp white wine vinegar
+- `1/4` tsp salt
 
 ## Directions
 

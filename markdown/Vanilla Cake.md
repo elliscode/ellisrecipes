@@ -2,15 +2,15 @@
 
 ## Ingredients
 
-- 300 g plain / all purpose flour
-- 2.5 tsp baking powder
-- 1/4 tsp salt
-- 4 large eggs
-- 300 g caster / superfine sugar
-- 115 g / 1/2 cup unsalted butter
-- 250 g milk
-- 3 tsp vanilla extract
-- 3 tsp canola oil
+- `300` g plain / all purpose flour
+- `2.5` tsp baking powder
+- `1/4` tsp salt
+- `4` large eggs
+- `300` g caster / superfine sugar
+- `115` g / `1/2` cup unsalted butter
+- `250` g milk
+- `3` tsp vanilla extract
+- `3` tsp canola oil
 
 ## Directions
 
@@ -33,7 +33,7 @@
 
 - Heat Milk-Butter: While egg is beating, place butter and milk in a heatproof jug and microwave 2 minutes on high to melt butter. Do not let milk bubble and boil. Don't do this ahead and let the milk cool.
 - Gently add flour: When the egg is whipped, scatter 1/3 flour across surface, then beat on Speed 1 for 5 seconds. Add half remaining flour, then mix on Speed 1 for 5 sec. Add remaining flour, then mix on Speed 1 for 5 - 10 sec until the flour is just mixed in. Once you can't see flour, stop straight away.
-- Lighten hot milk with some Egg Batter: Pour hot milk, vanilla and oil into the now empty flour bowl. Add about 1.5 cups of the Egg Batter into the Milk-Butter. Use a whisk to mix until smooth - you can be vigorous here. Will look foamy.
+- Lighten hot milk with some Egg Batter: Pour hot milk, vanilla and oil into the now empty flour bowl. Add about `1.5` cups of the Egg Batter into the Milk-Butter. Use a whisk to mix until smooth - you can be vigorous here. Will look foamy.
 - Slowly add milk: Turn beater back on Speed 1 then pour the Milk mixture into the Egg Batter over 15 seconds, then turn beater off.
 - Scrape and final mix: Scrape down sides and base of bowl. Beat on Speed 1 for 10 seconds - batter should now be smooth and pourable.
 

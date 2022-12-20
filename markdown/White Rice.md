@@ -3,15 +3,15 @@
 ## Ingredients
 
 - bay leaf
-- 310 g white rice
+- `310` g white rice
 
 ### for Jasmine rice:
 
-- 16 oz water
+- `16` oz water
 
 ### for Basmati rice:
 
-- 20 oz water
+- `20` oz water
 
 ## Directions
 

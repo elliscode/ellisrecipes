@@ -2,12 +2,12 @@
 
 ## Ingredients
 
-- 45 g olive oil
-- 18 g balsamic vinegar
-- 11 g honey
-- 4 g mustard
-- 1/8 tsp salt
-- 1/8 tsp ground pepper
+- `45` g olive oil
+- `18` g balsamic vinegar
+- `11` g honey
+- `4` g mustard
+- `1/8` tsp salt
+- `1/8` tsp ground pepper
 
 ## Directions
 

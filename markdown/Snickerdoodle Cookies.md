@@ -4,18 +4,18 @@
 
 ### Dough
 
-- 1/2 cup butter, softened
-- 200 g white sugar
-- 1 large egg, room temperature
-- 1/2 tsp vanilla extract
-- 180 g all-purpose flour
-- 1/4 tsp baking soda
-- 1/4 tsp cream of tartar
+- `1/2` cup butter, softened
+- `200` g white sugar
+- `1` large egg, room temperature
+- `1/2` tsp vanilla extract
+- `180` g all-purpose flour
+- `1/4` tsp baking soda
+- `1/4` tsp cream of tartar
 
 ### Cinnamon Sugar Coating
 
-- 1 tsp ground cinnamon
-- 25 g sugar
+- `1` tsp ground cinnamon
+- `25` g sugar
 
 ## Directions
 

@@ -2,16 +2,16 @@
 
 ## Ingredients
 
-- 8 oz chopped walnuts
-- 8 oz chopped almonds
-- 2 tsp ground cinnamon
-- 2 tsp ground cloves
-- 1 stick butter
-- 1 pack phyllo dough defrosted
-- 600 g sugar
-- 400 g water
-- 80 g honey
-- 1 cinnamon stick
+- `8` oz chopped walnuts
+- `8` oz chopped almonds
+- `2` tsp ground cinnamon
+- `2` tsp ground cloves
+- `1` stick butter
+- `1` pack phyllo dough defrosted
+- `600` g sugar
+- `400` g water
+- `80` g honey
+- `1` cinnamon stick
 
 ## Directions
 

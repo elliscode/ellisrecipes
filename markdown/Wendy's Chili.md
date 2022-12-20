@@ -2,21 +2,21 @@
 
 ## Ingredients
 
-- 1 pounds fresh ground beef
-- 2 cups tomato juice
-- 14 oz canned tomato puree
-- 14 oz canned red beans drained
-- 1/2 large onion, chopped (about 5.5 cups)
-- 1/4 cup diced celery
-- 1/8 cup diced green bell pepper
-- 1/8 cup chili powder (you may want to use less, as some people find this is too much)
-- 1/2 tsp cumin
-- 3/4 tsp garlic powder
-- 1/2 tsp salt
-- 1/4 tsp ground black pepper
-- 1/4 tsp oregano
-- 1/4 tsp sugar
-- 1/16 tsp cayenne pepper
+- `1` pounds fresh ground beef
+- `2` cups tomato juice
+- `14` oz canned tomato puree
+- `14` oz canned red beans drained
+- `1/2` large onion, chopped (about `5.5` cups)
+- `1/4` cup diced celery
+- `1/8` cup diced green bell pepper
+- `1/8` cup chili powder (you may want to use less, as some people find this is too much)
+- `1/2` tsp cumin
+- `3/4` tsp garlic powder
+- `1/2` tsp salt
+- `1/4` tsp ground black pepper
+- `1/4` tsp oregano
+- `1/4` tsp sugar
+- `1/16` tsp cayenne pepper
 
 ## Instructions
 

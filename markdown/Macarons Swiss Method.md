@@ -2,17 +2,17 @@
 
 ## Ingredients
 
-- 150 g white granulated sugar
-- 6 g egg white powder
-- 150 g egg whites
-- 150 g almond flour
-- 150 g powdered sugar
+- `150` g white granulated sugar
+- `6` g egg white powder
+- `150` g egg whites
+- `150` g almond flour
+- `150` g powdered sugar
 
 ## Instructions
 
 - preheat oven to 285F convection
-- in a small bowl, combine the 150 g granulated sugar and the 6g egg white powder with a whisk
-- in a separate large bowl, sift 150 g of almond flour, add the 150 g powdered sugar, and combine with a whisk
+- in a small bowl, combine the `150` g granulated sugar and the 6g egg white powder with a whisk
+- in a separate large bowl, sift `150` g of almond flour, add the `150` g powdered sugar, and combine with a whisk
 - place the egg whites in a large glass bowl
 - add water to a small saucepan and bring to a boil
 - reduce to a simmer, place glass bowl on top of simmering water

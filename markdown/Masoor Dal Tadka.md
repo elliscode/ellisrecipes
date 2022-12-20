@@ -2,19 +2,19 @@
 
 ## Ingredients
 
-- 2 cups dry masoor dal (aka red lentils), sorted and well rinsed
-- 6 cups water
-- 1 TBSP oil (coconut oil or neutral flavored)
-- 1 large yellow onion, finely diced
-- 1/2 tsp garlic powder
-- 1/2 tsp ground ginger
-- 2 green chiles, minced (optional)
-- 1 TBSP Indian curry powder
-- 1/4 tsp mustard seed
-- 1 tsp ground coriander
-- 1/2 tsp ground cumin
-- 1.5 tsp salt, more to taste
-- 15 oz can diced tomatoes, or 1.5 cups chopped fresh tomatoes
+- `2` cups dry masoor dal (aka red lentils), sorted and well rinsed
+- `6` cups water
+- `1` TBSP oil (coconut oil or neutral flavored)
+- `1` large yellow onion, finely diced
+- `1/2` tsp garlic powder
+- `1/2` tsp ground ginger
+- `2` green chiles, minced (optional)
+- `1` TBSP Indian curry powder
+- `1/4` tsp mustard seed
+- `1` tsp ground coriander
+- `1/2` tsp ground cumin
+- `1.5` tsp salt, more to taste
+- `15` oz can diced tomatoes, or `1.5` cups chopped fresh tomatoes
 
 ## Instructions
 

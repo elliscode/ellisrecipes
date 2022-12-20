@@ -2,18 +2,18 @@
 
 ## Ingredients
 
-- 1 TBSP olive oil
-- 1/2 red onion, chopped
-- 1 cup quinoa
-- 8 oz water
-- 8 g better than bouillon no beef
-- 15 oz can black beans
-- 15 oz can fire roasted tomatoes
-- 170 g frozen corn
-- 1 tsp chili powder
-- 1/2 tsp salt
-- 1/2 tsp cumin
-- 1.5 tsp lime
+- `1` TBSP olive oil
+- `1/2` red onion, chopped
+- `1` cup quinoa
+- `8` oz water
+- `8` g better than bouillon no beef
+- `15` oz can black beans
+- `15` oz can fire roasted tomatoes
+- `170` g frozen corn
+- `1` tsp chili powder
+- `1/2` tsp salt
+- `1/2` tsp cumin
+- `1.5` tsp lime
 
 ## Directions
 

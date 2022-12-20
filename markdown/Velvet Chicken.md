@@ -2,11 +2,11 @@
 
 ## Ingredients
 
-- 12 oz boneless skinless chicken breast (or thighs, 340 g)
-- 3 TBSP water
-- 2 tsp soy sauce (or 1 TBSP oyster sauce)
-- 2 tsp cornstarch
-- 1 tsp vegetable oil
+- `12` oz boneless skinless chicken breast (or thighs, `340` g)
+- `3` TBSP water
+- `2` tsp soy sauce (or `1` TBSP oyster sauce)
+- `2` tsp cornstarch
+- `1` tsp vegetable oil
 
 ## Instructions
 
@@ -19,7 +19,7 @@
 
 ## Notes
 
-We provided measurements for velveting 12 oz (340 g) of chicken, which is typical for one stir-fry dish. Adjust the amounts proportionally if you are making more or less.
+We provided measurements for velveting `12` oz (`340` g) of chicken, which is typical for one stir-fry dish. Adjust the amounts proportionally if you are making more or less.
 
 Servings: 4
 

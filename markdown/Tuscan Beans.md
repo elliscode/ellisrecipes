@@ -2,15 +2,15 @@
 
 ## Ingredients
 
-- 1 TBSP olive oil
-- 1/2 onion, diced
-- 15 oz cannellini beans, drained
-- 1.5 oz sun dried tomatoes
-- 1/2 15 oz can artichoke
-- 3 oz spinach
-- 1/2 tsp dry basil
-- 1/2 tsp salt
-- 1/2 lemon's juice
+- `1` TBSP olive oil
+- `1/2` onion, diced
+- `15` oz cannellini beans, drained
+- `1.5` oz sun dried tomatoes
+- `1/2` 15 oz can artichoke
+- `3` oz spinach
+- `1/2` tsp dry basil
+- `1/2` tsp salt
+- `1/2` lemon's juice
 - Black Pepper
 
 ## Directions

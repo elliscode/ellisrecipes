@@ -2,15 +2,15 @@
 
 ## Ingredients
 
-- 2 tsp chili powder
-- 1 tsp cumin
-- 1 tsp dried minced onions
-- 1/2 tsp salt
-- 1 TBSP lime juice
-- 1 TBSP olive oil
-- 1 TBSP water
-- 15 oz can chickpeas, rinsed and drained
-- 1/2 head cauliflower, chopped
+- `2` tsp chili powder
+- `1` tsp cumin
+- `1` tsp dried minced onions
+- `1/2` tsp salt
+- `1` TBSP lime juice
+- `1` TBSP olive oil
+- `1` TBSP water
+- `15` oz can chickpeas, rinsed and drained
+- `1/2` head cauliflower, chopped
 
 ## Directions
 

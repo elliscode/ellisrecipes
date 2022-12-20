@@ -2,11 +2,11 @@
 
 ## Ingredients
 
-- 5 lbs Yukon Gold potatoes, peeled and cut lengthwise into quarters
-- 2 tsp salt
-- 200 g heavy cream
-- 100 g butter
-- 60 g milk
+- `5` lbs Yukon Gold potatoes, peeled and cut lengthwise into quarters
+- `2` tsp salt
+- `200` g heavy cream
+- `100` g butter
+- `60` g milk
 
 ## Directions
 

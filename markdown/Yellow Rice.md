@@ -2,11 +2,11 @@
 
 ## Ingredients
 
-- 18 oz water
-- 1.41 oz Goya Sazon con azafron
-- 12 g better than bouillon no chicken
-- 1 cup peas
-- 310 g white rice
+- `18` oz water
+- `1.41` oz Goya Sazon con azafron
+- `12` g better than bouillon no chicken
+- `1` cup peas
+- `310` g white rice
 
 ## Directions
 

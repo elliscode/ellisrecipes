@@ -4,19 +4,19 @@
 
 ### For The Chickpeas
 
-- 1 can chickpeas
-- 1.5 tsp baking soda
+- `1` can chickpeas
+- `1.5` tsp baking soda
 - water
 
 ### For The Hummus
 
-- 2 oz water
-- 1/4 tsp garlic powder
-- 1/2 tsp salt
-- 1/8 tsp cumin
-- 2 TBSP lemon juice
-- 53 g olive oil
-- 90 g tahini
+- `2` oz water
+- `1/4` tsp garlic powder
+- `1/2` tsp salt
+- `1/8` tsp cumin
+- `2` TBSP lemon juice
+- `53` g olive oil
+- `90` g tahini
 - cooked chickpeas, rinsed and drained
 
 ## Directions

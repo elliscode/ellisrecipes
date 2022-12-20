@@ -2,12 +2,12 @@
 
 ## Ingredients
 
-- 5 to 6 cups fresh pitted cherries, about 2.5 to 3 pounds
-- 1/2 cup water
-- 2 TBSP freshly squeezed lemon juice
-- 2/3 cup granulated sugar
-- 4 TBSP cornstarch
-- 1/4 tsp almond extract, optional
+- `5` to `6` cups fresh pitted cherries, about 2.5 to 3 pounds
+- `1/2` cup water
+- `2` TBSP freshly squeezed lemon juice
+- `2/3` cup granulated sugar
+- `4` TBSP cornstarch
+- `1/4` tsp almond extract, optional
 
 ## Instructions
 

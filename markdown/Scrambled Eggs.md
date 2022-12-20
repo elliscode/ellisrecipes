@@ -2,10 +2,10 @@
 
 ## Ingredients
 
-- 4 eggs
-- 50 g whole milk
-- 1 g green onions
-- 1/4 tsp salt
+- `4` eggs
+- `50` g whole milk
+- `1` g green onions
+- `1/4` tsp salt
 - fresh cracked black pepper
 
 Servings: 2

@@ -2,14 +2,14 @@
 
 ## Ingredients
 
-- 1 turkey, 12-16 pound
-- 1 carrot, chunked
-- 1 stalk celery, chunked
-- 1 onion, quartered
-- 1 green apple, quartered
-- 1/4 cup melted butter
+- `1` turkey, 12-16 pound
+- `1` carrot, chunked
+- `1` stalk celery, chunked
+- `1` onion, quartered
+- `1` green apple, quartered
+- `1/4` cup melted butter
 - salt & pepper to taste
-- 1/2 cup water
+- `1/2` cup water
 
 ## Instructions
 

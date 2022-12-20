@@ -2,17 +2,17 @@
 
 ## Ingredients
 
-- 300 g sweet potatoes, peeled and chopped
-- 227 g frozen corn
-- 15 oz can black beans, rinsed and drained
-- 1 red onion, chopped
-- 1 red bell pepper, chopped
-- 3 TBSP olive oil
-- 1 TBSP onion flakes
-- 1 TBSP chili powder
-- 1 TBSP Mexican seasoning blend
-- 1 tsp cumin
-- 1 tsp salt
+- `300` g sweet potatoes, peeled and chopped
+- `227` g frozen corn
+- `15` oz can black beans, rinsed and drained
+- `1` red onion, chopped
+- `1` red bell pepper, chopped
+- `3` TBSP olive oil
+- `1` TBSP onion flakes
+- `1` TBSP chili powder
+- `1` TBSP Mexican seasoning blend
+- `1` tsp cumin
+- `1` tsp salt
 
 ## Directions
 

@@ -4,8 +4,8 @@
 
 - water
 - salt
-- 56 g pastina
-- 7 g butter
+- `56` g pastina
+- `7` g butter
 
 ## Directions
 

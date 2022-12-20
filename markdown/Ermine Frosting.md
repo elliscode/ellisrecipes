@@ -2,64 +2,64 @@
 
 ## Ingredients
 
-- 37.5 g all purpose flour
-- 200 g white sugar
-- 240 g cup milk
-- 1.5 tsp vanilla extract
-- 2 sticks unsalted butter
+- `37.5` g all purpose flour
+- `200` g white sugar
+- `240` g cup milk
+- `1.5` tsp vanilla extract
+- `2` sticks unsalted butter
 
 ### Chocolate Frosting Option:
 
-- 1/4 cup cocoa powder, unsweetened
+- `1/4` cup cocoa powder, unsweetened
 
 ### Cinnamon Frosting Option
 
-- 1 tsp ground cinnamon
+- `1` tsp ground cinnamon
 
 ### Candy Cane Frosting Option
 
-- 2 candy canes, melted in with milk
+- `2` candy canes, melted in with milk
 
 ### Lemon Frosting Option
 
-- 2 TBSP lemon juice
-- 2 tsp lemon zest
-- 2 TBSP meringue powder
+- `2` TBSP lemon juice
+- `2` tsp lemon zest
+- `2` TBSP meringue powder
 
 ### Peanut Butter Frosting Option
 
-- 1.5 sticks unsalted Butter
-- 67 g smooth peanut butter
+- `1.5` sticks unsalted Butter
+- `67` g smooth peanut butter
 
 ### Oreo Frosting Option
 
-- 6 oreos blended in with milk
-- 6 oreos crushed and added to frosting after mixing
+- `6` oreos blended in with milk
+- `6` oreos crushed and added to frosting after mixing
 
 ### Prosecco Frosting Option
 
-- 320 g prosecco, reduced on low heat
-- 30 g prosecco after reduction
+- `320` g prosecco, reduced on low heat
+- `30` g prosecco after reduction
 
 ### Peach Frosting Option
 
-- 200 g frozen peaches, thawed and blended with milk
-- 240 g should be total weight after you simmer the milk and fruit mixture
+- `200` g frozen peaches, thawed and blended with milk
+- `240` g should be total weight after you simmer the milk and fruit mixture
 
 ### Candied Pecan Option
 
 - replace white sugar with brown sugar
-- 1 recipe of candied pecans, blitzed in food processor
+- `1` recipe of candied pecans, blitzed in food processor
 
 ### Blueberry Option
 
-- 1 pint blueberries
-- 2 oz water
+- `1` pint blueberries
+- `2` oz water
 - bring to a boil, then simmer for 60 minites
 
 ## Split or Curdled buttercream repair
 
-- 50 g white chocolate chips, melted
+- `50` g white chocolate chips, melted
 - mix in with the split buttercream
 
 ## Instructions

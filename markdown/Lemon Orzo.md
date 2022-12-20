@@ -2,15 +2,15 @@
 
 ## Ingredients
 
-- 2 cup water
-- 1 tsp salt
-- 2 TBSP olive oil
-- 1 cup orzo
-- 1 tsp dried mint
-- 1/2 tsp paprika
-- 1 lemons zest
-- 2 chopped green onions
-- 1 lemons juice
+- `2` cup water
+- `1` tsp salt
+- `2` TBSP olive oil
+- `1` cup orzo
+- `1` tsp dried mint
+- `1/2` tsp paprika
+- `1` lemons zest
+- `2` chopped green onions
+- `1` lemons juice
 
 ## Directions
 

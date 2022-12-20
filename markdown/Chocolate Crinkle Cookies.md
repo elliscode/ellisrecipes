@@ -2,19 +2,19 @@
 
 ## Ingredients
 
-- 240 g all purpose flour
-- 2.5 tsp baking powder
-- 1/2 tsp salt
-- 90 g cocoa powder
-- 400 g granulated sugar
-- 112 g canola oil
-- 273 g applesouce
-- 1 tsp vanilla extract
+- `240` g all purpose flour
+- `2.5` tsp baking powder
+- `1/2` tsp salt
+- `90` g cocoa powder
+- `400` g granulated sugar
+- `112` g canola oil
+- `273` g applesouce
+- `1` tsp vanilla extract
 
 ### Sugar Coating
 
-- 100 g granulated sugar
-- 100 g powdered sugar
+- `100` g granulated sugar
+- `100` g powdered sugar
 
 ## Directions
 

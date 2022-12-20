@@ -2,9 +2,9 @@
 
 ## Ingredients
 
-- 1 cup heavy cream
-- 1 tsp vanilla extract
-- 1 TBSP powdered sugar
+- `1` cup heavy cream
+- `1` tsp vanilla extract
+- `1` TBSP powdered sugar
 
 ## Directions
 

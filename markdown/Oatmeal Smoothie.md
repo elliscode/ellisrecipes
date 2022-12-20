@@ -2,13 +2,13 @@
 
 ## Ingredients
 
-- 1/4 cup oats
-- 1 banana
-- 1/2 cup plant milk
-- 1 TBSP peanut butter
-- 1 tsp maple syrup
-- 1/2 tsp vanilla extract
-- 1/8 tsp salt
+- `1/4` cup oats
+- `1` banana
+- `1/2` cup plant milk
+- `1` TBSP peanut butter
+- `1` tsp maple syrup
+- `1/2` tsp vanilla extract
+- `1/8` tsp salt
 
 ## Directions
 

@@ -2,15 +2,15 @@
 
 ## Ingredients
 
-- 1 pound boneless, skinless chicken
-- 56 g plain Greek yogurt
-- 14 g olive oil
-- 1 lemons zest
-- 1 lemons juice
-- 1/2 tsp garlic powder
-- 1 tsp dried oregano
-- 1 tsp kosher salt
-- 1/2 tsp freshly ground black pepper
+- `1` pound boneless, skinless chicken
+- `56` g plain Greek yogurt
+- `14` g olive oil
+- `1` lemons zest
+- `1` lemons juice
+- `1/2` tsp garlic powder
+- `1` tsp dried oregano
+- `1` tsp kosher salt
+- `1/2` tsp freshly ground black pepper
 
 ## Instructions
 

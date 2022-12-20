@@ -2,18 +2,18 @@
 
 ## Ingredients
 
-- 1 tsp olive oil
-- 1/2 cup diced onion
-- 6 oz fresh spinach, chopped
-- 4 oz crumbled feta
-- 1/2 cup cottage cheese
-- 1/8 tsp nutmeg
-- 1/4 tsp salt
-- 1/2 tsp dried oregano
-- 1/4 tsp dried basil
-- 1/4 tsp dried dill
-- 1 pack phyllo dough
-- 1/4 cup melted butter
+- `1` tsp olive oil
+- `1/2` cup diced onion
+- `6` oz fresh spinach, chopped
+- `4` oz crumbled feta
+- `1/2` cup cottage cheese
+- `1/8` tsp nutmeg
+- `1/4` tsp salt
+- `1/2` tsp dried oregano
+- `1/4` tsp dried basil
+- `1/4` tsp dried dill
+- `1` pack phyllo dough
+- `1/4` cup melted butter
 
 ## Directions
 

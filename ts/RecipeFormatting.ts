@@ -21,6 +21,15 @@ export default class RecipeFormatting {
     noSleep : NoSleep = new NoSleep();
     screenLockOption : boolean = false;
 
+    static readonly categoryOrderMap: Map<string, number> = new Map(
+        [["Meals", 1],
+        ["Sides", 2],
+        ["Snacks", 3],
+        ["Soups", 4],
+        ["Dips And Sauces", 5],
+        ["Drinks", 6],
+        ["Desserts", 7]]);
+
     readonly fractionMap : Map<number, string> = new Map();
 
     constructor () {
@@ -36,205 +45,6 @@ export default class RecipeFormatting {
         }
     }
 
-    static readonly categoryOrderMap: Map<string, number> = new Map(
-        [["Meals", 1],
-        ["Sides", 2],
-        ["Snacks", 3],
-        ["Soups", 4],
-        ["Dips And Sauces", 5],
-        ["Drinks", 6],
-        ["Desserts", 7]]);
-
-    public readonly parseRecipes = () => {
-        const cards = document.getElementsByClassName('card');
-        for (const item of cards) {
-            if (!(item instanceof HTMLDivElement)) {
-                continue;
-            }
-            const card: HTMLDivElement = item as HTMLDivElement;
-            const content: HTMLDivElement = document.createElement('div');
-            let title: Title = { 'value': '', 'element': undefined };
-            let category: Category = { 'value': '', 'element': undefined };
-            let servings: Servings = { 'value': 1, 'element': undefined };
-            let tags: Tags = { 'value': [], 'element': undefined };
-            let link: Link = { 'value': undefined, 'element': undefined };
-            for (const child of card.childNodes) {
-                if (child instanceof HTMLHeadingElement) {
-                    if ('h3' === child.tagName.toLowerCase()) {
-                        child.textContent = null == child.textContent ? '' : child.textContent;
-                        const titleString: string = !child.textContent ? '' : child.textContent;
-                        const titleStringTrimmed: string = titleString.trim().replace(/[\r\n]+/g,'');
-                        title = { 'value': titleStringTrimmed, 'element': child };
-                    }
-                }
-                if (child instanceof HTMLParagraphElement) {
-                    let textContent: string = !child.textContent ? '' : child.textContent;
-                    {
-                        let searchPrefix: string = 'Servings: ';
-                        if (textContent.startsWith(searchPrefix)) {
-                            const servingsNumber: number = parseInt(textContent.substring(searchPrefix.length));
-                            servings = { 'value': servingsNumber, 'element': child };
-                        }
-                    }
-                    {
-                        let searchPrefix: string = 'Tags: ';
-                        if (textContent.startsWith(searchPrefix)) {
-                            let splitString: string[] = [];
-                            for (const part of textContent.substring(searchPrefix.length).split(/,/g)) {
-                                splitString.push(part.trim());
-                            }
-                            splitString.sort();
-                            tags = { 'value': splitString, 'element': child };
-                        }
-                    }
-                    {
-                        let searchPrefix: string = 'Category: ';
-                        if (textContent.startsWith(searchPrefix)) {
-                            const categoryString: string = textContent.substring(searchPrefix.length);
-                            category = { 'value': categoryString, 'element': child };
-                        }
-                    }
-                }
-                if (child instanceof HTMLAnchorElement) {
-                    let linkItem: HTMLAnchorElement = child as HTMLAnchorElement;
-                    let hrefContent: string = linkItem.href;
-                    link = { 'value': hrefContent, 'element': linkItem }
-                }
-            }
-
-            if (!this.recipesMap.has(category.value)) {
-                this.recipesMap.set(category.value, new Map());
-            }
-            const mapValue = this.recipesMap.get(category.value)!;
-            mapValue.set(title.value, {
-                card: card,
-                content: content,
-                title: title,
-                category: category,
-                servings: servings,
-                tags: tags,
-                link: link
-            });
-
-        }
-    }
-
-
-    readonly categorySortFunction = (first: string, second: string): number => {
-        const firstIndex: number | undefined = RecipeFormatting.categoryOrderMap.get(first);
-        const secondIndex: number | undefined = RecipeFormatting.categoryOrderMap.get(second);
-        if (firstIndex && secondIndex) {
-            if (firstIndex < secondIndex) {
-                return -1;
-            } else if (firstIndex > secondIndex) {
-                return 1;
-            } else {
-                return 0;
-            }
-        } else if (firstIndex) {
-            return -1;
-        } else if (secondIndex) {
-            return 1;
-        }
-        return first.localeCompare(second);
-    }
-
-    readonly buildSections = () => {
-        const recipesElement: HTMLElement | null = document.getElementById('recipes');
-        if (!recipesElement || !(recipesElement instanceof HTMLDivElement)) {
-            return;
-        }
-        const recipesDiv: HTMLDivElement = recipesElement as HTMLDivElement;
-        const categoryKeys: string[] = Array.from(this.recipesMap.keys());
-        categoryKeys.sort(this.categorySortFunction);
-        for (const categoryKey of categoryKeys) {
-
-            const h2 = document.createElement('h2');
-            h2.innerText = categoryKey;
-            recipesDiv.appendChild(h2);
-
-            const categoryMap: Map<string, RecipeCard> = this.recipesMap.get(categoryKey)!;
-            const recipeKeys: string[] = Array.from(categoryMap.keys());
-            recipeKeys.sort();
-            for (const recipeKey of recipeKeys) {
-                const recipe: RecipeCard = categoryMap.get(recipeKey)!;
-                recipesDiv.appendChild(recipe.card);
-                recipe.category.element?.remove();
-                recipe.servings.element?.remove();
-                recipe.link.element?.remove();
-                this.generateRecipeButtons(recipe);
-                this.setTheSpans(recipe);
-                this.modifyRecipe(recipe.card, 1);
-                this.rehomeTheChildren(recipe);
-                this.addPinDiv(recipe);
-            }
-        }
-    }
-    readonly setTheSpans = (recipe: RecipeCard) => {
-        for (const listElement of recipe.card.getElementsByTagName('li')) {
-            for (const spanElement of listElement.getElementsByTagName('span')) {
-                const span: HTMLSpanElement = spanElement as HTMLSpanElement;
-                const text: string = !span.textContent ? '' : span.textContent;
-                let value: number = 0;
-                for(const textPart of text.split(' ')) {
-                    if (textPart.includes('/')) {
-                        const parts: string[] = textPart.split('/');
-                        value += parseFloat(parts[0]) / parseFloat(parts[1]);
-                    } else {
-                        value += parseFloat(textPart);
-                    }
-                }
-                span.setAttribute('originalValue', value.toString());
-                span.classList.add('quantity');
-            }
-        }
-    }
-    readonly rehomeTheChildren = (recipe: RecipeCard) => {
-        while (recipe.card.firstElementChild) {
-            recipe.content.appendChild(recipe.card.firstElementChild);
-        }
-        recipe.title.element!.classList.add('title');
-        recipe.title.element!.addEventListener('click', this.showRecipeCallback);
-        recipe.card.appendChild(recipe.title.element!);
-
-        this.addPin(recipe.card);
-
-        recipe.card.appendChild(recipe.content);
-        recipe.content.style.display = 'none';
-        recipe.content.style.position = 'relative';
-        recipe.content.style.paddingBottom = '50px';
-
-        recipe.card.setAttribute('servings', recipe.servings.value.toString());
-    }
-    readonly addPinDiv = (recipe: RecipeCard) => {
-        const div = document.createElement('div');
-        div.classList.add('pindragimg');
-        div.classList.add('green');
-        recipe.card.appendChild(div);
-    }
-    readonly addPin = (card: HTMLDivElement) => {
-        // let pinImg = document.createElement('img');
-        // pinImg.classList.add('pin');
-        // pinImg.setAttribute('src', 'static/home/img/pin2.png?v=001');
-        // pinImg.addEventListener('click', pinRecipe);
-        // card.appendChild(pinImg);
-    }
-
-    readonly addUnPin = (card: HTMLDivElement) => {
-        // let pinImg = document.createElement('img');
-        // pinImg.classList.add('pin');
-        // pinImg.setAttribute('src', 'static/home/img/pin_blu.png?v=001');
-        // pinImg.addEventListener('click', unpinRecipe);
-        // card.appendChild(pinImg);
-    }
-
-    static readonly createHeader = (...input: string[]): string => {
-        let fullString = '_';
-        for (const item of input) {
-            fullString += item + "_";
-        }
-        return fullString.toUpperCase().replace(/[^A-Z0-9]/g, '_').replace(/^_/, '').replace(/_$/, '');
-    };
     readonly touchy = (event: TouchEvent) => {
         const touch = event.touches[0];
         if (!this.startX) {
@@ -287,125 +97,30 @@ export default class RecipeFormatting {
         this.prevDiff = undefined;
     }
     readonly generateRecipeButtons = (recipe: RecipeCard) => {
-        const divItem: HTMLDivElement = recipe.card;
-        const header2: HTMLHeadingElement = recipe.title.element!;
-        const id: string = RecipeFormatting.createHeader(recipe.category.value, recipe.title.value);
-        divItem.setAttribute('id', id);
-
-        header2.addEventListener('touchstart', this.touchy, { passive: true });
-        header2.addEventListener('touchmove', this.touchy2, { passive: false });
-        header2.addEventListener('touchend', this.touchy3, { passive: true });
-
-        let servingsDiv = document.createElement('div');
-        servingsDiv.classList.add('servings');
-        divItem.insertBefore(servingsDiv, header2.nextSibling);
-        let servingsLabel = document.createElement('label');
-        servingsLabel.innerText = 'Servings: ';
-        servingsDiv.appendChild(servingsLabel);
-
-        let servingInput = document.createElement('input');
-        servingInput.type = 'text';
-        servingInput.value = recipe.servings.value.toString();
-        servingInput.setAttribute('originalValue', recipe.servings.value.toString());
-        servingInput.addEventListener('input', this.modifyRecipeByCallback);
-        servingInput.inputMode = 'decimal';
-        servingsDiv.appendChild(servingInput);
-
-        let resetImg = document.createElement('img');
-        resetImg.classList.add('reset');
-        resetImg.setAttribute('src', 'static/home/img/reset.png?v=001');
-        resetImg.setAttribute('related', id);
-        resetImg.addEventListener('click', this.resetRecipe);
-        servingsDiv.appendChild(resetImg);
-
-        let halveImg = document.createElement('img');
-        halveImg.classList.add('halve');
-        halveImg.setAttribute('src', 'static/home/img/divide_by_two.png?v=001');
-        halveImg.setAttribute('related', id);
-        halveImg.addEventListener('click', this.halveRecipe);
-        servingsDiv.appendChild(halveImg);
-
-        let doubleImg = document.createElement('img');
-        doubleImg.classList.add('double');
-        doubleImg.setAttribute('src', 'static/home/img/times_two.png?v=001');
-        doubleImg.setAttribute('related', id);
-        doubleImg.addEventListener('click', this.doubleRecipe);
-        servingsDiv.appendChild(doubleImg);
-
-        let closeDiv = document.createElement('div');
-        closeDiv.classList.add('close-div');
-        let closeButton = document.createElement('button');
-        closeButton.classList.add('close-recipe');
-        closeButton.innerText = '\u00D7';
-        closeButton.addEventListener('click', this.closeRecipeCallback);
-        closeDiv.appendChild(closeButton);
-        divItem.appendChild(closeDiv);
-
-        let img = document.createElement('img');
-        img.classList.add('copy');
-        img.setAttribute('src', 'static/home/img/copy.png?v=001');
-        img.setAttribute('related', id);
-        img.addEventListener('click', this.copyRecipe);
-        divItem.appendChild(img);
-
-        let redditImg = document.createElement('img');
-        redditImg.classList.add('reddit');
-        redditImg.setAttribute('src', 'static/home/img/reddit_button.png?v=001');
-        redditImg.setAttribute('related', id);
-        redditImg.addEventListener('click', this.copyMarkdown);
-        divItem.appendChild(redditImg);
-
-        let cronometerImg = document.createElement('img');
-        cronometerImg.classList.add('cronometer');
-        cronometerImg.setAttribute('src', 'static/home/img/cronometer_button.png?v=001');
-        cronometerImg.setAttribute('related', id);
-        cronometerImg.addEventListener('click', this.copyCronometer);
-        divItem.appendChild(cronometerImg);
-
-        let printImg = document.createElement('img');
-        printImg.classList.add('ellis');
-        printImg.setAttribute('src', 'static/home/img/print.png?v=001');
-        printImg.setAttribute('related', id);
-        printImg.addEventListener('click', this.printRecipe);
-        divItem.appendChild(printImg);
-
-        let share = document.createElement('img');
-        share.classList.add('share');
-        share.setAttribute('src', 'static/home/img/share_button.png?v=001');
-        share.setAttribute('related', id);
-        share.addEventListener('click', this.shareRecipe);
-        divItem.appendChild(share);
-
-        if (recipe.link.value) {
-            let link = document.createElement('a');
-            link.setAttribute('href', recipe.link.value);
-            let linkImg = document.createElement('img');
-            linkImg.classList.add('link');
-            linkImg.setAttribute('src', 'static/home/img/link.png?v=001');
-            link.appendChild(linkImg);
-            divItem.appendChild(link);
+        // nothing on purpose
+    }
+    static readonly addCallback = (selector: string, func: EventListenerOrEventListenerObject) => {
+        let items = Array.from(document.querySelectorAll(selector));
+        if (!items) {
+            items = [];
         }
-
-        let categoryDiv = document.createElement('div');
-        categoryDiv.classList.add('category');
-        categoryDiv.style.display = 'none';
-        categoryDiv.innerText = recipe.category.value;
-        divItem.appendChild(categoryDiv);
-
-        if (recipe.tags.element) {
-            let tagsDiv = document.createElement('div');
-            tagsDiv.classList.add('tags');
-            for (const tag of recipe.tags.value) {
-                const span = document.createElement('span');
-                span.innerText = tag;
-                span.classList.add('tag');
-                tagsDiv.appendChild(span);
-            }
-            divItem.appendChild(tagsDiv);
-            recipe.tags.element.remove();
+        for(let item of items) {
+            item.addEventListener('click', func);
         }
     }
+
     readonly addCallbacks = () => {
+        RecipeFormatting.addCallback('h3.title', this.showRecipeCallback);
+        RecipeFormatting.addCallback('button.close-recipe', this.closeRecipeCallback);
+        RecipeFormatting.addCallback('img.reset', this.resetRecipe);
+        RecipeFormatting.addCallback('img.halve', this.halveRecipe);
+        RecipeFormatting.addCallback('img.double', this.doubleRecipe);
+        RecipeFormatting.addCallback('img.copy', this.copyRecipe);
+        RecipeFormatting.addCallback('img.reddit', this.copyMarkdown);
+        RecipeFormatting.addCallback('img.cronometer', this.copyCronometer);
+        RecipeFormatting.addCallback('img.ellis', this.printRecipe);
+        RecipeFormatting.addCallback('img.share', this.shareRecipe);
+
         const searchTextBox = document.getElementById('search');
         searchTextBox?.addEventListener('input', this.executeSearch);
 
@@ -805,7 +520,6 @@ export default class RecipeFormatting {
             pinImg.classList.remove('green');
             pinImg.classList.add('red');
         }
-        this.addUnPin(card);
     }
     readonly unpinRecipe = (ev: Event) => {
         let card: HTMLDivElement | undefined = undefined;
@@ -844,7 +558,6 @@ export default class RecipeFormatting {
             pinImg.classList.remove('red');
             pinImg.classList.add('green');
         }
-        this.addPin(card);
     }
     readonly loadPinsFromMemory = () => {
         let output: string[] = [];

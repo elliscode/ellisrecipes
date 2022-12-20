@@ -2,12 +2,12 @@
 
 ## Ingredients
 
-- 4 large egg yolks (see note)
-- 2/3 cup (134 g) granulated sugar
-- 1 TBSP lemon zest (about 1 lemon)
-- 1/3 cup (80 ml) fresh lemon juice (about 2-3 lemons)
-- 1/8 tsp salt
-- 6 TBSP (86 g) unsalted butter, softened to room temperature
+- `4` large egg yolks (see note)
+- `2/3` cup (`134` g) granulated sugar
+- `1` TBSP lemon zest (about `1` lemon)
+- `1/3` cup (`80` ml) fresh lemon juice (about 2-`3` lemons)
+- `1/8` tsp salt
+- `6` TBSP (`86` g) unsalted butter, softened to room temperature
 
 ## Instructions
 

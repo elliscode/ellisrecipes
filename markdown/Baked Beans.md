@@ -2,15 +2,15 @@
 
 ## Ingredients
 
-- 3 cups canned navy beans
-- 1/2 cup molasses
-- 1 cup water
-- 8 g better than bouillon no beef
-- 1 yellow onion, diced
-- 1 cup tomato paste
-- 1 TBSP soy sauce
-- 1 tsp ground mustard
-- 1/2 tsp salt
+- `3` cups canned navy beans
+- `1/2` cup molasses
+- `1` cup water
+- `8` g better than bouillon no beef
+- `1` yellow onion, diced
+- `1` cup tomato paste
+- `1` TBSP soy sauce
+- `1` tsp ground mustard
+- `1/2` tsp salt
 - Black pepper
 
 ## Directions

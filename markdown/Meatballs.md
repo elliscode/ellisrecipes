@@ -2,16 +2,16 @@
 
 ## Ingredients
 
-- 1 cup Italian-seasoned bread crumbs
-- 1/4 cup grated Romano cheese
-- 2 TBSP chopped fresh parsley
-- 1/2 tsp salt
-- 1/2 tsp ground black pepper
-- 1/2 tsp garlic powder
-- 1/2 tsp onion powder
-- 1/2 cup water
-- 2 eggs
-- 1.5 pounds ground beef
+- `1` cup Italian-seasoned bread crumbs
+- `1/4` cup grated Romano cheese
+- `2` TBSP chopped fresh parsley
+- `1/2` tsp salt
+- `1/2` tsp ground black pepper
+- `1/2` tsp garlic powder
+- `1/2` tsp onion powder
+- `1/2` cup water
+- `2` eggs
+- `1.5` pounds ground beef
 - ADD ALL INGREDIENTS TO SHOPPING LIST
 
 ## Directions Checklist

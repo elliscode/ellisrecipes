@@ -2,17 +2,17 @@
 
 ## Ingredients
 
-- 2 sticks butter
-- 400 g sugar
-- 3 medium eggs at room temperature
-- 3 medium egg yolks at room temperature
-- 3 TBSP vegetable oil
-- 1 tsp almond extract
-- 10 oz milk
-- 390 g ap flour
-- 1 TBSP baking powder
-- 1.5 tsp baking soda
-- 1/2 tsp salt
+- `2` sticks butter
+- `400` g sugar
+- `3` medium eggs at room temperature
+- `3` medium egg yolks at room temperature
+- `3` TBSP vegetable oil
+- `1` tsp almond extract
+- `10` oz milk
+- `390` g ap flour
+- `1` TBSP baking powder
+- `1.5` tsp baking soda
+- `1/2` tsp salt
 
 ## Directions
 

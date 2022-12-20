@@ -2,14 +2,14 @@
 
 ## Ingredients
 
-- 15 oz can cannellini beans, drained and rinsed
-- 2 TBSP extra-virgin olive oil
-- 2 TBSP fresh lemon juice
-- 1/2 tsp lemon zest
-- 1/2 tsp sea salt
+- `15` oz can cannellini beans, drained and rinsed
+- `2` TBSP extra-virgin olive oil
+- `2` TBSP fresh lemon juice
+- `1/2` tsp lemon zest
+- `1/2` tsp sea salt
 - freshly ground black pepper
-- 1/4 tsp dried basil leaves
-- 1/4 tsp rosemary leaves
+- `1/4` tsp dried basil leaves
+- `1/4` tsp rosemary leaves
 
 ## Directions
 

@@ -2,12 +2,12 @@
 
 ## Ingredients
 
-- 1.5 cups vinegar
-- 1 TBSP salt
-- 1 tsp dried dill
-- 1 tsp nutmeg
-- 6 mini cucumbers
-- fill remaining jar volume with filtered water, typically 1/2 cup filtered water
+- `1.5` cups vinegar
+- `1` TBSP salt
+- `1` tsp dried dill
+- `1` tsp nutmeg
+- `6` mini cucumbers
+- fill remaining jar volume with filtered water, typically `1/2` cup filtered water
 
 ## Directions
 

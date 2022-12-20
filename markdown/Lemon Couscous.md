@@ -2,15 +2,15 @@
 
 ## Ingredients
 
-- 8 oz water
-- 8 g better than bouillon NO chicken
-- 2 TBSP lemon juice
-- 1/2 TBSP butter
-- 1/4 tsp salt
-- 4 oz jar diced pimento peppers
-- 15 g pine nuts
-- 2 tsp dried parsley
-- 186 g couscous
+- `8` oz water
+- `8` g better than bouillon NO chicken
+- `2` TBSP lemon juice
+- `1/2` TBSP butter
+- `1/4` tsp salt
+- `4` oz jar diced pimento peppers
+- `15` g pine nuts
+- `2` tsp dried parsley
+- `186` g couscous
 
 ## Directions
 

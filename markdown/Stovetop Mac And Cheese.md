@@ -2,14 +2,14 @@
 
 ## Ingredients
 
-- 1/2 lb pasta
-- 4 TBSP butter
-- 2 eggs
-- 6 oz evaporated milk
-- 1/2 tsp hot sauce
-- 1/2 tsp salt
+- `1/2` lb pasta
+- `4` TBSP butter
+- `2` eggs
+- `6` oz evaporated milk
+- `1/2` tsp hot sauce
+- `1/2` tsp salt
 - Fresh ground pepper
-- 8 oz sharp cheddar
+- `8` oz sharp cheddar
 
 ## Directions
 

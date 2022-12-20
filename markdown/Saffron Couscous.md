@@ -2,16 +2,16 @@
 
 ## Ingredients
 
-- 1 onion
-- 1 TBSP butter
-- 1 red bell pepper
-- 6 oz water
-- 1 TBSP better than bouillon NO chicken
-- 1 cup frozen peas
-- 15 oz can chickpeas, drained
-- 1 pack Goya sazon con azafron
-- 1/2 tsp salt
-- 186 g instant couscous
+- `1` onion
+- `1` TBSP butter
+- `1` red bell pepper
+- `6` oz water
+- `1` TBSP better than bouillon NO chicken
+- `1` cup frozen peas
+- `15` oz can chickpeas, drained
+- `1` pack Goya sazon con azafron
+- `1/2` tsp salt
+- `186` g instant couscous
 
 ## Directions
 

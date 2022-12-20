@@ -2,12 +2,12 @@
 
 ## Ingredients
 
-- 3/4 cup water
-- 1 TBSP cornstarch
-- 6 g better than bouillon no beef
-- 40 g vegetarian oyster sauce
-- 20 g soy sauce
-- 2 g sugar
+- `3/4` cup water
+- `1` TBSP cornstarch
+- `6` g better than bouillon no beef
+- `40` g vegetarian oyster sauce
+- `20` g soy sauce
+- `2` g sugar
 
 ## Directions
 

@@ -2,16 +2,16 @@
 
 ## Ingredients
 
-- 240 g plant milk
-- 1 tsp vinegar
-- 150 g sugar
-- 71 g vegetable oil
-- 1.5 tsp vanilla extract
-- 120 g flour
-- 28 g cocoa powder
-- 3/4 tsp baking soda
-- 1/2 tsp baking powder
-- 1/4 tsp salt
+- `240` g plant milk
+- `1` tsp vinegar
+- `150` g sugar
+- `71` g vegetable oil
+- `1.5` tsp vanilla extract
+- `120` g flour
+- `28` g cocoa powder
+- `3/4` tsp baking soda
+- `1/2` tsp baking powder
+- `1/4` tsp salt
 
 ## Directions
 

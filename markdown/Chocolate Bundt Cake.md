@@ -2,17 +2,17 @@
 
 ## Ingredients
 
-- 400 g sugar
-- 210 g flour
-- 75 g cocoa powder
-- 2 tsp baking soda
-- 1 tsp baking powder
-- 1 tsp salt
-- 2 large eggs, room temperature
-- 1 cup coffee
-- 1 cup milk
-- 112 g canola oil
-- 1 tsp vanilla extract
+- `400` g sugar
+- `210` g flour
+- `75` g cocoa powder
+- `2` tsp baking soda
+- `1` tsp baking powder
+- `1` tsp salt
+- `2` large eggs, room temperature
+- `1` cup coffee
+- `1` cup milk
+- `112` g canola oil
+- `1` tsp vanilla extract
 
 ## Directions
 

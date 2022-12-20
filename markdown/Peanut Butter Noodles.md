@@ -2,14 +2,14 @@
 
 ## Ingredients
 
-- 6.6 oz lo mein noodles
-- 35 g soy sauce
-- 2 g sesame oil
-- 2 g sriracha
-- 9 g rice wine vinegar
-- 33 g peanut Butter
-- 13 g brown sugar
-- 1/8 tsp ground ginger
+- `6.6` oz lo mein noodles
+- `35` g soy sauce
+- `2` g sesame oil
+- `2` g sriracha
+- `9` g rice wine vinegar
+- `33` g peanut Butter
+- `13` g brown sugar
+- `1/8` tsp ground ginger
 
 ## Directions
 

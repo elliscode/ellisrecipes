@@ -5,33 +5,33 @@
 ### Fried Vegetables
 
 - Oil for deep frying
-- 1 eggplant, sliced
-- 1 zucchini, sliced
-- 750 g potatoes, sliced
+- `1` eggplant, sliced
+- `1` zucchini, sliced
+- `750` g potatoes, sliced
 
 ### Filling
 
-- 1 white onion, sliced
-- 1 TBSP olive oil
-- 1/4 tsp garlic powder
-- 1 TBSP white vinegar
-- 14 oz fire roasted tomatoes
-- 1/2 14 oz canned lentils with reserve liquid
-- 12 g better than bouillon NO beef
-- 1 tsp dried oregano
-- 2 tsp dried parsley
-- 1/2 tsp salt
-- 1 cup crumbled feta cheese
+- `1` white onion, sliced
+- `1` TBSP olive oil
+- `1/4` tsp garlic powder
+- `1` TBSP white vinegar
+- `14` oz fire roasted tomatoes
+- `1/2` 14 oz canned lentils with reserve liquid
+- `12` g better than bouillon NO beef
+- `1` tsp dried oregano
+- `2` tsp dried parsley
+- `1/2` tsp salt
+- `1` cup crumbled feta cheese
 
 ### Bechamel
 
-- 1.5 TBSP butter
-- 2 TBSP flour
-- 1.25 cups milk
+- `1.5` TBSP butter
+- `2` TBSP flour
+- `1.25` cups milk
 - Black pepper
-- 1 pinch nutmeg
-- 1 egg
-- 1/4 cup Parmesan cheese
+- `1` pinch nutmeg
+- `1` egg
+- `1/4` cup Parmesan cheese
 
 ## Directions
 

@@ -2,13 +2,13 @@
 
 ## Ingredients
 
-- 15 g coffee
-- 1/2 tsp pumpkin pie spice
+- `15` g coffee
+- `1/2` tsp pumpkin pie spice
 
 ## Directions
 
 - Add coffee and pumpkin pie spice to a coffee filter
-- Pour over 8 oz of 200F water
+- Pour over `8` oz of 200F water
 
 Servings: 1
 

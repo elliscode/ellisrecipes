@@ -7,7 +7,7 @@
 
 ## Ingredients
 
-- 2 frozen salmon fillet
+- `2` frozen salmon fillet
 - butter
 - old bay
 

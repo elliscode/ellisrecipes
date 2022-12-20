@@ -2,13 +2,13 @@
 
 ## Ingredients
 
-- 582 g AP flour
-- 48 g vital wheat gluten
-- 15 g granulated sugar
-- 10 g salt
-- 10 g instant yeast
-- 32 g olive oil
-- 420 g water at 100F
+- `582` g AP flour
+- `48` g vital wheat gluten
+- `15` g granulated sugar
+- `10` g salt
+- `10` g instant yeast
+- `32` g olive oil
+- `420` g water at 100F
 
 ## Directions
 
