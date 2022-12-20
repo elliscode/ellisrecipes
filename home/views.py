@@ -1,19 +1,23 @@
 import os
 import re
+from collections import OrderedDict
 
 from django.shortcuts import render
 
 from ellisrecipes.settings import BASE_DIR
 from home.markdown_helpers import MarkdownElement
 
+# I don't like using a global variable like this, but I cannot figure
+# out how to get a singleton with the index view to work in django
+recipes = None
+
 
 def format_id(input_text):
     return re.sub('[^a-z0-9]+', '_', input_text, ).strip('_')
 
 
-# Create your views here.
-def index(request):
-    markdowns = []
+def read_from_file():
+    results = {}
     ul = []
     markdown_directory = BASE_DIR / 'markdown'
     for filename in os.listdir(markdown_directory):
@@ -36,7 +40,9 @@ def index(request):
                             if recipe['markdown']:
                                 id_string = (recipe['category'] + ' ' + recipe['title'])
                                 recipe['id'] = format_id(id_string)
-                                markdowns.append(recipe)
+                                if recipe['category'] not in results:
+                                    results[recipe['category']] = []
+                                results[recipe['category']].append(recipe)
                             recipe = {'markdown': [],
                                       'id': '',
                                       'title': element.content[0].value,
@@ -56,22 +62,50 @@ def index(request):
                         else:
                             recipe['markdown'].append(element)
             if recipe['markdown']:
-                markdowns.append(recipe)
+                if recipe['category'] not in results:
+                    results[recipe['category']] = []
+                results[recipe['category']].append(recipe)
+    output = OrderedDict()
+    ordered_categories = determine_category_order(results)
+    for category in ordered_categories:
+        output[category] = results[category]
+    return output
 
-    # for markdown in markdowns:
-    #     title = markdown[0].value.content
-    #     file_path = markdown_directory / (title + '.md')
-    #     with open(file_path, 'w') as f:
-    #         for line in markdown:
-    #             if not hasattr(line, 'type'):
-    #                 for li in line:
-    #                     f.write(li.prefix)
-    #                     f.write(li.content)
-    #                     f.write('\n')
-    #                 f.write('\n')
-    #             else:
-    #                 f.write(line.prefix)
-    #                 f.write(line.content)
-    #                 f.write('\n\n')
 
-    return render(request, 'home/index.html', context={'recipes': markdowns, })
+def write_to_file(markdowns):
+    markdown_directory = BASE_DIR / 'markdown'
+    for markdown in markdowns:
+        title = markdown[0].value.content
+        file_path = markdown_directory / (title + '.md')
+        with open(file_path, 'w') as f:
+            for line in markdown:
+                if not hasattr(line, 'type'):
+                    for li in line:
+                        f.write(li.prefix)
+                        f.write(li.content)
+                        f.write('\n')
+                    f.write('\n')
+                else:
+                    f.write(line.prefix)
+                    f.write(line.content)
+                    f.write('\n\n')
+
+
+def determine_category_order(markdowns):
+    all_categories = markdowns.keys()
+    forced_order = ["Meals", "Sides", "Snacks", "Soups", "Dips And Sauces", "Drinks", "Desserts", "Cheese", "Baby Food",
+                    "Household", ];
+    output = forced_order
+    for category in all_categories:
+        if category not in output:
+            output.append(category)
+    return output
+
+
+# Create your views here.
+def index(request):
+    global recipes
+    if recipes is None:
+        recipes = read_from_file()
+    return render(request, 'home/index.html',
+                  context={'recipes': recipes, })

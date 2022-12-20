@@ -39,7 +39,10 @@
         <div id="recipes">
             <!-- run this regex to find invalid characters [^\x08-\x7f] -->
             <!-- recipe divs-->
-{% for recipe in recipes %}
+{% spaceless %}
+{% for category, entries in recipes.items %}
+<h2>{{category}}</h2>
+{% for recipe in entries %}
     <div xmlns="http://www.w3.org/1999/xhtml" class="card" id="{{recipe.id|upper}}" servings="{{recipe.servings}}">
         <h3 class="title">{{recipe.title}}</h3>
         <div style="display: none; position: relative; padding-bottom: 50px;">
@@ -139,6 +142,8 @@
         </div>
     </div>
 {% endfor %}
+{% endfor %}
+{% endspaceless %}
         <!-- end recipe divs-->
         </div>
     </div>
