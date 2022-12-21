@@ -5,8 +5,12 @@
 - `37.5` g all purpose flour
 - `200` g white sugar
 - `240` g cup milk
-- `1.5` tsp vanilla extract
 - `2` sticks unsalted butter
+
+
+### Vanilla Frosting Option:
+
+- `1.5` tsp vanilla extract
 
 ### Chocolate Frosting Option:
 
@@ -20,11 +24,10 @@
 
 - `2` candy canes, melted in with milk
 
-### Lemon Frosting Option
+### Lemon / Orange Frosting Option
 
-- `2` TBSP lemon juice
-- `2` tsp lemon zest
-- `2` TBSP meringue powder
+- `1` tsp lemon / orange extract
+- `2` tsp lemon / orange zest
 
 ### Peanut Butter Frosting Option
 
@@ -33,8 +36,7 @@
 
 ### Oreo Frosting Option
 
-- `6` oreos blended in with milk
-- `6` oreos crushed and added to frosting after mixing
+- `12` oreos crushed and added to frosting after mixing
 
 ### Prosecco Frosting Option
 
@@ -46,21 +48,10 @@
 - `200` g frozen peaches, thawed and blended with milk
 - `240` g should be total weight after you simmer the milk and fruit mixture
 
-### Candied Pecan Option
+### Candied Pecan / Walnut Option
 
 - replace white sugar with brown sugar
-- `1` recipe of candied pecans, blitzed in food processor
-
-### Blueberry Option
-
-- `1` pint blueberries
-- `2` oz water
-- bring to a boil, then simmer for 60 minites
-
-## Split or Curdled buttercream repair
-
-- `50` g white chocolate chips, melted
-- mix in with the split buttercream
+- `1` recipe of candied pecans / walnuts, blitzed in food processor
 
 ## Instructions
 
@@ -77,11 +68,7 @@
 
 - Place butter in a bowl and use either a handheld beater or stand mixer to beat for 3 minutes until it's smooth and changes from yellow to very pale yellow, almost white.
 - Now start whipping in the Thickening Roux. On speed 5, start adding the thick roux one heaped TBSP at a time. Take about 1 minute to add it all.
-- Once all added, add vanilla and salt, then whip for 2 to 3 minutes until you can see that it is still enough to hold peaks. Then it's ready to use!
-
-### Chocolate Flavoured Option:
-
-- Beat in the cocoa powder at the end, just until mixed through.
+- Once all added, add your flavoring option if applicable, then whip for 2 to 3 minutes until you can see that it is still enough to hold peaks. Then it's ready to use!
 
 Servings: 2
 
