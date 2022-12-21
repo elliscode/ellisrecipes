@@ -4,10 +4,10 @@
 
 - `2` pounds ground beef chuck
 - `1` pound bulk Italian sausage
-- `3` (`15` oz) cans chili beans, drained
-- `1` (`15` oz) can chili beans in spicy sauce
-- `2` (`28` oz) cans diced tomatoes with juice
-- `1` (`6` oz) can tomato paste
+- `3` (15 oz) cans chili beans, drained
+- `1` (15 oz) can chili beans in spicy sauce
+- `2` (28 oz) cans diced tomatoes with juice
+- `1` (6 oz) can tomato paste
 - `3` stalks celery, chopped
 - `1` large yellow onion, chopped
 - `1` green bell pepper, seeded and chopped
@@ -28,8 +28,8 @@
 - `1` tsp white sugar
 - `1` tsp salt, or more to taste
 - `1` tsp ground black pepper, or more to taste
-- `1` (`10.5` oz) bag corn chips (such as Fritos)
-- `1` (`8` oz) package shredded Cheddar cheese
+- `1` (10.5 oz) bag corn chips (such as Fritos)
+- `1` (8 oz) package shredded Cheddar cheese
 
 ## Directions
 
