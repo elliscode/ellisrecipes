@@ -21,15 +21,6 @@ export default class RecipeFormatting {
     noSleep : NoSleep = new NoSleep();
     screenLockOption : boolean = false;
 
-    static readonly categoryOrderMap: Map<string, number> = new Map(
-        [["Meals", 1],
-        ["Sides", 2],
-        ["Snacks", 3],
-        ["Soups", 4],
-        ["Dips And Sauces", 5],
-        ["Drinks", 6],
-        ["Desserts", 7]]);
-
     readonly fractionMap : Map<number, string> = new Map();
 
     constructor () {
@@ -96,9 +87,6 @@ export default class RecipeFormatting {
         this.startX = undefined;
         this.prevDiff = undefined;
     }
-    readonly generateRecipeButtons = (recipe: RecipeCard) => {
-        // nothing on purpose
-    }
     static readonly addCallback = (selector: string, func: EventListenerOrEventListenerObject) => {
         let items = Array.from(document.querySelectorAll(selector));
         if (!items) {
@@ -121,12 +109,12 @@ export default class RecipeFormatting {
         RecipeFormatting.addCallback('img.ellis', this.printRecipe);
         RecipeFormatting.addCallback('img.share', this.shareRecipe);
 
-        let items = Array.from(document.querySelectorAll('input[originalvalue]'));
+        let items : HTMLInputElement[] = Array.from(document.querySelectorAll('input[originalvalue]'));
         if (!items) {
             items = [];
         }
         for(let item of items) {
-            item.value = item.getAttribute('originalvalue');
+            item.value = item.hasAttribute('originalvalue') ? item.getAttribute('originalvalue')! : '';
         }
 
         const searchTextBox = document.getElementById('search');
@@ -433,7 +421,7 @@ export default class RecipeFormatting {
                 } else if ('h4' === child.tagName.toLowerCase()) {
                     output += (markdown ? '#### ' : '');
                 }
-                output += child.textContent + '\n' + '\n';
+                output += child.textContent!.trim() + '\n' + '\n';
             } else if (child instanceof HTMLUListElement) {
                 const ul: HTMLUListElement = child as HTMLUListElement;
                 for (const listChild of ul.children) {
@@ -448,7 +436,7 @@ export default class RecipeFormatting {
                     output += '\n';
                 }
             } else if (!ingredientsOnly && child instanceof HTMLParagraphElement) {
-                output += child.textContent + '\n' + '\n';
+                output += child.textContent!.trim() + '\n' + '\n';
             } else if (!ingredientsOnly && child instanceof HTMLAnchorElement) {
                 const link: HTMLAnchorElement = child as HTMLAnchorElement;
                 linkUrl = link.href;
