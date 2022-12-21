@@ -109,6 +109,13 @@ export default class RecipeFormatting {
         RecipeFormatting.addCallback('img.ellis', this.printRecipe);
         RecipeFormatting.addCallback('img.share', this.shareRecipe);
 
+        let headers : HTMLHeadingElement[] = Array.from(document.querySelectorAll('h3.title'));
+        for(let header2 of headers) {
+            header2.addEventListener('touchstart', this.touchy, { passive: true });
+            header2.addEventListener('touchmove', this.touchy2, { passive: false });
+            header2.addEventListener('touchend', this.touchy3, { passive: true });
+        }
+
         let items : HTMLInputElement[] = Array.from(document.querySelectorAll('input[originalvalue]'));
         if (!items) {
             items = [];

@@ -13,7 +13,7 @@ recipes = None
 
 
 def format_id(input_text):
-    return re.sub('[^a-z0-9]+', '_', input_text, ).strip('_')
+    return re.sub('[^a-zA-Z0-9]+', '_', input_text, ).strip('_')
 
 
 def read_from_file():
@@ -62,6 +62,8 @@ def read_from_file():
                         else:
                             recipe['markdown'].append(element)
             if recipe['markdown']:
+                id_string = (recipe['category'] + ' ' + recipe['title'])
+                recipe['id'] = format_id(id_string)
                 if recipe['category'] not in results:
                     results[recipe['category']] = []
                 results[recipe['category']].append(recipe)
