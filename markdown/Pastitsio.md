@@ -68,7 +68,7 @@
 - Place pasta in a baking dish, arranging them so they are all going in the same direction as best you can (for visual effect when sliced). Make the surface as level as you can.
 - Top with Meat Sauce, then smooth the surface.
 - Pour over Bechamel Sauce, then sprinkle over the cheese.
-- Bake 30 min or until crust turns golden.
+- Bake 1 hour or until crust turns golden.
 - Cool for at least 10 minutes so you can cut neat slices with tdhe layers neatly visible. Serve!
 
 Servings: 12
