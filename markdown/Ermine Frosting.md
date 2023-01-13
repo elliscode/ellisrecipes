@@ -26,7 +26,7 @@
 
 ### Lemon / Orange Frosting Option
 
-- `1` tsp lemon / orange extract
+- `2` tsp lemon / orange extract
 - `2` tsp lemon / orange zest
 
 ### Peanut Butter Frosting Option

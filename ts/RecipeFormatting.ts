@@ -122,6 +122,7 @@ export default class RecipeFormatting {
         }
         for(let item of items) {
             item.value = item.hasAttribute('originalvalue') ? item.getAttribute('originalvalue')! : '';
+            item.addEventListener('input', this.modifyRecipeByCallback);
         }
 
         const searchTextBox = document.getElementById('search');
@@ -203,8 +204,18 @@ export default class RecipeFormatting {
     }
     readonly modifyRecipe = (card: HTMLDivElement, multiplier: number) => {
         for (const quantity of card.getElementsByClassName('quantity')) {
-            const newValue: number = parseFloat(quantity.getAttribute('originalValue')!) * multiplier;
-            (quantity as HTMLSpanElement).innerText = this.toFractionIfApplicable(newValue);
+            let ogValue = quantity.getAttribute('originalValue');
+            if(!ogValue) {
+                ogValue = '1';
+            }
+            let computedValue : number = 0;
+            const result = /(\d+)\/(\d+)/.exec(ogValue);
+            if(result) {
+                computedValue = (parseFloat(result[1]) / parseFloat(result[2])) * multiplier;
+            } else {
+                computedValue = parseFloat(ogValue) * multiplier;
+            }
+            (quantity as HTMLSpanElement).innerText = this.toFractionIfApplicable(computedValue);
         }
     }
     readonly toFractionIfApplicable = (value: number): string => {
