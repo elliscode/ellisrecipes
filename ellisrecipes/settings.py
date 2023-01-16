@@ -47,7 +47,7 @@ SECRET_KEY = secret_file.readline()
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['localhost', 'ellisrecipes.com']
+ALLOWED_HOSTS = ['localhost', 'ellisrecipes.com', 'www.ellisrecipes.com']
 
 CSRF_TRUSTED_ORIGINS = ['https://*.ellisrecipes.com']
 
