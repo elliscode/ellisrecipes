@@ -21,11 +21,9 @@
 - Add a layer of ketchup to the top
 - Bake for 90 minutes
 
-Servings: 6
+Servings: 8
 
 Category: Meals
 
-Link: https://www.allrecipes.com/recipe/268249/italian-baked-meatballs/
-
-Tags: Italian, Meat
+Tags: Meat
 
