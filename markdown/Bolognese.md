@@ -5,14 +5,15 @@
 - `1` medium onion, chopped
 - `1` celery stalk, chopped
 - `1` small carrot, peeled, chopped
-- `3` TBSP. extra-virgin olive oil
+- `1` TBSP. extra-virgin olive oil
 - `1` lb. ground beef chuck (20% fat), patted dry
 - Kosher salt
-- `3` oz. thinly sliced pancetta, finely chopped
+- `3` oz. thinly sliced pancetta or bacon, finely chopped
 - `1` cup dry white wine
-- `1/3` cup tomato paste
+- `6` oz tomato paste
 - `1` bay leaf
 - `1` Pinch of finely grated nutmeg
+- `1/4` tsp salt
 - `2` cups (or more) homemade chicken stock or low-sodium chicken broth
 - `1` cup whole milk
 - `1` lb. fresh tagliatelle or pappardelle, or dry rigatoni

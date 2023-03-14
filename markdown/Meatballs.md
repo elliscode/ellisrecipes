@@ -12,15 +12,11 @@
 - `1/2` cup water
 - `2` eggs
 - `1.5` pounds ground beef
-- ADD ALL INGREDIENTS TO SHOPPING LIST
 
 ## Directions Checklist
 
-- Step 1
 - Preheat the oven to 350 degrees F (175 degrees C).
-- Step 2
 - Mix bread crumbs, Romano cheese, parsley, salt, pepper, garlic powder, and onion powder together. Combine with water and eggs. Add ground beef and mix well. Roll mixture into balls and place on a nonstick baking sheet.
-- Step 3
 - Bake in the preheated oven until browned, about 30 minutes."
 
 Servings: 6
