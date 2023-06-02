@@ -1,12 +1,10 @@
 # Triple Berry Pie
 
-## Notes
-
-Buy `18` oz of each type of berry
-
 ## Ingredients
 
-- `7` cups fresh or frozen raspberries, blueberries and blackberries about `2.3333` cups of each type of berry*
+- `1` small container raspberries
+- `1` small container blackberries
+- `1` pint blueberries
 - `1` cup granulated sugar (plus a little extra to sprinkle on top of the pie)
 - `1` TBSP lemon juice
 - `4` TBSP cornstarch
