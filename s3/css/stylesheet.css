@@ -7,10 +7,10 @@
         height:50px;
     }
     .screen-lock-off {
-        background:url('/static/home/img/dual_icon.png') -50px 0px;
+        background:url('../img/dual_icon.png') -50px 0px;
     }
     .screen-lock-on {
-        background:url('/static/home/img/dual_icon.png') 0px 0px;
+        background:url('../img/dual_icon.png') 0px 0px;
     }
     #recipes {
         display: none;

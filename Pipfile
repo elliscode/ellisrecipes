@@ -4,11 +4,6 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-django = "*"
-waitress = "*"
-whitenoise = "*"
-psycopg2 = "*"
-requests = "*"
 
 [dev-packages]
 

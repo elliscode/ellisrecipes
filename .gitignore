@@ -162,3 +162,5 @@ cython_debug/
 collected-static/
 
 ts/_*
+
+.DS_Store

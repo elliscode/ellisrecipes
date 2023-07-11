@@ -38,7 +38,7 @@ How to make paneer
 
 Servings: 6
 
-Category: Cheese
+Category: Ingredients
 
 Link: https://www.indianhealthyrecipes.com/how-to-make-paneer-cubes-at-home/
 
