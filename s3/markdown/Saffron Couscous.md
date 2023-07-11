@@ -3,10 +3,10 @@
 ## Ingredients
 
 - `1` onion
-- `1` TBSP butter
+- `1` TBSP olive oil
 - `1` red bell pepper
 - `6` oz water
-- `1` TBSP better than bouillon NO chicken
+- `1` TBSP better than bouillon vegetable
 - `1` cup frozen peas
 - `15` oz can chickpeas, drained
 - `1` pack Goya sazon con azafron
