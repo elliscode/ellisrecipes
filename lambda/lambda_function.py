@@ -97,6 +97,7 @@ def lambda_handler(event, context):
     
 def generate_recipe_text(file):
     in_list = False
+    key = file['Key']
     title = file['Key']
     servings = '1'
     category = 'Uncategorized'
@@ -162,11 +163,15 @@ def generate_recipe_text(file):
     output += f'{serving_string}'
     output += f'{content}'
     output += f'{close}'
-    output += f'<img class="copy" src="img/copy.png" related="{div_id}"><img class="reddit" src="img/reddit_button.png" related="{div_id}"><img class="cronometer" src="img/cronometer_button.png" related="{div_id}"><img class="ellis" src="img/print.png" related="{div_id}"><img class="share" src="img/share_button.png" related="{div_id}">'
+    output += f'<a href="{key}"><img class="copy" src="img/copy.png" related="{div_id}"></a><img class="reddit" src="img/reddit_button.png" related="{div_id}"><img class="cronometer" src="img/cronometer_button.png" related="{div_id}"><img class="ellis" src="img/print.png" related="{div_id}"><img class="share" src="img/share_button.png" related="{div_id}">'
     if link:
-        output += f'<a href="{link}"><img class="link" src="img/link.png"></a>'
+        output += f'<a class="source" href="{link}"><img class="link" src="img/link.png"></a>'
     output += f'<div class="category" style="display: none;">Meals</div>'
-    output += f'<div class="tags"><span class="tag">seafood</span></div>'
+    if len(tags) > 0:
+        output += f'<div class="tags">'
+        for tag in tags:
+            output += f'<span class="tag">{tag}</span>'
+        output += f'</div>'
     output += f'</div>'
     output += f'<div class="pindragimg green"></div>'
     output += f'\n</div>'

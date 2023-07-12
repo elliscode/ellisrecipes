@@ -133,6 +133,7 @@ function showRecipeInUrl() {
     if (!!cardId) {
         const card = document.getElementById(cardId);
         if (!!card) {
+            card.classList.remove('hide');
             showRecipe(card);
         }
     }
