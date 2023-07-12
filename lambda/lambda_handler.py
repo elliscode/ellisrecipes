@@ -74,6 +74,7 @@ def lambda_handler(event, context):
     <div id="info">
         <p>text copied</p>
     </div>
+    <script src="js/ellisrecipes.js"></script>
 </body>
 </html>''')
     
