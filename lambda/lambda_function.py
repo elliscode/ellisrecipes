@@ -5,6 +5,7 @@ from html import escape
 
 BUCKET_NAME = 'daniel-townsend-ellisrecipes'
 s3 = boto3.client('s3')
+temp_path = '/tmp/index.html'
 
 def lambda_handler(event, context):
     standard_categories = [
@@ -20,17 +21,23 @@ def lambda_handler(event, context):
         'Household',
     ]
     
+    print(f'Generating keys for grouped_text dict...')
     grouped_text = {}
     for category in standard_categories:
         grouped_text[category] = []
+    print(f'Finished generating keys for grouped_text dict!')
+    
+    print(f'Fetching all files from the {BUCKET_NAME}/markdown/ directory...')
     files = s3.list_objects_v2(Bucket=BUCKET_NAME, Prefix='markdown/')
     for file in files.get('Contents', []):
         recipe_text, category = generate_recipe_text(file)
         if category not in grouped_text:
             grouped_text[category] = []
         grouped_text[category].append(recipe_text)
+    print(f'Finished fetching all files from the {BUCKET_NAME}/markdown/ directory!')
     
-    with open('/tmp/index.html', 'w') as f:
+    print(f'Writing file to {temp_path}...')
+    with open(temp_path, 'w') as f:
         f.write('''
 <!DOCTYPE html>
 <html>
@@ -77,8 +84,10 @@ def lambda_handler(event, context):
     <script src="js/ellisrecipes.js"></script>
 </body>
 </html>''')
+    print(f'Finished writing file to {temp_path}!')
     
-    with open('/tmp/index.html', 'r') as f:
+    print(f'Copying {temp_path} file to {BUCKET_NAME}/index.html...')
+    with open(temp_path, 'r') as f:
         s3.put_object(
             Bucket=BUCKET_NAME, 
             Key='index.html', 
@@ -86,12 +95,11 @@ def lambda_handler(event, context):
             # SourceFile='/tmp/index.html',
             ContentType='text/html',
         )
+    print(f'Finished copying {temp_path} file to {BUCKET_NAME}/index.html!')
 
-        
-    # TODO implement
     return {
         'statusCode': 200,
-        'body': 'testing file listing'
+        'body': 'Successfully completed the generation ellisrecipes index file',
     }
     
     
