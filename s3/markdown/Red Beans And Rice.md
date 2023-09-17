@@ -3,7 +3,7 @@
 ## Ingredients
 
 - `1` tsp olive oil
-- `1` red bell pepper, stemmed, seeded and diced
+- `1` diced red bell pepper
 - `1/4` cup finely chopped red onion
 - `28` oz water
 - `18` g Better Than Bouillon No Chicken
@@ -12,7 +12,7 @@
 - `1` tsp salt
 - `1/2` tsp garlic powder
 - `1/2` tsp pepper
-- `400` g Basmati rice unrinsed
+- `400` g rice, rinsed and drained
 - `15` oz pinto beans, drained and rinsed
 
 ## Directions
