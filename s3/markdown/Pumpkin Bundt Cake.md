@@ -16,7 +16,7 @@
 - `1` tablespoon unsalted butter softened
 - `1.5` cup (`170` g) confectioners sugar sifted
 - `1/2` teaspoon pure vanilla extract
-- `2` tablespoons milk
+- `1` tablespoons milk
 - `1/4` teaspoon pumpkin pie spice optional
 
 ## Directions
