@@ -12,9 +12,11 @@
 ## Directions
 
 - preheat oven to 425F
-- in a large bowl, whisk together all ingredients until smooth
-- pour into pie crust and bake for 15 minutes
-- lower oven temperature to 350F and bake for 45 more minutes
+- place pie crust in greased pie tin and let come to room temperature
+- in a large bowl, whisk together all ingredients until smooth and pour into pie crust
+- bake for 15 minutes at 425F
+- lower oven temperature to 350F and bake for 60 more minutes
+- let cool on a cooling rack at least 2 hours before serving
 
 Servings: 8
 

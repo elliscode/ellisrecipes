@@ -2,13 +2,12 @@
 
 ## Ingredients
 
-- `4` TBSP earth balance
+- `4` TBSP butter
 - `1` onion, diced
 - `1/4` cup flour
-- `18` oz water
-- `18` g better than bouillon no chicken
+- `18` oz chicken broth
 - `2` TBSP soy sauce
-- `1` TBSP vegan Worcestershire
+- `1` TBSP Worcestershire
 - `1` tsp poultry seasoning
 - `1/4` tsp salt
 
@@ -26,5 +25,5 @@ Category: Dips And Sauces
 
 Link: https://www.connoisseurusveg.com/vegan-gravy/
 
-Tags: Vegan
+Tags: Thanksgiving, Meat
 
