@@ -1,4 +1,3 @@
-import json
 import boto3
 import re
 from html import escape
@@ -6,6 +5,7 @@ from html import escape
 BUCKET_NAME = 'daniel-townsend-ellisrecipes'
 s3 = boto3.client('s3')
 temp_path = '/tmp/index.html'
+
 
 def lambda_handler(event, context):
     standard_categories = [
