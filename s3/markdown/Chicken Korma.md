@@ -50,3 +50,10 @@
 - Simmer for an additional 15 minutes.
 - Serve with steamed basmati rice and/or naan.
 - Optionally garnish with chopped chives
+
+Servings: 4
+
+Category: Meals
+
+Tags: Indian, Meat
+

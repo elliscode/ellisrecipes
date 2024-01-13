@@ -26,3 +26,9 @@
 - Stir-fry for 6-7 minutes to seal the meat. If you find that the juices are not being released from the meat (which can happen with coarser cuts), cover the wok for a minute or so to help things along. (Did about 4-5 min here)
 - When the juices have run and been reabsorbed, add the peppers, followed by the sesame oil and soy sauce. Stir everything well, then turn up the heat to high, and stir-fry for about 5 minutes, taking care not to overcook the veg. (Maybe did 4 min here. Use judgement)
 - Garnish with the scallions and serve.
+
+Servings: 4
+
+Category: Meals
+
+Tags: Asian, Meat
