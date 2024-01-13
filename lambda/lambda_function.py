@@ -3,11 +3,20 @@ import re
 from html import escape
 
 BUCKET_NAME = 'daniel-townsend-ellisrecipes'
+PROCESSING_FILE_NAME = '.processing'
 s3 = boto3.client('s3')
 temp_path = '/tmp/index.html'
 
 
 def lambda_handler(event, context):
+    if does_s3_file_exist(bucket=BUCKET_NAME, key=PROCESSING_FILE_NAME):
+        return {
+            'statusCode': 200,
+            'body': 'Looks like we\'re already processing, skipping...',
+        }
+    
+    write_processing_file(bucket=BUCKET_NAME)
+
     standard_categories = [
         'Meals',
         'Sides',
@@ -97,6 +106,8 @@ def lambda_handler(event, context):
         )
     print(f'Finished copying {temp_path} file to {BUCKET_NAME}/index.html!')
 
+    delete_processing_file(bucket=BUCKET_NAME)
+
     return {
         'statusCode': 200,
         'body': 'Successfully completed the generation ellisrecipes index file',
@@ -184,3 +195,23 @@ def generate_recipe_text(file):
     output += f'<div class="pindragimg green"></div>'
     output += f'\n</div>'
     return output, category
+
+
+def does_s3_file_exist(bucket: str, key: str):
+    return 'Contents' in s3.list_objects_v2(Bucket=BUCKET_NAME, Prefix=PROCESSING_FILE_NAME)
+
+
+def write_processing_file(bucket: str):
+    s3.put_object(
+        Bucket=bucket, 
+        Key=PROCESSING_FILE_NAME,
+        Body='',
+    )
+
+
+
+def delete_processing_file(bucket: str):
+    s3.delete_object(
+        Bucket=bucket, 
+        Key=PROCESSING_FILE_NAME,
+    )
