@@ -166,3 +166,5 @@ ts/_*
 .DS_Store
 
 Pipfile.lock
+
+index.html
