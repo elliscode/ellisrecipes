@@ -16,7 +16,7 @@
 - Unroll pie crust and press into a 9" pie plate, crimping the top edges if desired.
 - In a large bowl, whisk together eggs, milk, salt and pepper.
 - Sprinkle ham, 1 cup of cheese, and green onions into the pie crust and pour the egg mixture over top. Sprinkle remaining ½ cup cheese on top of egg mixture.
-- Bake for 35-40 minutes until the center is completely set. Let cool for 5-10 minutes before slicing and serving.
+- Bake for 45 minutes until the center is completely set. Let cool for 5-10 minutes before slicing and serving.
 
 Link: https://www.spendwithpennies.com/easy-quiche-recipe/
 

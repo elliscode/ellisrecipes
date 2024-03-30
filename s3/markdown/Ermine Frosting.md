@@ -24,10 +24,10 @@
 
 - `2` candy canes, melted in with milk
 
-### Lemon / Orange Frosting Option
+### Lemon Frosting Option
 
-- `2` tsp lemon / orange extract
-- `2` tsp lemon / orange zest
+- `1` tsp dehydrated lemon powder
+- `2` lemon's zest
 
 ### Peanut Butter Frosting Option
 
@@ -48,10 +48,14 @@
 - `200` g frozen peaches, thawed and blended with milk
 - `240` g should be total weight after you simmer the milk and fruit mixture
 
-### Candied Pecan / Walnut Option
+### Candied Pecan / Walnut Frosting Option
 
 - replace white sugar with brown sugar
 - `1` recipe of candied pecans / walnuts, blitzed in food processor
+
+### Matcha Frosting Option
+
+- `1` tsp matcha powder
 
 ## Instructions
 
