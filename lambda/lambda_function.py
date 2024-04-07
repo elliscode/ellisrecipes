@@ -1,5 +1,6 @@
 import boto3
 import re
+import time
 from html import escape
 
 BUCKET_NAME = 'daniel-townsend-ellisrecipes'
@@ -10,12 +11,17 @@ temp_path = '/tmp/index.html'
 
 def lambda_handler(event, context):
     if does_s3_file_exist(bucket=BUCKET_NAME, key=PROCESSING_FILE_NAME):
+        message = 'Looks like we\'re already processing, skipping...'
+        print(message)
         return {
             'statusCode': 200,
-            'body': 'Looks like we\'re already processing, skipping...',
+            'body': message,
         }
     
     write_processing_file(bucket=BUCKET_NAME)
+    
+    print("Sleeping for 20 seconds to wait for all files to exist")
+    time.sleep(20)
 
     standard_categories = [
         'Meals',

@@ -2,11 +2,11 @@
 
 ## Ingredients
 
-- 8 ounces (225 g) cream cheese, at room temperature*
-- 8 tablespoons (113 g) lightly salted or unsalted butter, at room temperature
-- 1 cup (100 g) powdered sugar
-- 1/2 teaspoon vanilla extract
-- 1/8 teaspoon salt if using unsalted butter
+- `8` ounces (`225` g) cream cheese, at room temperature*
+- `8` tablespoons (`113` g) lightly salted or unsalted butter, at room temperature
+- `1` cup (`100` g) powdered sugar
+- `1/2` teaspoon vanilla extract
+- `1/8` teaspoon salt if using unsalted butter
 - squeeze of lemon juice, optional
 
 ## Directions
