@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-- `37.5` g all purpose flour
+- `37.5` g gluten free flour
 - `200` g white sugar
 - `240` g cup milk
 - `2` sticks unsalted butter
@@ -56,6 +56,15 @@
 ### Matcha Frosting Option
 
 - `1` tsp matcha powder
+
+### Nutella
+
+- `112` g nutella (added in addition to the butter, not replacing any butter)
+
+### Coconut
+
+- `36` g coconut milk powder
+- shaved sweetened coconut, roll each assembled macaron in it
 
 ## Instructions
 
