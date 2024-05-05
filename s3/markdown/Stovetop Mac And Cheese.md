@@ -1,5 +1,7 @@
 # Stovetop Mac And Cheese
 
+Note: Please shred your own cheese from a block. If you use pre-shredded cheese, it will not come out good. The reason for this is pre-shredded cheese is coated in either microcrystalline cellulose or powdered starches, which greatly reduces the meltability.
+
 ## Ingredients
 
 - `1` lb pasta
@@ -8,7 +10,7 @@
 - `1` tsp hot sauce
 - `1` tsp salt
 - Fresh ground pepper
-- `16` oz sharp cheddar
+- `16` oz sharp cheddar, shredded from a block
 
 ## Directions
 
