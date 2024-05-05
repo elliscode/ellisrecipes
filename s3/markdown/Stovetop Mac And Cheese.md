@@ -2,14 +2,13 @@
 
 ## Ingredients
 
-- `1/2` lb pasta
-- `4` TBSP butter
-- `2` eggs
-- `6` oz evaporated milk
-- `1/2` tsp hot sauce
-- `1/2` tsp salt
+- `1` lb pasta
+- `1` stick butter
+- `12` oz evaporated milk
+- `1` tsp hot sauce
+- `1` tsp salt
 - Fresh ground pepper
-- `8` oz sharp cheddar
+- `16` oz sharp cheddar
 
 ## Directions
 
@@ -19,7 +18,7 @@
 - over low heat, add butter to the pasta pot and melt, toss cooked pasta in butter
 - add everything else to the pot and stir until cheese is melted
 
-Servings: 4
+Servings: 8
 
 Category: Meals
 
