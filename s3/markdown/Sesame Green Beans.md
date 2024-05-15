@@ -5,6 +5,7 @@
 - `1` pound (`16` ounces) green beans or haricots verts
 - `2` teaspoons extra-virgin olive oil
 - Scant `1/4` teaspoon fine sea salt
+- sesame seeds
 
 ## Instructions
 
