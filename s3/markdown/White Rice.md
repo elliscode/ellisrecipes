@@ -9,13 +9,9 @@
 
 - `16` oz water
 
-### for Basmati rice:
-
-- `20` oz water
-
 ## Directions
 
-- for jasmine rice: add rice to mesh strainer and thoroughly rinse
+- optional for sticky rice: add rice to mesh strainer and thoroughly rinse
 - add water and bay leaf to saucepan, bring to boil
 - add rice, cover
 - reduce heat to low

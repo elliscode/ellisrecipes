@@ -31,5 +31,5 @@ if $lambda; then
 fi
 
 if $s3; then
-    aws s3 sync s3 s3://daniel-townsend-ellisrecipes --exclude "*env.js" --exclude "*.DS_Store"
+    aws s3 sync s3 s3://daniel-townsend-ellisrecipes --exclude "*env.js" --exclude "*index.html" --exclude "*.DS_Store" --delete
 fi
