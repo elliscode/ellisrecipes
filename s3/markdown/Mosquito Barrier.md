@@ -7,7 +7,7 @@
 
 ## Ingredients
 
-- `5` TBSP garlic juice
+- `5` TBSP (`2.5` fl. oz) (`75` ml) garlic juice
 - `1` gallon water
 
 ## Directions
