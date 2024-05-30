@@ -7,9 +7,13 @@
 
 ## Directions
 
-- Combine coarse ground coffee and water in a mason
+- Combine coarse ground coffee and water in a mason jar
 - Place in fridge and let steep overnight
 - Run through a coffee filter in a pourover the next day
+
+## Notes
+
+- This actually makes cold brew concentrate, please dilute it with water at a 1:1 ratio, I didn't and I regretted it
 
 
 Category: Drinks
