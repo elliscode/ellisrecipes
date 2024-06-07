@@ -28,7 +28,7 @@
 
 ## Instructions
 
-# 24 hours before you serve
+### 24 hours before you serve
 
 - leave ice cream out on counter for 30 min
 - line two removable bottom cake pans with plastic wrap
@@ -47,7 +47,7 @@
 - remove the top layer from the pan and place upsude down onto the cookie layer
 - wrap with plastic wrap and freeze overnight
 
-# Morning before you serve
+### Morning before you serve
 
 - Use the clear wrap to lift the frozen cake out of the pan, then place it on a cardboard cake circle or a serving plate. Set it back in the freezer.
 - To make the whipped cream, add the heavy whipping cream, powdered sugar and vanilla extract to a large mixer bowl. Whip on high speed until stiff peaks form.

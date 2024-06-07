@@ -69,9 +69,6 @@ def lambda_handler(event, context):
     <noscript>
         <link rel="stylesheet" href="css/noscript.css" />
     </noscript>
-    <!-- <script type="text/javascript" src="js/main_RecipeFormattingMain.js"></script> -->
-    <!-- <script type="text/javascript" src="js/script.js"></script> -->
-    <!-- <script type="text/javascript" src="js/nosleep.js"></script> -->
 </head>
 <body id="body">
     <div id="wrapper">
@@ -96,7 +93,7 @@ def lambda_handler(event, context):
     <div id="info">
         <p>text copied</p>
     </div>
-    <script src="js/ellisrecipes.js"></script>
+    <script src="js/ellisrecipes.js?v=001"></script>
 </body>
 </html>''')
     print(f'Finished writing file to {temp_path}!')
@@ -176,7 +173,7 @@ def generate_recipe_text(file):
     div_id = re.sub(r'[^a-zA-Z0-9]+', '_', category.upper() + '_' + title.upper())
     serving_string =  f'<div class="servings">'
     serving_string += f'<label>Servings: </label>'
-    serving_string += f'<input type="text" originalvalue="{servings}" inputmode="decimal">'
+    serving_string += f'<input originalvalue="{servings}" type="tel" onkeydown="forceToDecimal(event)" >'
     serving_string += f'<img class="reset" src="img/reset.png" related="{div_id}">'
     serving_string += f'<img class="halve" src="img/divide_by_two.png" related="{div_id}">'
     serving_string += f'<img class="double" src="img/times_two.png" related="{div_id}">'

@@ -168,3 +168,5 @@ ts/_*
 Pipfile.lock
 
 index.html
+
+*.zip

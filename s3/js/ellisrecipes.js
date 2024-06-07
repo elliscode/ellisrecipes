@@ -25,7 +25,7 @@ function showRecipeCallback(ev) {
         showRecipe(card);
         const cardId = card.id;
         window.removeEventListener('hashchange', showRecipeInUrl);
-        history.replaceState("", "", window.location.pathname + window.location.search + '#' + cardId);
+        history.pushState("", "", window.location.pathname + window.location.search + '#' + cardId);
         window.addEventListener('hashchange', showRecipeInUrl);
     }
 }
@@ -283,6 +283,21 @@ function gradualFade(element, timeout) {
         timeout = undefined;
     }
 };
+function callButtonToFocus(event) {
+    if (document.activeElement && document.activeElement.tagName.toLowerCase() === 'input') {
+        return;
+    }
+    if (event.key === 'Call') {
+        let visibleInputs = Array.from(document.querySelectorAll('input')).filter(x=>x.offsetParent!=null);
+        if (visibleInputs.length > 0) {
+            visibleInputs[0].focus();
+        }
+    }
+}
+function forceToDecimal(event) {
+    let textBox = event.target;
+    textBox.value = textBox.value.replace(/[^\d]+/g, ".");
+}
 addCallback('h3.title', 'click', showRecipeCallback);
 addCallback('button.close-recipe', 'click', closeRecipeCallback);
 addCallback('input[originalvalue]', 'input', modifyRecipeByCallback);
@@ -298,5 +313,6 @@ addCallback('img.halve', 'click', halveRecipe);
 addCallback('img.double', 'click', doubleRecipe);
 addCallback('img.ellis', 'click', printRecipe);
 addCallback('img.share', 'click', shareRecipe);
+document.addEventListener('keypress', callButtonToFocus);
 loadSearchTermFromLocalStorage();
 showRecipeInUrl();

@@ -9,8 +9,8 @@
 - `1` tsp ground cinammon
 - `1/2` tsp grond clove
 - `3` cups self-rising flour
-- `80` g / `3` oz. raisins
-- `80` g / `3` oz. chopped walnuts
+- `80` g (`3` oz.) raisins
+- `80` g (`3` oz.) chopped walnuts
 
 
 ## Directions

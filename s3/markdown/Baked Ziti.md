@@ -7,7 +7,7 @@
 - `1` tablespoon extra virgin olive oil
 - `1` pound bulk Italian sausage, ground beef, or ground pork
 - `1` large onion, chopped
-- `3` to `4` cloves garlic, chopped
+- `1/2` tsp garlic powder
 - `1` tablespoon minced fresh rosemary or basil
 - `1` tablespoon Italian seasoning
 - `1/2` teaspoon red pepper flakes

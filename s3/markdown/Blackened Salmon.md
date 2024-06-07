@@ -8,14 +8,14 @@
 ## Ingredients
 
 - `2` frozen salmon fillet
-- butter
+- `1` TBSP butter
 - old bay
 
 ## Directions
 
 - fill a large pot with hot water
 - add sous vide and set temperature to 125F
-- add frozen salmon fillets and sous vide for 45 minutes
+- add frozen salmon fillets and sous vide for 1 hour
 - heat skillet over medium heat
 - remove salmon from bag, sprinkle one side generously with old bay
 - add butter to skillet
