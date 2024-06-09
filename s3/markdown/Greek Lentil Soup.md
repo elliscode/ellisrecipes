@@ -35,5 +35,5 @@ Category: Soups
 
 Link: https://www.themediterraneandish.com/red-lentil-soup-recipe/
 
-Tags: Vegan
+Tags: Vegan, Greek
 

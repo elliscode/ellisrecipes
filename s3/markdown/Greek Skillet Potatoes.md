@@ -22,5 +22,5 @@ Category: Sides
 
 Link: https://noshingwiththenolands.com/skillet-greek-potatoes/
 
-Tags: vegan
+Tags: vegan, Greek
 

@@ -34,5 +34,5 @@ Servings: 4
 
 Category: Soups
 
-Tags: Vegetarian
+Tags: Vegetarian, Greek
 

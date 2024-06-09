@@ -36,5 +36,5 @@ Category: Sides
 
 Link: https://www.afamilyfeast.com/greek-rice-spanakorizo/
 
-Tags: Greek
+Tags: Greek, Vegan
 
