@@ -25,7 +25,7 @@
 
 Servings: 16
 
-Category: Sides
+Category: Bread
 
 Link: https://sallysbakingaddiction.com/flaky-buttermilk-biscuits/
 

@@ -19,9 +19,9 @@
 
 Servings: 3
 
-Category: Meals
+Category: Bread
 
 Link: https://www.seriouseats.com/recipes/2012/07/basic-new-york-style-pizza-dough.html
 
-Tags: Bread, Vegan
+Tags: Italian, Vegan
 

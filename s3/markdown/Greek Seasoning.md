@@ -14,4 +14,4 @@ Category: Ingredients
 
 Link: https://sweetpeasandsaffron.com/greek-seasoning-blend/
 
-Tags: Spices
+Tags: Spices, Greek

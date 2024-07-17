@@ -35,8 +35,8 @@
 
 Servings: 6
 
-Category: Meals
+Category: Bread
 
-Tags: Bread, Vegan
+Tags: Vegan
 
 Link: https://www.jocooks.com/recipes/no-knead-bread/#wprm-recipe-container-13740

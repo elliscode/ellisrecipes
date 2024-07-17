@@ -13,7 +13,7 @@
 - `150` g milk, at room temperature
 - `4` medium eggs, at room temperature
 - `870` g strong white flour
-- zest of 1 orange
+- zest of `1` orange
 
 ### To Garnish
 
@@ -41,9 +41,9 @@
 
 Servings: 2
 
-Category: Sides
+Category: Bread
 
 Link: https://www.mygreekdish.com/recipe/tsoureki-recipe-traditional-greek-easter-bread/
 
-Tags: Bread, Greek, Vegan
+Tags: Greek, Vegetarian
 

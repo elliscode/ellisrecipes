@@ -11,7 +11,7 @@
 - `1` lemon zest
 - `4` tsp dried dill
 - `1/4` tsp cumin (not greek)
-- `310` g basmati rice
+- `310` g rice
 
 ### Second Step
 - `1` TBSP olive oil

@@ -31,9 +31,9 @@
 - remove lid and bake for 10 mins uncovered
 - let cool for 15 mins before serving
 
-Servings: 4
+Servings: 8
 
-Category: Sides
+Category: Bread
 
-Tags: Bread, Vegan
+Tags: Vegan
 

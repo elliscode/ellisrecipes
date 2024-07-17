@@ -26,8 +26,9 @@ def lambda_handler(event, context):
     standard_categories = [
         'Meals',
         'Sides',
-        'Snacks',
+        'Bread',
         'Soups',
+        'Snacks',
         'Dips And Sauces',
         'Drinks',
         'Desserts',
