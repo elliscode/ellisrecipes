@@ -9,7 +9,7 @@
 - `15` oz can fire roasted tomatoes
 - `3` TBSP curry powder
 - `1/2` tsp salt
-- `3` lb boneless skinless chicken breast, fileted and cut into small strips
+- `1.5` lb boneless skinless chicken breast, fileted and cut into small strips
 
 ## Directions
 
