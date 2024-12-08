@@ -17,8 +17,8 @@
 
 Servings: 6
 
-Category: Meals
+Category: Sides
 
 Link: https://cookieandkate.com/roasted-green-beans-recipe/
 
-Tags: vegetarian
+Tags: vegetarian, Thanksgiving

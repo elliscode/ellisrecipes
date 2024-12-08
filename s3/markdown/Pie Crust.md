@@ -26,5 +26,5 @@ Category: Desserts
 
 Link: https://www.seriouseats.com/cooks-illustrated-foolproof-pie-dough-recipe
 
-Tags: Vegetarian
+Tags: Vegetarian, Thanksgiving
 

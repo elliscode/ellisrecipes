@@ -24,5 +24,5 @@ Category: Desserts
 
 Link: https://www.mccormick.com/recipes/dessert/signature-pumpkin-pie
 
-Tags: Vegetarian
+Tags: Vegetarian, Thanksgiving
 

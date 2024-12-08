@@ -16,7 +16,7 @@
 - place the egg whites in a large glass bowl
 - add water to a small saucepan and bring to a boil
 - reduce to a simmer, place glass bowl on top of simmering water
-- add granulated sugar mixture to the egg whites in the double boiler and whisk until smooth, test with your fingers to see if its grainy,and if its still grainy, keep going
+- add granulated sugar mixture to the egg whites in the double boiler and whisk until smooth, test with your fingers to see if its grainy, and if its still grainy, keep going
 - put the egg white mixture in the bowl of an electric stand mixer
 - with the whisk attachment, whip until stiff peaks form
 - add the almond flour and powdered sugar mixture and macaronage until the batter is smooth and flows in ribbons

@@ -24,5 +24,5 @@ Category: Desserts
 
 Link: https://www.allrecipes.com/recipe/12682/apple-pie-by-grandma-ople/
 
-Tags: Vegetarian
+Tags: Vegetarian, Thanksgiving
 

@@ -37,5 +37,5 @@ Category: Sides
 
 Link: https://www.allrecipes.com/recipe/234805/chef-johns-sweet-potato-casserole/
 
-Tags: Thanksgiving, Vegetarian
+Tags: Vegetarian
 
