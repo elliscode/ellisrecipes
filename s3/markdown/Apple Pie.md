@@ -5,7 +5,7 @@
 - Top and bottom pie crust
 - `1/2` cup (`1` stick) unsalted butter
 - `44` g all-purpose flour
-- `1` cup water
+- `1/2` cup water
 - `200` g white sugar
 - `200` g packed brown sugar
 - `600` g granny Smith apples peeled, cored and sliced (about `6` apples)
