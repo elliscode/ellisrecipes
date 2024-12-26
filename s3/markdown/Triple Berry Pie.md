@@ -2,9 +2,9 @@
 
 ## Ingredients
 
-- `1` small container raspberries
-- `1` small container blackberries
-- `1` pint blueberries
+- `1` small container (`170` g) raspberries
+- `1` small container (`170` g) blackberries
+- `1` pint (`340` g) blueberries
 - `1` cup granulated sugar (plus a little extra to sprinkle on top of the pie)
 - `1` TBSP lemon juice
 - `4` TBSP cornstarch
