@@ -29,6 +29,9 @@ function showRecipeCallback(ev) {
             history.pushState("", "", window.location.pathname + window.location.search + '#' + cardId);
             window.addEventListener('hashchange', showRecipeInUrl);
         }
+        for (let selected of Array.from(document.getElementsByClassName('selected'))) {
+            selected.classList.remove('selected');
+        }
     }
 }
 function closeRecipeCallback(ev) {

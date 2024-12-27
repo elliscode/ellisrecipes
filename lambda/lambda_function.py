@@ -94,7 +94,7 @@ def lambda_handler(event, context):
     <div id="info">
         <p>text copied</p>
     </div>
-    <script src="js/ellisrecipes.js?v=003"></script>
+    <script src="js/ellisrecipes.js?v=004"></script>
     <script src="js/arrow-navigation.js?v=004"></script>
 </body>
 </html>''')
