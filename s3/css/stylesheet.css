@@ -348,3 +348,19 @@
         content:attr(href);    
     }
 }
+.invisible-input {
+  width: 0;
+  overflow: hidden;
+  opacity:0;
+  filter:alpha(opacity=0);
+  flex-grow:0;
+  padding:0px;
+  margin:0px;
+  border:0px;
+}
+.selected {
+  outline: 5px auto rgb(94, 158, 214);
+}
+.flex {
+  display:flex;
+}

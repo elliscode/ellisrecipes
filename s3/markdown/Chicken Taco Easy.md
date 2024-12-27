@@ -1,4 +1,4 @@
-# Chicken Taco Slow Cooker
+# Chicken Taco Easy
 
 ## Ingredients
 
@@ -10,9 +10,11 @@
 
 ## Directions
 
--Place chicken breasts in the slow cooker. Cover with salsa and sprinkle taco seasoning, black pepper, and green chilies over the top.
--Cover and cook on low for 7-8 hour or on high for 2.5-3 hours. When done cooking shred the chicken with two forks and stir into the sauce.
--Serve on tortillas with your favorite toppings.
+- Filet chicken breasts and cut into strips against the grain
+- Place cut chicken breasts in a large pot
+- Cover with salsa and sprinkle taco seasoning, black pepper, and green chilies over the top
+- Bring to a boil, then reduce to low heat, cook for 1 hour
+- Serve on tortillas with your favorite toppings
 
 Servings: 4
 

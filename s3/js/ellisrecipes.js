@@ -8,7 +8,7 @@ function showRecipe(card) {
         const pin = pins[i];
         pin.style.display = 'none';
     }
-    const contentDiv = card.getElementsByTagName('div')[0];
+    const contentDiv = card.getElementsByTagName('div')[1];
     contentDiv.style.display = 'block';
     card.classList.add('fullscreen');
     const placeholder = document.createElement('div');
@@ -21,23 +21,26 @@ function showRecipe(card) {
 }
 function showRecipeCallback(ev) {
     if (ev.target.tagName.toLowerCase() == 'h3') {
-        const card = ev.target.parentElement;
+        const card = findParentWithClass(ev.target, 'card');
         showRecipe(card);
         const cardId = card.id;
-        window.removeEventListener('hashchange', showRecipeInUrl);
-        history.pushState("", "", window.location.pathname + window.location.search + '#' + cardId);
-        window.addEventListener('hashchange', showRecipeInUrl);
+        if (!navigator.userAgent.includes('KAIOS/')) {
+            window.removeEventListener('hashchange', showRecipeInUrl);
+            history.pushState("", "", window.location.pathname + window.location.search + '#' + cardId);
+            window.addEventListener('hashchange', showRecipeInUrl);
+        }
     }
 }
 function closeRecipeCallback(ev) {
     if(ev.target instanceof HTMLButtonElement) {
-        const contentDiv = ev.target.parentElement.parentElement ;
-        const card = contentDiv.parentElement ;
+        const card = findParentWithClass(ev.target, 'card');
         closeRecipe(card);
     }
-    window.removeEventListener('hashchange', showRecipeInUrl);
-    history.replaceState("", "", window.location.pathname + window.location.search);
-    window.addEventListener('hashchange', showRecipeInUrl);
+    if (!navigator.userAgent.includes('KAIOS/')) {
+        window.removeEventListener('hashchange', showRecipeInUrl);
+        history.replaceState("", "", window.location.pathname + window.location.search);
+        window.addEventListener('hashchange', showRecipeInUrl);
+    }
 }
 function closeRecipes() {
     const cards = Array.from(document.getElementsByClassName('card'));
@@ -51,7 +54,7 @@ function closeRecipes() {
 function closeRecipe(card) {
     const wrapper = document.getElementById('wrapper') ;
     wrapper.style.display = '';
-    const contentDiv = card.getElementsByTagName('div')[0];
+    const contentDiv = card.getElementsByTagName('div')[1];
     const pins = Array.from(card.getElementsByClassName('pin'));
     for (let i = 0; i < pins.length; i++) {
         const pin = pins[i];
@@ -148,7 +151,9 @@ function showRecipeInUrl() {
             showRecipe(card);
         }
     }
-    window.addEventListener('hashchange', showRecipeInUrl);
+    if (!navigator.userAgent.includes('KAIOS/')) {
+        window.addEventListener('hashchange', showRecipeInUrl);
+    }
 }
 function addCallback(selector, eventType, func) {
     let items = Array.from(document.querySelectorAll(selector));
@@ -191,7 +196,7 @@ function toFractionIfApplicable(value) {
 }
 function modifyRecipeByCallback(ev) {
     const input = (ev.target );
-    const card = input.parentElement.parentElement.parentElement ;
+    const card = findParentWithClass(ev.target, 'card');
     let numerator = parseFloat(input.value);
     const denominator = parseFloat(card.getAttribute('servings'));
     if (isNaN(numerator)) {
@@ -200,7 +205,7 @@ function modifyRecipeByCallback(ev) {
     modifyRecipe(card, numerator / denominator);
 }
 function resetRecipe(ev) {
-    const card = (ev.target ).parentElement.parentElement.parentElement ;
+    const card = findParentWithClass(ev.target, 'card');
     const input = card.getElementsByTagName('input')[0];
     const denominator = parseFloat(card.getAttribute('servings'));
     const numerator = denominator;
@@ -208,7 +213,7 @@ function resetRecipe(ev) {
     input.value = numerator.toString();
 }
 function halveRecipe(ev) {
-    const card = (ev.target ).parentElement.parentElement.parentElement ;
+    const card = findParentWithClass(ev.target, 'card');
     const input = card.getElementsByTagName('input')[0];
     let numerator = parseFloat(input.value);
     const denominator = parseFloat(card.getAttribute('servings'));
@@ -220,7 +225,7 @@ function halveRecipe(ev) {
     input.value = numerator.toString();
 }
 function doubleRecipe(ev) {
-    const card = (ev.target ).parentElement.parentElement.parentElement ;
+    const card = findParentWithClass(ev.target, 'card');
     const input = card.getElementsByTagName('input')[0];
     let numerator = parseFloat(input.value);
     const denominator = parseFloat(card.getAttribute('servings'));
@@ -246,7 +251,7 @@ function printRecipe(ev) {
     window.print();
 }
 function shareRecipe(ev) {
-    const card = (ev.target).parentElement.parentElement;
+    const card = findParentWithClass(ev.target, 'card');
     const text = 'https://www.ellisrecipes.com/#' + card.id;
     navigator.clipboard.writeText(text);
     displayAlert('Copied link for ' + card.getElementsByTagName('h3')[0].textContent + ' to clipboard', ['lightgreen']);

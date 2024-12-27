@@ -64,11 +64,11 @@ def lambda_handler(event, context):
     <meta name="author" content="elliscode.com">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/png" href="img/favicon.png">
-    <link rel="stylesheet" href="css/stylesheet.css">
-    <link rel="stylesheet" href="css/loader.css">
-    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="css/stylesheet.css?v=002">
+    <link rel="stylesheet" href="css/loader.css?v=002">
+    <link rel="stylesheet" href="css/responsive.css?v=002">
     <noscript>
-        <link rel="stylesheet" href="css/noscript.css" />
+        <link rel="stylesheet" href="css/noscript.css?v=002" />
     </noscript>
 </head>
 <body id="body">
@@ -78,7 +78,7 @@ def lambda_handler(event, context):
             <img id="set-screen-lock" class="screen-lock-off" src="img/transparent.png" alt="Set screen lock">
         </div>
         <div id="search-group" style="display: block;">
-            <input type="text" id="search" placeholder="Search...">
+            <input input-group-name="recipes" type="text" id="search" placeholder="Search...">
             <button id="search-clear">&times;</button>
         </div>
         <div id="recipes" style="display: block;">
@@ -94,7 +94,8 @@ def lambda_handler(event, context):
     <div id="info">
         <p>text copied</p>
     </div>
-    <script src="js/ellisrecipes.js?v=001"></script>
+    <script src="js/ellisrecipes.js?v=003"></script>
+    <script src="js/arrow-navigation.js?v=004"></script>
 </body>
 </html>''')
     print(f'Finished writing file to {temp_path}!')
@@ -181,7 +182,7 @@ def generate_recipe_text(file):
     serving_string += f'</div>'
     close = '<div class="close-div"><button class="close-recipe">&times;</button></div>'
     output =  f'<div class="card" id="{div_id}" servings="{servings}">'
-    output += f'<h3 class="title">{title}</h3>'
+    output += f'<div class="flex"><h3 input-group-name="recipes" class="title">{title}</h3></div>'
     output += f'<div style="display:none; position: relative; padding-bottom: 50px;">'
     output += f'{serving_string}'
     output += f'{content}'
