@@ -256,8 +256,16 @@ function printRecipe(ev) {
 function shareRecipe(ev) {
     const card = findParentWithClass(ev.target, 'card');
     const text = 'https://www.ellisrecipes.com/#' + card.id;
-    navigator.clipboard.writeText(text);
-    displayAlert('Copied link for ' + card.getElementsByTagName('h3')[0].textContent + ' to clipboard', ['lightgreen']);
+    if (navigator.userAgent.includes('KAIOS/')) {
+        let msgText = `${text}`;
+        const smsLink = document.createElement("a");
+        smsLink.style.display = "block";
+        smsLink.href = "sms://?&body=" + encodeURIComponent(msgText);
+        smsLink.click();
+    } else {
+        navigator.clipboard.writeText(text);
+        displayAlert('Copied link for ' + card.getElementsByTagName('h3')[0].textContent + ' to clipboard', ['lightgreen']);
+    }
 }
 let copyTimeout = undefined;
 function displayAlert(alertText, cssClasses) {
