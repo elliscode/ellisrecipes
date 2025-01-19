@@ -7,7 +7,7 @@
 - `1` lb ground beef
 - `1` tsp Kosher salt
 - `1` dash black pepper
-- `1` tsp ground allspice
+- `1/2` tsp ground allspice
 - `1/4` tsp garlic powder
 - `3/4` tsp paprika
 - `3` TBSP dried parsley
@@ -22,9 +22,9 @@
 - in a large pot, saute the onion in olive oil over low heat for 10 minutes
 - add the ground beef, cook fully through and chop with a spatula as you go
 - add all the other ingredients to the pot except the rice and the peppers and bring to a boil
-- add the rice, cover, and reduce to low hear
+- add the rice, cover, and reduce to low heat
 - cook for 20 minutes
-- remove from hear, stir the contents well, then cover and let sit for 10 minutes
+- remove from heat, stir the contents well, then cover and let sit for 10 minutes
 - remove the tops of the bell peppers and add to a 9x13 baking tray
 - fill with the filling, then top with pasta sauce
 - bake uncovered for 30 minutes

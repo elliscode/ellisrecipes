@@ -2,22 +2,41 @@
 
 ## Ingredients
 
+### Chicken
+
+- `1` TBSP neutral high smoke point oil (like avocado oil)
+- `1.5` lb boneless skinless chicken breast, fileted and cut into small strips against the grain
+- `1/2` tsp salt
+- `1` tsp curry powder
+
+### Gravy
+
 - `1` small onion, chopped
-- `1` TBSP butter
+- `1` TBSP neutral high smoke point oil (like avocado oil)
 - `15` oz can coconut milk
-- `226` g frozen peas
 - `15` oz can fire roasted tomatoes
 - `3` TBSP curry powder
 - `1/2` tsp salt
-- `1.5` lb boneless skinless chicken breast, fileted and cut into small strips
 
 ## Directions
+
+### Chicken
+
+- heat oil in larget pot
+- add the chicken, salt, and curry powder
+- cook until no longer pink and starting to brown
+
+### Gravy
 
 - saute onion in butter in a pot
 - add everything else to the pot except the chicken
 - bring to a boil, then lower to a simmer
-- add the chicken
-- simmer for 30 mins
+- blend with immersion blender
+
+### Curry
+
+- add cooked chicken
+- simmer for 30 minutes
 - serve with rice
 
 Servings: 4
