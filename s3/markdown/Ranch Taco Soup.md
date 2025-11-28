@@ -10,14 +10,14 @@
 - `2` (15 ounce) cans pinto beans, drained
 - `1` (15 ounce) can whole kernel corn, drained
 - `1` (15 ounce) can black beans, rinsed and drained
-- `1` (10 ounce) can diced tomatoes and green chiles (such as RO*TEL®)
+- `1` (10 ounce) can diced tomatoes and green chiles (such as RO*TEL)
 - `1` (3.8 ounce) can sliced black olives, drained
-- `2` tablespoons ranch dressing mix (such as Hidden Valley Ranch®)
+- `2` tablespoons ranch dressing mix (such as Hidden Valley Ranch)
 - `1` (1 ounce) envelope taco seasoning mix
 
 ## Directions
 
-- Combine ground beef, onion, and jalapeño in a 4-quart soup pot. Cook over medium-high heat until beef is cooked through and no longer pink, about 5 minutes.
+- Combine ground beef, onion, and jalapeno in a 4-quart soup pot. Cook over medium-high heat until beef is cooked through and no longer pink, about 5 minutes.
 - Add broth crushed tomatoes, pinto beans, corn, black beans, RO*TEL, black olives, ranch dressing, and taco seasoning. Mix to combine. Bring soup to a boil, reduce heat, and simmer for 30 minutes.
 
 Servings: 4

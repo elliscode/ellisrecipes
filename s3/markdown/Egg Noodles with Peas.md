@@ -14,7 +14,7 @@
 
 - Bring a large pot of water to a rolling boil. Add a large pinch of salt, then egg noodles. Stir well.
 - Boil noodles for 6 minutes, then add green peas.
-- Boil for another 2 – 4 minutes, until desired firmness is achieved. Drain noodles.
+- Boil for another 2 - 4 minutes, until desired firmness is achieved. Drain noodles.
 - Melt butter and mix with scallion and garlic powder.
 - Toss hot noodles with butter mixture. Add salt and pepper to taste.
 

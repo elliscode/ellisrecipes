@@ -31,8 +31,8 @@
 - bake in preheated oven for 60-65 minutes or until toothpick inserted near the center comes out clean.
 - cool 10 minutes before inverting onto a wire rack. Remove pan and cool completely before preparing the cream cheese frosting.
 ### For the Cream Cheese Frosting:
-- in the bowl of a stand mixer fitted with the paddle attachment, or in a medium bowl with an electric mixer, combine cream cheese and butter; mixing until well-combined and fluffy – about 2 minutes
-- gradually add in confectioners’ sugar. Once the confectioners’ sugar is completely incorporated, mix on medium speed for 2 minutes
+- in the bowl of a stand mixer fitted with the paddle attachment, or in a medium bowl with an electric mixer, combine cream cheese and butter; mixing until well-combined and fluffy - about 2 minutes
+- gradually add in confectioners' sugar. Once the confectioners' sugar is completely incorporated, mix on medium speed for 2 minutes
 - mix in vanilla and milk
 - if frosting appears to be too thick, slowly add in a little more milk until you reach the desired consistency. 
 - spoon over cooled cake.

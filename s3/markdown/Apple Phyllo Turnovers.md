@@ -24,7 +24,7 @@
 - Mix together the cornstarch and the remaining 2 tbsp of water. Stir into the apple mixture and continue to cook another minute until thickened.
 - Transfer the Apple Filling to a bowl, cover and chill for 15 minutes.
 ### Assemble the Apple Cinnamon Turnovers:
-- Preheat the oven to 375°F. Combine the melted butter and maple syrup. Set aside.
+- Preheat the oven to 375F. Combine the melted butter and maple syrup. Set aside.
 - Place the sheets of phyllo pastry on a flat surface and cover with a damp dish towel to  prevent from them drying out.
 - Lay one sheet of phyllo pastry on your work surface. Carefully brush with the butter and maple syrup mixture. Place another sheet of phyllo on top and brush again. Cut into 6 even strips along the long end.
 - Place one tablespoon of Apple Filling at the end of each strip. As if folding a flag, fold the bottom right corner over the filling to meet the left edge, making a triangle. Continue to make triangular folds until you reach the end of the strip. Repeat with remaining sheets of phyllo.

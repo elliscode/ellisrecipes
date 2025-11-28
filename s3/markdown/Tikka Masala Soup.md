@@ -19,13 +19,13 @@
 
 ## Directions
 
-- Heat coconut oil over med-high heat in a heavy soup pot. Sauté the onion for 4 minutes then add garlic for 3 more minutes.
+- Heat coconut oil over med-high heat in a heavy soup pot. Saute the onion for 4 minutes then add garlic for 3 more minutes.
 
-- Add cayenne pepper, garam masala, ginger, cumin, turmeric, and cinnamon. Sauté for 3 minutes longer until spices are fragrant.
+- Add cayenne pepper, garam masala, ginger, cumin, turmeric, and cinnamon. Saute for 3 minutes longer until spices are fragrant.
 
 - Add to the pot, 2 cups of chicken stock, tomatoes and coconut milk. Simmer for 30 minutes.
 
-- Using an immersion blender, or stand blender purée soup until smooth and creamy. Season with salt and add shredded chicken.
+- Using an immersion blender, or stand blender puree soup until smooth and creamy. Season with salt and add shredded chicken.
 
 Category: Meals
 

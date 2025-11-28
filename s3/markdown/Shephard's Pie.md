@@ -17,7 +17,7 @@
 - 1 cup frozen mixed peas & carrots*
 - 1/2 cup frozen corn kernels
 ### Potato Topping:
-- 1 ½ - 2 lb. russet potatoes -about 2 large potatoes peeled and cut into 1 inch cubes
+- 1 1/2 - 2 lb. russet potatoes -about 2 large potatoes peeled and cut into 1 inch cubes
 - 8 tablespoons unsalted butter -1 stick
 - 1/3 cup half & half
 - 1/2 teaspoon garlic powder
@@ -39,10 +39,10 @@
 - Add the parmesan cheese to the potatoes. Stir until well combined.
 - Assemble the casserole.
 - Pour the meat mixture into a 9x9 (or 7x11) inch baking dish. Spread it out into an even layer. Spoon the mashed potatoes on top of the meat. Carefully spread into an even layer.
-- If the baking dish looks very full, place it on a rimmed baking sheet so that the filling doesn’t bubble over into your oven. Bake uncovered for 25-30 minutes.** Cool for 15 minutes before serving.
+- If the baking dish looks very full, place it on a rimmed baking sheet so that the filling doesn't bubble over into your oven. Bake uncovered for 25-30 minutes.** Cool for 15 minutes before serving.
 ### Notes
-- *If you can’t find frozen mixed peas and carrots, you could use ½ cup frozen peas and ½ cup frozen sliced carrots.
-- **Bake at 400° F.  Start preheating the oven after you make the meat mixture (listed in step 6).
+- *If you can't find frozen mixed peas and carrots, you could use 1/2 cup frozen peas and 1/2 cup frozen sliced carrots.
+- **Bake at 400 F.  Start preheating the oven after you make the meat mixture (listed in step 6).
 
 Servings: 8
 

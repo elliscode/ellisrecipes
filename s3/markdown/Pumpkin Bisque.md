@@ -14,7 +14,7 @@
 - 2 tablespoons chives chopped, for garnish, optional
 
 ## Instructions 
-- In a dutch oven, sauté the onion in butter until tender and translucent. Add the garlic and cook another minute.
+- In a dutch oven, saute the onion in butter until tender and translucent. Add the garlic and cook another minute.
 - Stir in the broth, pumpkin, salt, nutmeg, and pepper. Bring to a boil and reduce heat to simmer uncovered for about 10 minutes. Cool slightly.
 - In a blender, process soup in batches until smooth. Return all soup to the pan. Stir in heavy cream and heat through.
 - Add shredded cheese and stir until melted.

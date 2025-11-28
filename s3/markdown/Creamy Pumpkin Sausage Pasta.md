@@ -23,7 +23,7 @@
 - 1/2 teaspoon kosher salt
 ## Instructions
 - Cook pasta according to package directions. Reserve 1/2 cup pasta water, then drain the pasta and set aside.
-- While the pasta cooks, make the sauce: Heat 1 tablespoon olive oil in a large skillet over medium heat. Add the sausage, break it up with a wooden spoon, and cook for about 5 minutes, stirring occasionally, until it’s just cooked through. Remove the sausage from the pan.
+- While the pasta cooks, make the sauce: Heat 1 tablespoon olive oil in a large skillet over medium heat. Add the sausage, break it up with a wooden spoon, and cook for about 5 minutes, stirring occasionally, until it's just cooked through. Remove the sausage from the pan.
 - In the same skillet, heat the remaining 1 tablespoon olive oil over medium heat. Add the shallots and garlic and cook for 2 minutes, stirring often, until the shallots begin to soften.
 - Add the tomato paste and cook, stirring, for 1 minute. Stir in the canned pumpkin, heavy cream, salt, pepper, nutmeg, chili flakes, and parmesan cheese. Let simmer for 2 minutes, then turn off the heat.
 - To a small skillet over medium-low, add the butter. Cook, whisking often, for about 6-7 minutes until the butter has turned golden brown. Add the chopped walnuts and sage and cook for 5 minutes until toasted. Turn off the heat.
