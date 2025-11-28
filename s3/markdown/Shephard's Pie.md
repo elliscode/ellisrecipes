@@ -1,29 +1,29 @@
 # Shephard's Pie
 ## Ingredients
 ### Meat Filling:
-- 2 tablespoons olive oil
-- 1 cup chopped yellow onion
-- 1 lb. 90% lean ground beef -or ground lamb
-- 2 teaspoons dried parsley leaves
-- 1 teaspoon dried rosemary leaves
-- 1 teaspoon dried thyme leaves
-- 1/2 teaspoon salt
-- 1/2 teaspoon ground black pepper
-- 1 tablespoon Worcestershire sauce
-- 2 garlic cloves -minced
-- 2 tablespoons all purpose flour
-- 2 tablespoons tomato paste
-- 1 cup beef broth
-- 1 cup frozen mixed peas & carrots*
-- 1/2 cup frozen corn kernels
+- `2` tablespoons olive oil
+- `1` cup chopped yellow onion
+- `1` lb. 90% lean ground beef -or ground lamb
+- `2` teaspoons dried parsley leaves
+- `1` teaspoon dried rosemary leaves
+- `1` teaspoon dried thyme leaves
+- `1/2` teaspoon salt
+- `1/2` teaspoon ground black pepper
+- `1` tablespoon Worcestershire sauce
+- `2` garlic cloves -minced
+- `2` tablespoons all purpose flour
+- `2` tablespoons tomato paste
+- `1` cup beef broth
+- `1` cup frozen mixed peas & carrots*
+- `1/2` cup frozen corn kernels
 ### Potato Topping:
-- 1 1/2 - 2 lb. russet potatoes -about 2 large potatoes peeled and cut into 1 inch cubes
-- 8 tablespoons unsalted butter -1 stick
-- 1/3 cup half & half
-- 1/2 teaspoon garlic powder
-- 1/2 teaspoon salt
-- 1/4 teaspoon ground black pepper
-- 1/4 cup parmesan cheese
+- `2` lb. russet potatoes -about 2 large potatoes peeled and cut into 1 inch cubes
+- `8` tablespoons unsalted butter -1 stick
+- `1/3` cup half & half
+- `1/2` teaspoon garlic powder
+- `1/2` teaspoon salt
+- `1/4` teaspoon ground black pepper
+- `1/4` cup parmesan cheese
 ## Instructions
 ### Make the Meat Filling.
 - Add the oil to a large skillet and place it over medium-high heat for 2 minutes. Add the onions. Cook 5 minutes, stirring occasionally.

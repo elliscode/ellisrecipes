@@ -209,7 +209,7 @@ function modifyRecipeByCallback(ev) {
 }
 function resetRecipe(ev) {
     const card = findParentWithClass(ev.target, 'card');
-    const input = card.getElementsByTagName('input')[0];
+    const input = card.querySelector(`input[originalvalue]`);
     const denominator = parseFloat(card.getAttribute('servings'));
     const numerator = denominator;
     modifyRecipe(card, numerator / denominator);
@@ -217,7 +217,7 @@ function resetRecipe(ev) {
 }
 function halveRecipe(ev) {
     const card = findParentWithClass(ev.target, 'card');
-    const input = card.getElementsByTagName('input')[0];
+    const input = card.querySelector(`input[originalvalue]`);
     let numerator = parseFloat(input.value);
     const denominator = parseFloat(card.getAttribute('servings'));
     if (isNaN(numerator)) {
@@ -229,7 +229,7 @@ function halveRecipe(ev) {
 }
 function doubleRecipe(ev) {
     const card = findParentWithClass(ev.target, 'card');
-    const input = card.getElementsByTagName('input')[0];
+    const input = card.querySelector(`input[originalvalue]`);
     let numerator = parseFloat(input.value);
     const denominator = parseFloat(card.getAttribute('servings'));
     if (isNaN(numerator)) {

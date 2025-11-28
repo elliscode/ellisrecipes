@@ -17,6 +17,7 @@
 - Add the apples to the sauce and bring to a boil, then simmer for 10 minutes
 - Cool the mixture, then add to the bottom pie crust, then place the lattice on top
 - Place pie tin directly on pizza steel and bake 15 minutes in the preheated oven. Reduce the temperature to 350F non-convection. Continue baking for 45 minutes.
+- let cool for 4 hours before serving. if you want the filling to be less runny refrigerate for 1 hour before serving.
 
 Servings: 8
 

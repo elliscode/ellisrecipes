@@ -1,17 +1,17 @@
 # Pumpkin Bisque
 
 ## Ingredients
-- 2 tablespoons butter
-- 1 medium onion chopped
-- 3 garlic cloves minced
-- 3 cups chicken broth
-- 2 14-ounce cans solid-pack pumpkin
-- 1/2 teaspoon salt
+- `2` tablespoons butter
+- `1` medium onion chopped
+- `3` garlic cloves minced
+- `3` cups chicken broth
+- `2` 14-ounce cans solid-pack pumpkin
+- `1/2` teaspoon salt
 - Pinch ground nutmeg
 - Pinch black pepper
-- 1 cup heavy cream
-- 1 cup shredded cheese Gouda, white cheddar, or gruyere
-- 2 tablespoons chives chopped, for garnish, optional
+- `1` cup heavy cream
+- `1` cup shredded cheese Gouda, white cheddar, or gruyere
+- `2` tablespoons chives chopped, for garnish, optional
 
 ## Instructions 
 - In a dutch oven, saute the onion in butter until tender and translucent. Add the garlic and cook another minute.

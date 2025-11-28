@@ -1,13 +1,13 @@
 # Bangers and Mash
 ## Ingredients
-- 1/2 tbsp oil
-- 8 sausages of choice (Note 1)
-- 1 large onion , halved and finely sliced (yellow, white or brown) (Note 2)
-- 2 garlic cloves , minced
-- 3 tbsp flour (plain)
-- 2 cups beef stock/broth , low sodium, store bought or homemade (Note 3)
-- 1/4 tsp salt
-- 1/2 tsp black pepper
+- `1/2` tbsp oil
+- `8` sausages of choice (Note 1)
+- `1` large onion , halved and finely sliced (yellow, white or brown) (Note 2)
+- `2` garlic cloves , minced
+- `3` tbsp flour (plain)
+- `2` cups beef stock/broth, low sodium, store bought or homemade (Note 3)
+- `1/4` tsp salt
+- `1/2` tsp black pepper
 ### To Serve
 - Mashed potato
 - Peas

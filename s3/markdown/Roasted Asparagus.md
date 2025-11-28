@@ -2,13 +2,13 @@
 
 ## Ingredients
 
-- 1 large bunch (about 1 pound) fresh asparagus
-- 2 tsp olive oil
-- 1/4 tsp salt, to taste
+- `1` large bunch (about `1` pound) fresh asparagus
+- `2` tsp olive oil
+- `1/4` tsp salt, to taste
 - Freshly ground black pepper, to taste
-- 1/2 lemons juice
-- 1/2 lemons wedges
-- 1 TBSP parmesan cheese
+- `1/2` lemons juice
+- `1/2` lemons wedges
+- `1` TBSP parmesan cheese
 
 ## Directions
 

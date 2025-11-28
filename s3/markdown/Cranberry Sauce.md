@@ -2,9 +2,9 @@
 
 ## Ingredients
 
-- 12 oz cranberries, washed and rinsed
-- 200 g white sugar
-- 1 cup orange juice
+- `12` oz cranberries, washed and rinsed
+- `200` g white sugar
+- `1` cup orange juice
 
 ## Directions
 

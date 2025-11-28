@@ -4,28 +4,28 @@
 
 ### Sweet Potatoes
 
-- 3-4 medium sweet potatoes, peeled + cut into thick cubes
-- 3 tbsp olive oil
-- 1 tsp smoked paprika
-- 1 tsp garlic powder
-- 1 tsp kosher salt
-- 1/2 tsp black pepper
-- 1/2 tsp chili flakes (optional)
+- `3` or `4`  medium sweet potatoes, peeled + cut into thick cubes
+- `3` tbsp olive oil
+- `1` tsp smoked paprika
+- `1/4` tsp garlic powder
+- `1` tsp kosher salt
+- `1/2` tsp black pepper
+- `1/2` tsp chili flakes (optional)
 
 ### Hot Honey Brown Butter
 
-- 4 tbsp unsalted butter
-- 11/2 tbsp honey (or maple syrup)
-- 1-2 tsp hot sauce OR pinch of cayenne
-- 1/2 tsp apple cider vinegar (key!)
+- `4` tbsp unsalted butter
+- `1.5` tbsp honey (or maple syrup)
+- `1` tsp hot sauce OR pinch of cayenne
+- `1/2` tsp apple cider vinegar (key!)
 
 ### Garlic Herb Crunch
 
-- 2 tbsp butter OR olive oil
-- 3-4 garlic cloves, finely minced
-- 1/3 cup panko breadcrumbs
-- 1 tbsp chopped rosemary
-- 1 tbsp chopped thyme
+- `2` tbsp butter OR olive oil
+- `1/4` tsp garlic powder
+- `1/3` cup panko breadcrumbs
+- `1` tbsp chopped rosemary
+- `1` tbsp chopped thyme
 - Pinch of salt
 
 ## Steps
@@ -61,6 +61,4 @@ Servings: 6
 
 Category: Sides
 
-Link: https://www.lifeisbutadish.com/easy-spinach-pesto/
-
-Tags: Vegetarian, Thanksgiving
+Tags: Vegetarian, Thanksgiving, ChatGPT

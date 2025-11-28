@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-- `37.5` g gluten free flour
+- `40` g flour (use king arthur glutenn free for gluten free option)
 - `200` g white sugar
 - `240` g cup milk
 - `2` sticks unsalted butter
@@ -66,6 +66,10 @@
 - `36` g coconut milk powder
 - shaved sweetened coconut, roll each assembled macaron in it
 
+### Espresso
+
+- add `2` tsp cafe bustelo instant espresso when heating milk
+
 ## Instructions
 
 ### Thickening Roux:
@@ -73,7 +77,7 @@
 - Place flour and sugar in a large saucepan over medium heat. Cook, stirring constantly, for 30 seconds.
 - While whisking constantly, slowly pour the milk in.
 - As the milk gets hotter, it will start to thicken - stir constantly so the base doesn't catch.
-- Cook until the mixture thickens in a thick, dolloping custard - see video for texture. TIP: Thicker texture = thicker frosting texture but won't make the frosting dense, it's still fluffy and spreadable but it just makes it "sturdier" with sharper edges when piped.
+- Cook until the mixture thickens in a thick, dolloping custard
 - Remove from heat and scrape into a bowl. Cover with cling wrap, pressing down onto the surface to prevent a skin from forming.
 - Cool completely. You can leave in fridge overnight but take it out 1 hour prior to using.
 

@@ -64,7 +64,7 @@ def lambda_handler(event, context):
     <meta name="author" content="elliscode.com">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/png" href="img/favicon.png">
-    <link rel="stylesheet" href="css/stylesheet.css?v=002">
+    <link rel="stylesheet" href="css/stylesheet.css?v=003">
     <link rel="stylesheet" href="css/loader.css?v=002">
     <link rel="stylesheet" href="css/responsive.css?v=002">
     <noscript>
@@ -94,7 +94,7 @@ def lambda_handler(event, context):
     <div id="info">
         <p>text copied</p>
     </div>
-    <script src="js/ellisrecipes.js?v=005"></script>
+    <script src="js/ellisrecipes.js?v=006"></script>
     <script src="js/arrow-navigation.js?v=004"></script>
 </body>
 </html>''')

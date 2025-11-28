@@ -4,7 +4,7 @@
 
 
 ### Chicken
-- 1.5 lbs chicken breasts
+- `1.5` lbs chicken breasts
 - olive oil
 - salt
 - pepper
