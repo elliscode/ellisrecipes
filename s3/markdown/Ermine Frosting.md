@@ -43,11 +43,6 @@
 - `320` g prosecco, reduced on low heat
 - `30` g prosecco after reduction
 
-### Peach Frosting Option
-
-- `200` g frozen peaches, thawed and blended with milk
-- `240` g should be total weight after you simmer the milk and fruit mixture
-
 ### Candied Pecan / Walnut Frosting Option
 
 - replace white sugar with brown sugar
@@ -64,11 +59,24 @@
 ### Coconut
 
 - `36` g coconut milk powder
-- shaved sweetened coconut, roll each assembled macaron in it
 
 ### Espresso
 
 - add `2` tsp cafe bustelo instant espresso when heating milk
+
+### Raspberry
+
+- `20` g freeze dried raspberry
+
+### Freeze dried fruit
+
+- `40`g freeze dried fruit
+
+### Ube
+
+- `2` TBSP ube powder
+
+### 
 
 ## Instructions
 
