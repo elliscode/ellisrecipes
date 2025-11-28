@@ -8,7 +8,6 @@
 - `1` TBSP peanut butter
 - `1` tsp maple syrup
 - `1/2` tsp vanilla extract
-- `1/8` tsp salt
 
 ## Directions
 
