@@ -25,5 +25,5 @@ Category: Sides
 
 Link: https://www.foodnetwork.com/recipes/food-network-kitchen/lemon-orzo-recipe-2106041
 
-Tags: Greek, Italian, Vegan
+Tags: Greek, Italian, Vegan, Christmas
 

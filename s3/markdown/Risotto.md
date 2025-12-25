@@ -25,5 +25,5 @@ Category: Sides
 
 Link: https://www.foodnetwork.com/recipes/ellie-krieger/garden-risotto-recipe-1957621
 
-Tags: Italian, Vegetarian
+Tags: Italian, Vegetarian, Christmas
 

@@ -29,5 +29,5 @@ Category: Meals
 
 Link: https://www.allrecipes.com/recipe/229369/baked-eggplant-parmesan/
 
-Tags: Italian, Vegetarian
+Tags: Italian, Vegetarian, Christmas
 

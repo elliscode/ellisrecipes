@@ -27,5 +27,5 @@ Category: Bread
 
 Link: https://alexandracooks.com/2018/03/02/overnight-refrigerator-focaccia-best-focaccia/
 
-Tags: Italian, Vegan
+Tags: Italian, Vegan, Christmas
 

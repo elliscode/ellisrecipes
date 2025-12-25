@@ -24,4 +24,4 @@ Category: Ingredients
 
 Servings: 16
 
-Tags: Vegan
+Tags: Vegan, Christmas

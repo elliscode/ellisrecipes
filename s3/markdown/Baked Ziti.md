@@ -37,4 +37,4 @@ Category: Meals
 
 Servings: 12
 
-Tags: Italian, Meat
+Tags: Italian, Meat, Christmas

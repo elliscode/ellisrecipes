@@ -26,5 +26,5 @@ Category: Meals
 
 Link: https://www.nourish-and-fete.com/tuscan-white-bean-skillet/
 
-Tags: Italian, Vegan
+Tags: Italian, Vegan, Christmas
 
