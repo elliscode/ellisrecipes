@@ -1,19 +1,26 @@
 # Lemon Pan Sauce
 
-## Ingredients:
-- `1` tbsp of butter + `3` tbsp sepearted
+**Ingredients**
+
+- `1` tbsp butter
 - `1` shallot, minced
-- `6` garlic cloves, minced
-- `1` cup chicken stock
-- `1/2` lemon, juiced
-- `1` tsp dried parsley
-- `1/2` tsp salt
+- `1/4` tsp garlic powder
+- `1/2` cup dry white wine
+- `1` cup low-sodium chicken or turkey stock
+- `1` Tbsp lemon juice (to taste)
+- `3` tbsp cold butter
+- Pinch black pepper
+- Salt, only if needed
 
-## Directions
+**Directions**
 
-- In the same pan you cooked your protein in over medium heat, add 1 tablespoon of butter and melt. Add your shallots, season with salt, and using a wooden spatula saute until translucent, around 2 minutes. Add the minced garlic and saute another minute.
-- Add the chicken stock and bring it up to a simmer. Scrape up any brown bits on the bottom of the pan with the spatula. Reduce until nappe, thick enough to coat the back of a spoon. Season with salt and add a squeeze of lemon juice.
-- Reduce the heat to low and add the remainder of the butter in, stirring it in with your wooden spatula. As you incorporate the butter, it should thicken the sauce and become creamy. Taste for seasoning and adjust accordingly.
+- Pour off excess fat from the turkey pan, leaving the fond.
+- Over medium heat, melt 1 tbsp butter. Add shallot and cook until translucent, ~2 minutes.
+- Sprinkle in garlic powder and stir for ~20 seconds.
+- Add white wine, scrape up fond, and reduce until syrupy.
+- Add stock and simmer until lightly nappe.
+- Lower heat and whisk in cold butter, one piece at a time.
+- Remove from heat. Stir in lemon juice and black pepper. Taste and adjust salt only if needed.
 
 Servings: 6
 
