@@ -9,7 +9,7 @@
 - `1/2` tsp garlic powder
 - `2` TBSP fresh ginger, minced
 - `1` TBSP ground coriander
-- `1` tsp chili powder
+- `1` tsp kashmiri chili powder
 - `1` tsp ground turmeric
 - `28` oz pureed or finely diced tomatoes
 - `30` oz chickpeas, drained
@@ -26,7 +26,7 @@
 - Bring to a boil, then reduce to a simmer for 20 minutes
 - Remove from heat and add amchoor powder and garam masala. Stir to mix, then let cool slightly before serving.
 
-Servings: 2
+Servings: 4
 
 Category: Meals
 
