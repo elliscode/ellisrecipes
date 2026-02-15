@@ -41,9 +41,12 @@
 
 ## Pie
 
+- preheat the oven to 400F
 - Add the filling ot a 9x9 baking dish
 - use a spatula to get it evenly spread with no misisng pieces at the corner
-- you can use a piping bag with an open star piping tip, or just crumble ontop and smooth with a spatula
+- you can use a piping bag with a wilton 4B piping tip to pipe the potatoes on top, or just crumble ontop with your fingers and smooth with a spatula
+- once the potatoes are present, sprinke some parmesan cheese on top of the potatoes
+- bake for 25 minutes, or until potatoes brown to your liking
 
 
 Link: https://www.thewholesomedish.com/the-best-classic-shepherds-pie/
