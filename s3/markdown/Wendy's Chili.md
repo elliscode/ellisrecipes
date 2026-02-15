@@ -36,7 +36,7 @@
 
 Servings: 5
 
-Category: Meals
+Category: Soups
 
 Link: https://copykat.com/wprm_print/24690
 
