@@ -15,3 +15,12 @@
 - Heat oven to 425 degrees. In a large bowl, combine all of the ingredients and use your hands to gently mix.
 - Shape the meat into 12 golf-ball-size rounds (about 2 inches in diameter), and arrange on a greased rimmed baking sheet.
 - Bake until golden and cooked through, about 15 minutes. Serve warm.
+- Optional: Make "Korean BBQ Sauce" recipe and serve
+
+Link: https://cooking.nytimes.com/recipes/1019763-korean-bbq-style-meatballs
+
+Tags: Korean
+
+Servings: 3
+
+Category: Meals
